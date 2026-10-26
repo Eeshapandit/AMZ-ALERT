@@ -1,0 +1,219 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Amazon Jobs Watch</title>
+<style>
+  :root {
+    --bg: #f6f5f2; --card: #ffffff; --ink: #1c1c1a; --muted: #6b6a64;
+    --line: #e4e2dc; --accent: #e47911; --accent-ink: #ffffff;
+    --new: #0a7d4f; --new-bg: #e3f4ec; --chip: #efede8;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #141413; --card: #1e1e1c; --ink: #ecebe6; --muted: #9b9a93;
+      --line: #2e2e2b; --accent: #ff9a2e; --accent-ink: #141413;
+      --new: #4fd39b; --new-bg: #173226; --chip: #2a2a27;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--ink);
+    font: 15px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, sans-serif;
+  }
+  .wrap { max-width: 920px; margin: 0 auto; padding: 28px 16px 60px; }
+  header { display: flex; flex-wrap: wrap; align-items: baseline; gap: 8px 16px; margin-bottom: 18px; }
+  h1 { font-size: 22px; margin: 0; letter-spacing: -0.01em; }
+  h1 span { color: var(--accent); }
+  .meta { color: var(--muted); font-size: 13px; }
+  .stats { display: grid; grid-template-columns: repeat(4, minmax(0, 140px)); gap: 10px; margin: 0 0 16px; }
+  .stat { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px; }
+  .stat b { display: block; font-size: 20px; }
+  .stat small { color: var(--muted); }
+  .controls { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; align-items: center; }
+  input[type=search] {
+    flex: 1 1 220px; padding: 9px 12px; border-radius: 8px; border: 1px solid var(--line);
+    background: var(--card); color: var(--ink); font: inherit;
+  }
+  .chip {
+    border: 1px solid var(--line); background: var(--chip); color: var(--ink);
+    padding: 7px 12px; border-radius: 999px; font: inherit; font-size: 13px; cursor: pointer;
+  }
+  .chip.on { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+  .list { display: flex; flex-direction: column; gap: 8px; }
+  .job {
+    background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+    padding: 12px 14px; display: grid; grid-template-columns: 1fr auto; gap: 4px 12px; align-items: start;
+  }
+  .job.applied { opacity: 0.5; }
+  .job a.title { color: var(--ink); font-weight: 600; text-decoration: none; }
+  .job a.title:hover { color: var(--accent); }
+  .sub { color: var(--muted); font-size: 13px; display: flex; flex-wrap: wrap; gap: 4px 12px; }
+  .badge { font-size: 11px; font-weight: 700; color: var(--new); background: var(--new-bg); padding: 2px 7px; border-radius: 6px; margin-left: 6px; vertical-align: 2px; }
+  .side { text-align: right; display: flex; flex-direction: column; gap: 6px; align-items: flex-end; }
+  .ago { font-size: 12px; color: var(--muted); white-space: nowrap; }
+  label.applied-toggle { font-size: 12px; color: var(--muted); display: flex; gap: 5px; align-items: center; cursor: pointer; }
+  .empty { text-align: center; color: var(--muted); padding: 40px 10px; border: 1px dashed var(--line); border-radius: 10px; }
+  @media (max-width: 560px) {
+    .stats { grid-template-columns: repeat(4, 1fr); gap: 6px; }
+    .stat { padding: 8px 10px; }
+    .stat b { font-size: 17px; }
+    .stat small { font-size: 11px; }
+    .job { grid-template-columns: 1fr; }
+    .side { flex-direction: row; justify-content: space-between; align-items: center; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Amazon <span>Jobs Watch</span></h1>
+    <div class="meta" id="meta">Loading…</div>
+  </header>
+
+  <div class="stats">
+    <div class="stat"><b id="sNew">0</b><small>new in 24h</small></div>
+    <div class="stat"><b id="sWeek">0</b><small>new in 7 days</small></div>
+    <div class="stat"><b id="sTotal">0</b><small>tracked</small></div>
+    <div class="stat"><b id="sApplied">0</b><small>applied</small></div>
+  </div>
+
+  <div class="controls">
+    <input type="search" id="q" placeholder="Search title, team, location">
+    <button class="chip on" data-loc="">All</button>
+    <button class="chip" data-loc="ny">NYC</button>
+    <button class="chip" data-loc="nj">NJ</button>
+    <button class="chip" data-loc="seattle">Seattle</button>
+    <button class="chip" data-loc="remote">Remote</button>
+    <button class="chip" id="newOnly">New only</button>
+    <button class="chip" id="hideApplied">Hide applied</button>
+  </div>
+
+  <div class="list" id="list"></div>
+</div>
+
+<script>
+(function () {
+  // Where to load jobs.json from. On GitHub Pages it reads straight from the repo
+  // so it updates as soon as the bot commits. Override with ?src=URL if needed.
+  function dataUrl() {
+    var p = new URLSearchParams(location.search).get("src");
+    if (p) return p;
+    var h = location.hostname;
+    if (h.endsWith(".github.io")) {
+      var owner = h.split(".")[0];
+      var repo = location.pathname.split("/").filter(Boolean)[0];
+      if (repo) return "https://raw.githubusercontent.com/" + owner + "/" + repo + "/main/jobs.json";
+    }
+    return "jobs.json";
+  }
+
+  var store = {
+    get: function (k, d) { try { var v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch (e) { return d; } },
+    set: function (k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
+  };
+
+  var state = { jobs: [], updated: null, loc: "", newOnly: false, hideApplied: false, q: "" };
+  var applied = store.get("applied", {});
+  var DAY = 864e5;
+
+  function esc(s) {
+    return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+  }
+
+  function ago(iso) {
+    var d = (Date.now() - new Date(iso).getTime()) / 1000;
+    if (isNaN(d)) return "";
+    if (d < 60) return "just now";
+    if (d < 3600) return Math.floor(d / 60) + " min ago";
+    if (d < 86400) return Math.floor(d / 3600) + " hr ago";
+    return Math.floor(d / 86400) + " d ago";
+  }
+
+  function isNew(j, ms) { return !j.seeded && Date.now() - new Date(j.first_seen).getTime() < ms; }
+
+  function locMatch(j, key) {
+    if (!key) return true;
+    var l = (" " + (j.location || "") + " ").toLowerCase();
+    if (key === "ny") return /new york|, ny\b| ny,/.test(l);
+    if (key === "nj") return /new jersey|, nj\b| nj,|jersey city|newark|hoboken/.test(l);
+    if (key === "seattle") return /seattle|bellevue|redmond|, wa\b| wa,/.test(l);
+    if (key === "remote") return /remote|virtual/.test(l);
+    return true;
+  }
+
+  function render() {
+    var q = state.q.toLowerCase();
+    var rows = state.jobs.filter(function (j) {
+      if (!locMatch(j, state.loc)) return false;
+      if (state.newOnly && !isNew(j, DAY)) return false;
+      if (state.hideApplied && applied[j.id]) return false;
+      if (q && (j.title + " " + j.team + " " + j.location).toLowerCase().indexOf(q) < 0) return false;
+      return true;
+    });
+
+    document.getElementById("sNew").textContent = state.jobs.filter(function (j) { return isNew(j, DAY); }).length;
+    document.getElementById("sWeek").textContent = state.jobs.filter(function (j) { return isNew(j, 7 * DAY); }).length;
+    document.getElementById("sTotal").textContent = state.jobs.length;
+    document.getElementById("sApplied").textContent = Object.keys(applied).length;
+
+    var list = document.getElementById("list");
+    if (!rows.length) {
+      list.innerHTML = '<div class="empty">' + (state.jobs.length ? "No jobs match these filters." : "No jobs yet. Run the workflow once to seed the feed.") + "</div>";
+      return;
+    }
+    list.innerHTML = rows.map(function (j) {
+      var sub = [j.location, j.team, j.posted_date ? "Posted " + j.posted_date : ""].filter(Boolean)
+        .map(function (s) { return "<span>" + esc(s) + "</span>"; }).join("");
+      return '<div class="job' + (applied[j.id] ? " applied" : "") + '">' +
+        '<div><a class="title" href="' + esc(j.link) + '" target="_blank" rel="noopener">' + esc(j.title) + "</a>" +
+        (isNew(j, DAY) ? '<span class="badge">NEW</span>' : "") +
+        '<div class="sub">' + sub + "</div></div>" +
+        '<div class="side"><span class="ago">' + (j.seeded ? "already open" : "seen " + ago(j.first_seen)) + "</span>" +
+        '<label class="applied-toggle"><input type="checkbox" data-id="' + esc(j.id) + '"' + (applied[j.id] ? " checked" : "") + "> applied</label></div>" +
+        "</div>";
+    }).join("");
+  }
+
+  function load() {
+    var url = dataUrl();
+    fetch(url + (url.indexOf("?") < 0 ? "?" : "&") + "t=" + Date.now(), { cache: "no-store" })
+      .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function (d) {
+        state.jobs = d.jobs || [];
+        state.updated = d.updated;
+        document.getElementById("meta").textContent =
+          "Last new job " + (d.updated ? ago(d.updated) : "never") + " · refreshes every 2 min";
+        render();
+      })
+      .catch(function () {
+        document.getElementById("meta").textContent = "Could not load jobs.json yet";
+        render();
+      });
+  }
+
+  document.querySelectorAll("[data-loc]").forEach(function (b) {
+    b.onclick = function () {
+      document.querySelectorAll("[data-loc]").forEach(function (x) { x.classList.remove("on"); });
+      b.classList.add("on"); state.loc = b.dataset.loc; render();
+    };
+  });
+  document.getElementById("newOnly").onclick = function () { state.newOnly = !state.newOnly; this.classList.toggle("on"); render(); };
+  document.getElementById("hideApplied").onclick = function () { state.hideApplied = !state.hideApplied; this.classList.toggle("on"); render(); };
+  document.getElementById("q").oninput = function () { state.q = this.value; render(); };
+  document.getElementById("list").addEventListener("change", function (e) {
+    var id = e.target.dataset && e.target.dataset.id;
+    if (!id) return;
+    if (e.target.checked) applied[id] = Date.now(); else delete applied[id];
+    store.set("applied", applied); render();
+  });
+
+  load();
+  setInterval(load, 120000);
+})();
+</script>
+</body>
+</html>

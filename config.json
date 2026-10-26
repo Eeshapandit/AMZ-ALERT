@@ -1,0 +1,16 @@
+{
+  "queries": [
+    "data",
+    "data engineer",
+    "data scientist",
+    "data analyst",
+    "analytics",
+    "business intelligence",
+    "machine learning",
+    "AI engineer",
+    "applied scientist"
+  ],
+  "countries": ["USA"],
+  "locations": [],
+  "exclude_title": []
+}

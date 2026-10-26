@@ -1,0 +1,36 @@
+name: amazon-job-watch
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check for new jobs
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python watch.py
+      - name: Save seen jobs
+        run: |
+          if [ -n "$(git status --porcelain seen.json jobs.json)" ]; then
+            git config user.name "job-bot"
+            git config user.email "job-bot@users.noreply.github.com"
+            git add seen.json jobs.json
+            git commit -m "update seen jobs"
+            git push
+          fi
