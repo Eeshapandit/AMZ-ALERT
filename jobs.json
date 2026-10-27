@@ -1,6 +1,160 @@
 {
- "updated": "2026-10-27T08:18:17+00:00",
+ "updated": "2026-10-27T14:44:06+00:00",
  "jobs": [
+  {
+   "id": "10589717",
+   "title": "Principal Product Marketing Manager, Ads Marketing",
+   "location": "New York, New York, USA",
+   "team": "advertising",
+   "posted_date": "October 27, 2026",
+   "link": "https://www.amazon.jobs/en/jobs/10589717/principal-product-marketing-manager-ads-marketing",
+   "query": "data",
+   "first_seen": "2026-10-27T14:44:06+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10589802",
+   "title": "SDE II, ML Infra Services, Annapurna Labs",
+   "location": "Seattle, Washington, USA",
+   "team": "annapurna",
+   "posted_date": "October 27, 2026",
+   "link": "https://www.amazon.jobs/en/jobs/10589802/sde-ii-ml-infra-services-annapurna-labs",
+   "query": "data",
+   "first_seen": "2026-10-27T14:44:06+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10589748",
+   "title": "Sr Strategy & Business Development, AWS FSI",
+   "location": "New York, New York, USA",
+   "team": "business-and-corporate-development",
+   "posted_date": "October 27, 2026",
+   "link": "https://www.amazon.jobs/en/jobs/10589748/sr-strategy-business-development-aws-fsi",
+   "query": "data",
+   "first_seen": "2026-10-27T14:44:06+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10589678",
+   "title": "Data Center Manager - Nights, DCO",
+   "location": "Frederick, Maryland, USA",
+   "team": "aws",
+   "posted_date": "October 27, 2026",
+   "link": "https://www.amazon.jobs/en/jobs/10589678/data-center-manager-nights-dco",
+   "query": "data",
+   "first_seen": "2026-10-27T14:44:06+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10589711",
+   "title": "Sr. Product Manager, Tech, Prime Video Global App Experience ",
+   "location": "Seattle, Washington, USA",
+   "team": "entertainment",
+   "posted_date": "October 27, 2026",
+   "link": "https://www.amazon.jobs/en/jobs/10589711/sr-product-manager-tech-prime-video-global-app-experience",
+   "query": "data",
+   "first_seen": "2026-10-27T14:44:06+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10589762",
+   "title": "Systems Engineer, Controls Fleet, DC Capacity Delivery",
+   "location": "Herndon, Virginia, USA",
+   "team": "aws",
+   "posted_date": "October 27, 2026",
+   "link": "https://www.amazon.jobs/en/jobs/10589762/systems-engineer-controls-fleet-dc-capacity-delivery",
+   "query": "data",
+   "first_seen": "2026-10-27T14:44:06+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10588621",
+   "title": "Sr Embedded SDE III, Hardware Engineering Services",
+   "location": "Austin, Texas, USA",
+   "team": "aws",
+   "posted_date": "October 27, 2026",
+   "link": "https://www.amazon.jobs/en/jobs/10588621/sr-embedded-sde-iii-hardware-engineering-services",
+   "query": "data",
+   "first_seen": "2026-10-27T14:44:06+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10589758",
+   "title": "Quality Control Engineer, AWS Integrated Project Quality (IPQ)",
+   "location": "Dublin, Ohio, USA",
+   "team": "aws",
+   "posted_date": "October 27, 2026",
+   "link": "https://www.amazon.jobs/en/jobs/10589758/quality-control-engineer-aws-integrated-project-quality-ipq",
+   "query": "data",
+   "first_seen": "2026-10-27T14:44:06+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10589726",
+   "title": "Infra-Delivery Install Technician, Infrastructure Delivery",
+   "location": "Lithia Springs, Georgia, USA",
+   "team": "aws",
+   "posted_date": "October 27, 2026",
+   "link": "https://www.amazon.jobs/en/jobs/10589726/infra-delivery-install-technician-infrastructure-delivery",
+   "query": "data",
+   "first_seen": "2026-10-27T14:44:06+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10589760",
+   "title": "Commissioning Engineer, AWS Commissioning, AMER-West",
+   "location": "Avondale, Arizona, USA",
+   "team": "aws",
+   "posted_date": "October 27, 2026",
+   "link": "https://www.amazon.jobs/en/jobs/10589760/commissioning-engineer-aws-commissioning-amer-west",
+   "query": "data engineer",
+   "first_seen": "2026-10-27T14:44:06+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10589844",
+   "title": "Software Development Manager, AWS Vulnerability Management - Automated Remediation, AWS Vulnerability Management",
+   "location": "Arlington, Virginia, USA",
+   "team": "amazon-security",
+   "posted_date": "October 27, 2026",
+   "link": "https://www.amazon.jobs/en/jobs/10589844/software-development-manager-aws-vulnerability-management-automated-remediation-aws-vulnerability-management",
+   "query": "analytics",
+   "first_seen": "2026-10-27T14:44:06+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10587146",
+   "title": "Sr. AI/ML Specialist Solutions Architect, AGS-WWSO NAMER Specialist Solutions Architects",
+   "location": "San Francisco, California, USA",
+   "team": "aws",
+   "posted_date": "October 27, 2026",
+   "link": "https://www.amazon.jobs/en/jobs/10587146/sr-ai-ml-specialist-solutions-architect-ags-wwso-namer-specialist-solutions-architects",
+   "query": "analytics",
+   "first_seen": "2026-10-27T14:44:06+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10589769",
+   "title": "Sr. Prototyping Solutions Architect, AWS Specialists and Partner Prototyping Team",
+   "location": "Santa Clara, California, USA",
+   "team": "aws",
+   "posted_date": "October 27, 2026",
+   "link": "https://www.amazon.jobs/en/jobs/10589769/sr-prototyping-solutions-architect-aws-specialists-and-partner-prototyping-team",
+   "query": "analytics",
+   "first_seen": "2026-10-27T14:44:06+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10581617",
+   "title": "Business Intel Engineer III, re:Cycle Reverse Logistics",
+   "location": "Nashville, Tennessee, USA",
+   "team": "no-business-category",
+   "posted_date": "October 16, 2026",
+   "link": "https://www.amazon.jobs/en/jobs/10581617/business-intel-engineer-iii-re-cycle-reverse-logistics",
+   "query": "business intelligence",
+   "first_seen": "2026-10-27T14:44:06+00:00",
+   "seeded": false
+  },
   {
    "id": "10589544",
    "title": "Staff Pharmacist , Amazon Pharmacy",
