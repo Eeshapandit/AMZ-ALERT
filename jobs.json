@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-27T02:21:53+00:00",
+ "updated": "2026-10-27T08:18:17+00:00",
  "jobs": [
+  {
+   "id": "10589544",
+   "title": "Staff Pharmacist , Amazon Pharmacy",
+   "location": "New Orleans, Louisiana, USA",
+   "team": "healthcare",
+   "posted_date": "October 27, 2026",
+   "link": "https://www.amazon.jobs/en/jobs/10589544/staff-pharmacist-amazon-pharmacy",
+   "query": "data",
+   "first_seen": "2026-10-27T08:18:17+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10589546",
+   "title": "Data Center Logistics Specialist, DCC Communities",
+   "location": "New Carlisle, Indiana, USA",
+   "team": "aws",
+   "posted_date": "October 27, 2026",
+   "link": "https://www.amazon.jobs/en/jobs/10589546/data-center-logistics-specialist-dcc-communities",
+   "query": "data",
+   "first_seen": "2026-10-27T08:18:17+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10589547",
+   "title": "Sr Solutions Architect, M&E, AGS TMEGS",
+   "location": "Santa Monica, California, USA",
+   "team": "aws",
+   "posted_date": "October 27, 2026",
+   "link": "https://www.amazon.jobs/en/jobs/10589547/sr-solutions-architect-m-e-ags-tmegs",
+   "query": "data",
+   "first_seen": "2026-10-27T08:18:17+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10589563",
+   "title": "Sr. Manager Enterprise Support , ES-NAMER-ISV",
+   "location": "Austin, Texas, USA",
+   "team": "aws",
+   "posted_date": "October 27, 2026",
+   "link": "https://www.amazon.jobs/en/jobs/10589563/sr-manager-enterprise-support-es-namer-isv",
+   "query": "analytics",
+   "first_seen": "2026-10-27T08:18:17+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10589591",
+   "title": "Senior Solutions Architect, Automotive & Manufacturing, AGS Automotive & Manufacturing",
+   "location": "Denver, Colorado, USA",
+   "team": "aws",
+   "posted_date": "October 27, 2026",
+   "link": "https://www.amazon.jobs/en/jobs/10589591/senior-solutions-architect-automotive-manufacturing-ags-automotive-manufacturing",
+   "query": "analytics",
+   "first_seen": "2026-10-27T08:18:17+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10584176",
+   "title": "Software Development Engineer, AWS Agentic AI",
+   "location": "Bellevue, Washington, USA",
+   "team": "aws",
+   "posted_date": "October 27, 2026",
+   "link": "https://www.amazon.jobs/en/jobs/10584176/software-development-engineer-aws-agentic-ai",
+   "query": "machine learning",
+   "first_seen": "2026-10-27T08:18:17+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10584164",
+   "title": "Software Development Engineer , AWS Agentic AI Foundations",
+   "location": "Bellevue, Washington, USA",
+   "team": "aws",
+   "posted_date": "October 27, 2026",
+   "link": "https://www.amazon.jobs/en/jobs/10584164/software-development-engineer-aws-agentic-ai-foundations",
+   "query": "machine learning",
+   "first_seen": "2026-10-27T08:18:17+00:00",
+   "seeded": false
+  },
   {
    "id": "10589524",
    "title": "Staff Pharmacist , Amazon Pharmacy",
