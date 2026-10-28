@@ -1,0 +1,606 @@
+{
+ "errors": {
+  "ashby:anysphere": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:census": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:chainguard": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:clay": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:cribl": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:dagster": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:giga": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:glean": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:hebbia": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:hippocraticai": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:luma": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:metabase": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:palantir": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:planetscale": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:retool": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:rippling": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:scale": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:sigmacomputing": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:skild": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:snorkelai": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:tecton": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:whatnot": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:amplitude": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:anyscale": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:aurorainnovation": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:bloomberg": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:characterai": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:citadel": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:clickhouse": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:compass": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:datavant": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:dbtlabsinc": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:etsy": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:grammarly": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:headway": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:hightouch": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:hinge": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:hudsonrivertrading": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:nerdwallet": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:nytimes": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:postman": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:runwayml": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:sentry": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:spotify": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:springhealth": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:temporaltechnologies": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:tempus": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:thumbtack": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:twosigma": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:unity3d": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:warbyparker": "HTTPError: HTTP Error 404: Not Found",
+  "lever:anduril": "HTTPError: HTTP Error 404: Not Found",
+  "lever:atlassian": "HTTPError: HTTP Error 404: Not Found",
+  "lever:attentive": "HTTPError: HTTP Error 404: Not Found",
+  "lever:eventbrite": "HTTPError: HTTP Error 404: Not Found",
+  "lever:netflix": "HTTPError: HTTP Error 404: Not Found",
+  "lever:plaid": "HTTPError: HTTP Error 404: Not Found",
+  "lever:sardine": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ok": {
+  "amazon:amazon": {
+   "matching": 38,
+   "open": 168
+  },
+  "ashby:abridge": {
+   "matching": 1,
+   "open": 38
+  },
+  "ashby:airbyte": {
+   "matching": 0,
+   "open": 13
+  },
+  "ashby:ambiencehealthcare": {
+   "matching": 0,
+   "open": 19
+  },
+  "ashby:astronomer": {
+   "matching": 0,
+   "open": 19
+  },
+  "ashby:baseten": {
+   "matching": 4,
+   "open": 105
+  },
+  "ashby:benchling": {
+   "matching": 1,
+   "open": 58
+  },
+  "ashby:cognition": {
+   "matching": 3,
+   "open": 107
+  },
+  "ashby:cohere": {
+   "matching": 3,
+   "open": 118
+  },
+  "ashby:confluent": {
+   "matching": 0,
+   "open": 0
+  },
+  "ashby:cursor": {
+   "matching": 5,
+   "open": 123
+  },
+  "ashby:decagon": {
+   "matching": 0,
+   "open": 132
+  },
+  "ashby:deel": {
+   "matching": 0,
+   "open": 0
+  },
+  "ashby:distyl": {
+   "matching": 0,
+   "open": 26
+  },
+  "ashby:elevenlabs": {
+   "matching": 1,
+   "open": 154
+  },
+  "ashby:harvey": {
+   "matching": 6,
+   "open": 368
+  },
+  "ashby:hex": {
+   "matching": 0,
+   "open": 37
+  },
+  "ashby:hightouch": {
+   "matching": 0,
+   "open": 1
+  },
+  "ashby:langchain": {
+   "matching": 0,
+   "open": 101
+  },
+  "ashby:lightdash": {
+   "matching": 0,
+   "open": 2
+  },
+  "ashby:linear": {
+   "matching": 0,
+   "open": 32
+  },
+  "ashby:materialize": {
+   "matching": 1,
+   "open": 4
+  },
+  "ashby:modal": {
+   "matching": 2,
+   "open": 43
+  },
+  "ashby:motherduck": {
+   "matching": 0,
+   "open": 2
+  },
+  "ashby:neon": {
+   "matching": 0,
+   "open": 1
+  },
+  "ashby:notion": {
+   "matching": 2,
+   "open": 141
+  },
+  "ashby:omni": {
+   "matching": 0,
+   "open": 35
+  },
+  "ashby:openai": {
+   "matching": 19,
+   "open": 805
+  },
+  "ashby:perplexity": {
+   "matching": 0,
+   "open": 134
+  },
+  "ashby:physicalintelligence": {
+   "matching": 1,
+   "open": 44
+  },
+  "ashby:pika": {
+   "matching": 1,
+   "open": 16
+  },
+  "ashby:pinecone": {
+   "matching": 0,
+   "open": 8
+  },
+  "ashby:plaid": {
+   "matching": 1,
+   "open": 129
+  },
+  "ashby:posthog": {
+   "matching": 0,
+   "open": 11
+  },
+  "ashby:prefect": {
+   "matching": 0,
+   "open": 8
+  },
+  "ashby:ramp": {
+   "matching": 2,
+   "open": 172
+  },
+  "ashby:replit": {
+   "matching": 1,
+   "open": 32
+  },
+  "ashby:rogo": {
+   "matching": 11,
+   "open": 99
+  },
+  "ashby:sierra": {
+   "matching": 0,
+   "open": 213
+  },
+  "ashby:suno": {
+   "matching": 0,
+   "open": 71
+  },
+  "ashby:supabase": {
+   "matching": 2,
+   "open": 64
+  },
+  "ashby:tennr": {
+   "matching": 3,
+   "open": 29
+  },
+  "ashby:vanta": {
+   "matching": 1,
+   "open": 78
+  },
+  "ashby:watershed": {
+   "matching": 0,
+   "open": 39
+  },
+  "ashby:weaviate": {
+   "matching": 0,
+   "open": 2
+  },
+  "ashby:writer": {
+   "matching": 0,
+   "open": 46
+  },
+  "ashby:zapier": {
+   "matching": 0,
+   "open": 12
+  },
+  "greenhouse:abnormalsecurity": {
+   "matching": 0,
+   "open": 90
+  },
+  "greenhouse:affirm": {
+   "matching": 0,
+   "open": 243
+  },
+  "greenhouse:airbnb": {
+   "matching": 1,
+   "open": 196
+  },
+  "greenhouse:airtable": {
+   "matching": 0,
+   "open": 4
+  },
+  "greenhouse:andurilindustries": {
+   "matching": 7,
+   "open": 2525
+  },
+  "greenhouse:anthropic": {
+   "matching": 7,
+   "open": 681
+  },
+  "greenhouse:applovin": {
+   "matching": 0,
+   "open": 43
+  },
+  "greenhouse:asana": {
+   "matching": 2,
+   "open": 113
+  },
+  "greenhouse:betterment": {
+   "matching": 0,
+   "open": 25
+  },
+  "greenhouse:block": {
+   "matching": 1,
+   "open": 202
+  },
+  "greenhouse:brex": {
+   "matching": 2,
+   "open": 261
+  },
+  "greenhouse:carta": {
+   "matching": 0,
+   "open": 74
+  },
+  "greenhouse:chime": {
+   "matching": 1,
+   "open": 72
+  },
+  "greenhouse:cloudflare": {
+   "matching": 2,
+   "open": 460
+  },
+  "greenhouse:cockroachlabs": {
+   "matching": 0,
+   "open": 14
+  },
+  "greenhouse:coinbase": {
+   "matching": 5,
+   "open": 227
+  },
+  "greenhouse:databricks": {
+   "matching": 24,
+   "open": 894
+  },
+  "greenhouse:datadog": {
+   "matching": 1,
+   "open": 402
+  },
+  "greenhouse:discord": {
+   "matching": 3,
+   "open": 46
+  },
+  "greenhouse:doordashusa": {
+   "matching": 3,
+   "open": 443
+  },
+  "greenhouse:dropbox": {
+   "matching": 0,
+   "open": 21
+  },
+  "greenhouse:drweng": {
+   "matching": 1,
+   "open": 162
+  },
+  "greenhouse:duolingo": {
+   "matching": 0,
+   "open": 58
+  },
+  "greenhouse:elastic": {
+   "matching": 0,
+   "open": 406
+  },
+  "greenhouse:faire": {
+   "matching": 0,
+   "open": 67
+  },
+  "greenhouse:figma": {
+   "matching": 2,
+   "open": 142
+  },
+  "greenhouse:fivetran": {
+   "matching": 2,
+   "open": 160
+  },
+  "greenhouse:flatironhealth": {
+   "matching": 0,
+   "open": 23
+  },
+  "greenhouse:gitlab": {
+   "matching": 1,
+   "open": 237
+  },
+  "greenhouse:gleanwork": {
+   "matching": 3,
+   "open": 133
+  },
+  "greenhouse:gusto": {
+   "matching": 1,
+   "open": 93
+  },
+  "greenhouse:imc": {
+   "matching": 0,
+   "open": 169
+  },
+  "greenhouse:instacart": {
+   "matching": 0,
+   "open": 94
+  },
+  "greenhouse:intercom": {
+   "matching": 4,
+   "open": 100
+  },
+  "greenhouse:janestreet": {
+   "matching": 2,
+   "open": 220
+  },
+  "greenhouse:justworks": {
+   "matching": 1,
+   "open": 96
+  },
+  "greenhouse:khanacademy": {
+   "matching": 0,
+   "open": 5
+  },
+  "greenhouse:launchdarkly": {
+   "matching": 0,
+   "open": 52
+  },
+  "greenhouse:lyft": {
+   "matching": 1,
+   "open": 178
+  },
+  "greenhouse:mercury": {
+   "matching": 1,
+   "open": 76
+  },
+  "greenhouse:mixpanel": {
+   "matching": 0,
+   "open": 44
+  },
+  "greenhouse:mongodb": {
+   "matching": 1,
+   "open": 365
+  },
+  "greenhouse:monzo": {
+   "matching": 0,
+   "open": 68
+  },
+  "greenhouse:newrelic": {
+   "matching": 0,
+   "open": 49
+  },
+  "greenhouse:nextdoor": {
+   "matching": 0,
+   "open": 23
+  },
+  "greenhouse:nuro": {
+   "matching": 0,
+   "open": 97
+  },
+  "greenhouse:okta": {
+   "matching": 1,
+   "open": 384
+  },
+  "greenhouse:optiver": {
+   "matching": 0,
+   "open": 0
+  },
+  "greenhouse:oscar": {
+   "matching": 0,
+   "open": 231
+  },
+  "greenhouse:pagerduty": {
+   "matching": 2,
+   "open": 48
+  },
+  "greenhouse:peloton": {
+   "matching": 0,
+   "open": 55
+  },
+  "greenhouse:pinterest": {
+   "matching": 1,
+   "open": 161
+  },
+  "greenhouse:point72": {
+   "matching": 4,
+   "open": 206
+  },
+  "greenhouse:reddit": {
+   "matching": 2,
+   "open": 162
+  },
+  "greenhouse:robinhood": {
+   "matching": 1,
+   "open": 159
+  },
+  "greenhouse:roblox": {
+   "matching": 0,
+   "open": 271
+  },
+  "greenhouse:samsara": {
+   "matching": 2,
+   "open": 320
+  },
+  "greenhouse:scaleai": {
+   "matching": 5,
+   "open": 169
+  },
+  "greenhouse:seatgeek": {
+   "matching": 3,
+   "open": 39
+  },
+  "greenhouse:sofi": {
+   "matching": 2,
+   "open": 62
+  },
+  "greenhouse:squarespace": {
+   "matching": 0,
+   "open": 27
+  },
+  "greenhouse:stripe": {
+   "matching": 6,
+   "open": 716
+  },
+  "greenhouse:toast": {
+   "matching": 0,
+   "open": 338
+  },
+  "greenhouse:togetherai": {
+   "matching": 2,
+   "open": 87
+  },
+  "greenhouse:twilio": {
+   "matching": 0,
+   "open": 135
+  },
+  "greenhouse:twitch": {
+   "matching": 0,
+   "open": 62
+  },
+  "greenhouse:vercel": {
+   "matching": 1,
+   "open": 93
+  },
+  "greenhouse:verkada": {
+   "matching": 0,
+   "open": 332
+  },
+  "greenhouse:waymo": {
+   "matching": 2,
+   "open": 369
+  },
+  "greenhouse:wise": {
+   "matching": 0,
+   "open": 21
+  },
+  "greenhouse:xai": {
+   "matching": 2,
+   "open": 305
+  },
+  "greenhouse:zscaler": {
+   "matching": 0,
+   "open": 354
+  },
+  "lever:binance": {
+   "matching": 0,
+   "open": 6
+  },
+  "lever:gopuff": {
+   "matching": 0,
+   "open": 775
+  },
+  "lever:jumpcloud": {
+   "matching": 0,
+   "open": 40
+  },
+  "lever:kraken": {
+   "matching": 0,
+   "open": 0
+  },
+  "lever:lyrahealth": {
+   "matching": 1,
+   "open": 470
+  },
+  "lever:matchgroup": {
+   "matching": 1,
+   "open": 64
+  },
+  "lever:mistral": {
+   "matching": 0,
+   "open": 0
+  },
+  "lever:nium": {
+   "matching": 0,
+   "open": 21
+  },
+  "lever:outreach": {
+   "matching": 0,
+   "open": 21
+  },
+  "lever:palantir": {
+   "matching": 23,
+   "open": 304
+  },
+  "lever:rover": {
+   "matching": 0,
+   "open": 35
+  },
+  "lever:shieldai": {
+   "matching": 3,
+   "open": 659
+  },
+  "lever:veeva": {
+   "matching": 5,
+   "open": 894
+  },
+  "lever:whoop": {
+   "matching": 0,
+   "open": 0
+  },
+  "lever:zoox": {
+   "matching": 2,
+   "open": 228
+  }
+ },
+ "summary": {
+  "candidates": 259,
+  "kept": 138,
+  "sources_failed": 58,
+  "sources_ok": 134
+ }
+}
