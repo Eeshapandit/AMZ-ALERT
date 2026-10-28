@@ -75,7 +75,7 @@
   </header>
 
   <div class="stats">
-    <div class="stat"><b id="sNew">0</b><small>new in 24h</small></div>
+    <div class="stat"><b id="sNew">0</b><small>posted in 24h</small></div>
     <div class="stat"><b id="sTotal">0</b><small>open roles</small></div>
     <div class="stat"><b id="sCos">0</b><small>companies</small></div>
     <div class="stat"><b id="sApplied">0</b><small>applied</small></div>
@@ -97,7 +97,7 @@
     <button class="chip" data-loc="ca">California</button>
   </div>
   <div class="row"><span class="lbl">Show</span>
-    <button class="chip" id="newOnly">New in 24h</button>
+    <button class="chip" id="newOnly">Posted in 24h</button>
     <button class="chip" id="junior">0 to 1 yrs</button>
     <button class="chip" id="noSenior">Hide Senior/Staff titles</button>
     <button class="chip" id="hideApplied">Hide applied</button>
@@ -149,7 +149,11 @@
     var d = new Date(p);
     return isNaN(d) ? p : d.toLocaleDateString(undefined, { month: "short", day: "numeric" });
   }
-  function isNew(j) { return !j.seeded && Date.now() - new Date(j.first_seen).getTime() < DAY; }
+  function postedAgo(j) { var t = new Date(j.posted).getTime(); return isNaN(t) ? Infinity : Date.now() - t; }
+  function isNew(j) {
+    if (postedAgo(j) < DAY + 6 * 36e5) return true;   // posted in last ~day (Amazon dates are day only)
+    return !j.seeded && Date.now() - new Date(j.first_seen).getTime() < DAY;
+  }
   var LOC = {
     remote: function (j) { return /remote/i.test(j.mode); },
     ny: function (j) { return /new york|\bnyc\b|brooklyn|manhattan|,\s*ny\b/i.test(j.location); },
@@ -196,7 +200,7 @@
         (t ? '<span class="tag t-' + t + '">' + t + "</span>" : "") +
         (isNew(j) ? '<span class="tag new">NEW</span>' : "") +
         '<div class="sub">' + sub + "</div></div>" +
-        '<div class="side"><span class="ago">' + (j.seeded ? "open at start" : "seen " + ago(j.first_seen)) + "</span>" +
+        '<div class="side"><span class="ago">' + (j.seeded ? (postedAgo(j) < Infinity ? "posted " + ago(j.posted) : "open at start") : "seen " + ago(j.first_seen)) + "</span>" +
         '<label class="ap"><input type="checkbox" data-id="' + esc(j.id) + '"' + (applied[j.id] ? " checked" : "") + "> applied</label></div></div>";
     }).join("");
   }
