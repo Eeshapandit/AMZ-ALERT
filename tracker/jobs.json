@@ -561,20 +561,6 @@
 "sector": ""
 },
 {
-"id": "gh:okta:8304288",
-"company": "Okta",
-"title": "Senior Data Analyst (Auth0)",
-"role": "Data Analyst",
-"location": "Chicago, Illinois; New York, New York; Seattle, Washington; Washington, DC",
-"mode": "Onsite/Hybrid",
-"years": null,
-"link": "https://www.okta.com/company/careers/opportunity/8304288?gh_jid=8304288",
-"posted": "2026-10-21T11:55:12-04:00",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": ""
-},
-{
 "id": "gh:andurilindustries:5269977007",
 "company": "Anduril Industries",
 "title": "2027 Finance Data Analyst Intern",
@@ -2199,5 +2185,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-10-28T14:39:35+00:00"
+"updated": "2026-10-28T19:39:49+00:00"
 }
