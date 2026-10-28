@@ -61,7 +61,7 @@
  },
  "ok": {
   "amazon:amazon": {
-   "matching": 38,
+   "matching": 39,
    "open": 168
   },
   "ashby:abridge": {
@@ -313,8 +313,8 @@
    "open": 227
   },
   "greenhouse:databricks": {
-   "matching": 24,
-   "open": 894
+   "matching": 23,
+   "open": 893
   },
   "greenhouse:datadog": {
    "matching": 1,
@@ -494,11 +494,11 @@
   },
   "greenhouse:stripe": {
    "matching": 6,
-   "open": 716
+   "open": 715
   },
   "greenhouse:toast": {
    "matching": 0,
-   "open": 338
+   "open": 339
   },
   "greenhouse:togetherai": {
    "matching": 2,
@@ -586,7 +586,7 @@
   },
   "lever:veeva": {
    "matching": 5,
-   "open": 894
+   "open": 892
   },
   "lever:whoop": {
    "matching": 0,

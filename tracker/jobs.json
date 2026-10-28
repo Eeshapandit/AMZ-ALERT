@@ -1,6 +1,19 @@
 {
 "jobs": [
 {
+"id": "amz:10590795",
+"company": "Amazon",
+"title": "Data Engineer, Global Logistics Product Analytics Team",
+"role": "Data Engineer",
+"location": "Bellevue, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 1,
+"link": "https://www.amazon.jobs/en/jobs/10590795/data-engineer-global-logistics-product-analytics-team",
+"posted": "October 28, 2026",
+"first_seen": "2026-10-28T14:17:35+00:00",
+"seeded": false
+},
+{
 "id": "amz:10545209",
 "company": "Amazon",
 "title": "Data Analyst, RSX",
@@ -205,19 +218,6 @@
 "years": null,
 "link": "https://job-boards.greenhouse.io/anthropic/jobs/5462966008",
 "posted": "2026-10-26T18:47:43-04:00",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
-},
-{
-"id": "gh:databricks:8910846002",
-"company": "Databricks",
-"title": "Associate Forward Deployed Engineer",
-"role": "FDE",
-"location": "Mountain View, California",
-"mode": "Onsite/Hybrid",
-"years": 2,
-"link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002",
-"posted": "2026-10-23T11:19:31-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
 "seeded": true
 },
@@ -1795,5 +1795,5 @@
 "seeded": true
 }
 ],
-"updated": "2026-10-28T14:15:32+00:00"
+"updated": "2026-10-28T14:17:35+00:00"
 }
