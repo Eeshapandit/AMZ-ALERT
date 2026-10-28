@@ -1,8 +1,87 @@
 {
- "errors": {},
+ "errors": {
+  "ashby:ag1": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:athleticgreens": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:cotopaxi": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:cuts": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:depop": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:faire": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:flexport": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:glossier": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:hims": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:huel": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:jonesroad": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:mejuri": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:quince": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:ridge": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:ritual": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:shipbob": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:skims": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:stord": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:trueclassic": "HTTPError: HTTP Error 404: Not Found",
+  "ashby:whatnot": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:1stdibs": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:allbirds": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:away": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:barkbox": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:blueapron": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:boxed": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:brooklinen": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:casper": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:chewy": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:depop": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:fabletics": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:fanatics": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:farmersdog": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:figs": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:framebridge": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:glossiergroup": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:goodeggs": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:guess": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:haus": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:hims": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:himshers": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:jcrew": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:lovevery": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:madewell": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:nuuly": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:olaplex": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:ouraring": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:peapod": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:petco": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:rentherunway": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:revolve": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:shipbob": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:shopify": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:skims": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:stord": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:tapestry": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:therealreal": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:thredup": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:urbn": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:wayfair": "HTTPError: HTTP Error 404: Not Found",
+  "greenhouse:whoop": "HTTPError: HTTP Error 404: Not Found",
+  "lever:cotopaxi": "HTTPError: HTTP Error 404: Not Found",
+  "lever:everlane": "HTTPError: HTTP Error 404: Not Found",
+  "lever:fanatics": "HTTPError: HTTP Error 404: Not Found",
+  "lever:flexport": "HTTPError: HTTP Error 404: Not Found",
+  "lever:freshdirect": "HTTPError: HTTP Error 404: Not Found",
+  "lever:grailed": "HTTPError: HTTP Error 404: Not Found",
+  "lever:gymshark": "HTTPError: HTTP Error 404: Not Found",
+  "lever:hellofresh": "HTTPError: HTTP Error 404: Not Found",
+  "lever:jet": "HTTPError: HTTP Error 404: Not Found",
+  "lever:mejuri": "HTTPError: HTTP Error 404: Not Found",
+  "lever:nordstrom": "HTTPError: HTTP Error 404: Not Found",
+  "lever:outdoorvoices": "HTTPError: HTTP Error 404: Not Found",
+  "lever:quince": "HTTPError: HTTP Error 404: Not Found",
+  "lever:rothys": "HTTPError: HTTP Error 404: Not Found",
+  "lever:shipbob": "HTTPError: HTTP Error 404: Not Found",
+  "lever:stockx": "HTTPError: HTTP Error 404: Not Found",
+  "lever:wish": "HTTPError: HTTP Error 404: Not Found"
+ },
  "ok": {
   "amazon:amazon": {
-   "matching": 39,
+   "matching": 70,
    "open": 168
   },
   "ashby:abridge": {
@@ -133,6 +212,10 @@
    "matching": 1,
    "open": 129
   },
+  "ashby:poshmark": {
+   "matching": 0,
+   "open": 29
+  },
   "ashby:posthog": {
    "matching": 0,
    "open": 11
@@ -152,6 +235,10 @@
   "ashby:rogo": {
    "matching": 11,
    "open": 99
+  },
+  "ashby:rothys": {
+   "matching": 0,
+   "open": 103
   },
   "ashby:sierra": {
    "matching": 0,
@@ -205,6 +292,10 @@
    "matching": 0,
    "open": 4
   },
+  "greenhouse:aloyoga": {
+   "matching": 4,
+   "open": 789
+  },
   "greenhouse:andurilindustries": {
    "matching": 7,
    "open": 2526
@@ -221,6 +312,14 @@
    "matching": 2,
    "open": 113
   },
+  "greenhouse:attentive": {
+   "matching": 9,
+   "open": 30
+  },
+  "greenhouse:bark": {
+   "matching": 0,
+   "open": 1
+  },
   "greenhouse:betterment": {
    "matching": 0,
    "open": 25
@@ -228,6 +327,10 @@
   "greenhouse:block": {
    "matching": 1,
    "open": 202
+  },
+  "greenhouse:bombas": {
+   "matching": 0,
+   "open": 9
   },
   "greenhouse:brex": {
    "matching": 2,
@@ -255,7 +358,7 @@
   },
   "greenhouse:databricks": {
    "matching": 23,
-   "open": 893
+   "open": 894
   },
   "greenhouse:datadog": {
    "matching": 1,
@@ -264,6 +367,10 @@
   "greenhouse:discord": {
    "matching": 3,
    "open": 46
+  },
+  "greenhouse:dollarshaveclub": {
+   "matching": 0,
+   "open": 8
   },
   "greenhouse:doordashusa": {
    "matching": 3,
@@ -285,6 +392,10 @@
    "matching": 0,
    "open": 406
   },
+  "greenhouse:everlane": {
+   "matching": 1,
+   "open": 32
+  },
   "greenhouse:faire": {
    "matching": 0,
    "open": 67
@@ -301,6 +412,10 @@
    "matching": 0,
    "open": 23
   },
+  "greenhouse:flexport": {
+   "matching": 1,
+   "open": 186
+  },
   "greenhouse:gitlab": {
    "matching": 1,
    "open": 237
@@ -309,9 +424,29 @@
    "matching": 3,
    "open": 133
   },
+  "greenhouse:glossier": {
+   "matching": 0,
+   "open": 18
+  },
+  "greenhouse:goatgroup": {
+   "matching": 0,
+   "open": 17
+  },
   "greenhouse:gusto": {
    "matching": 1,
    "open": 93
+  },
+  "greenhouse:gymshark": {
+   "matching": 0,
+   "open": 15
+  },
+  "greenhouse:harrys": {
+   "matching": 3,
+   "open": 13
+  },
+  "greenhouse:hellofresh": {
+   "matching": 1,
+   "open": 384
   },
   "greenhouse:imc": {
    "matching": 0,
@@ -337,17 +472,29 @@
    "matching": 0,
    "open": 5
   },
+  "greenhouse:klaviyo": {
+   "matching": 2,
+   "open": 158
+  },
   "greenhouse:launchdarkly": {
    "matching": 0,
    "open": 52
   },
   "greenhouse:lyft": {
    "matching": 1,
-   "open": 178
+   "open": 177
+  },
+  "greenhouse:mercari": {
+   "matching": 0,
+   "open": 0
   },
   "greenhouse:mercury": {
    "matching": 1,
    "open": 76
+  },
+  "greenhouse:misfitsmarket": {
+   "matching": 0,
+   "open": 65
   },
   "greenhouse:mixpanel": {
    "matching": 0,
@@ -360,6 +507,10 @@
   "greenhouse:monzo": {
    "matching": 0,
    "open": 67
+  },
+  "greenhouse:narvar": {
+   "matching": 0,
+   "open": 1
   },
   "greenhouse:newrelic": {
    "matching": 0,
@@ -389,6 +540,10 @@
    "matching": 2,
    "open": 48
   },
+  "greenhouse:parachutehome": {
+   "matching": 0,
+   "open": 3
+  },
   "greenhouse:peloton": {
    "matching": 0,
    "open": 55
@@ -401,9 +556,21 @@
    "matching": 4,
    "open": 206
   },
+  "greenhouse:poshmark": {
+   "matching": 0,
+   "open": 0
+  },
+  "greenhouse:quip": {
+   "matching": 0,
+   "open": 5
+  },
   "greenhouse:reddit": {
    "matching": 2,
    "open": 162
+  },
+  "greenhouse:reformation": {
+   "matching": 0,
+   "open": 152
   },
   "greenhouse:robinhood": {
    "matching": 1,
@@ -412,6 +579,10 @@
   "greenhouse:roblox": {
    "matching": 0,
    "open": 271
+  },
+  "greenhouse:route": {
+   "matching": 0,
+   "open": 4
   },
   "greenhouse:samsara": {
    "matching": 2,
@@ -433,9 +604,25 @@
    "matching": 0,
    "open": 27
   },
+  "greenhouse:stitchfix": {
+   "matching": 0,
+   "open": 14
+  },
+  "greenhouse:stockx": {
+   "matching": 0,
+   "open": 34
+  },
   "greenhouse:stripe": {
    "matching": 6,
    "open": 717
+  },
+  "greenhouse:sweetgreen": {
+   "matching": 0,
+   "open": 60
+  },
+  "greenhouse:thrivemarket": {
+   "matching": 1,
+   "open": 18
   },
   "greenhouse:toast": {
    "matching": 0,
@@ -461,9 +648,17 @@
    "matching": 0,
    "open": 332
   },
+  "greenhouse:vuori": {
+   "matching": 0,
+   "open": 0
+  },
   "greenhouse:waymo": {
    "matching": 2,
    "open": 369
+  },
+  "greenhouse:weee": {
+   "matching": 1,
+   "open": 21
   },
   "greenhouse:wise": {
    "matching": 0,
@@ -472,6 +667,14 @@
   "greenhouse:xai": {
    "matching": 2,
    "open": 305
+  },
+  "greenhouse:yotpo": {
+   "matching": 0,
+   "open": 18
+  },
+  "greenhouse:zola": {
+   "matching": 0,
+   "open": 3
   },
   "greenhouse:zscaler": {
    "matching": 0,
@@ -482,7 +685,7 @@
    "open": 6
   },
   "lever:gopuff": {
-   "matching": 0,
+   "matching": 3,
    "open": 775
   },
   "lever:jumpcloud": {
@@ -515,7 +718,7 @@
   },
   "lever:palantir": {
    "matching": 23,
-   "open": 304
+   "open": 303
   },
   "lever:rover": {
    "matching": 0,
@@ -539,9 +742,9 @@
   }
  },
  "summary": {
-  "candidates": 259,
-  "kept": 138,
-  "sources_failed": 0,
-  "sources_ok": 134
+  "candidates": 316,
+  "kept": 157,
+  "sources_failed": 78,
+  "sources_ok": 165
  }
 }

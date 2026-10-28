@@ -1,6 +1,272 @@
 {
 "jobs": [
 {
+"id": "amz:10552219",
+"company": "Amazon",
+"title": "Senior Financial Analyst, Data & Financial Modeling \u2013 Operations Finance, North America 3P External Fulfillment Finance",
+"role": "Data / AI",
+"location": "New York, New York, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10552219/senior-financial-analyst-data-financial-modeling-operations-finance-north-america-3p-external-fulfillment-finance",
+"posted": "September 17, 2026",
+"first_seen": "2026-10-28T14:39:35+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "amz:10552313",
+"company": "Amazon",
+"title": "Sr. Financial Analyst, AWS Data Center Construction Finance",
+"role": "Data / AI",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10552313/sr-financial-analyst-aws-data-center-construction-finance",
+"posted": "September 17, 2026",
+"first_seen": "2026-10-28T14:39:35+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "amz:10588747",
+"company": "Amazon",
+"title": "Business Intelligence Engineer II, AWS DC Central Operations",
+"role": "BI",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10588747/business-intelligence-engineer-ii-aws-dc-central-operations",
+"posted": "October 26, 2026",
+"first_seen": "2026-10-28T14:39:35+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "amz:10587820",
+"company": "Amazon",
+"title": "Business Intelligence Engineer,  Data Center Capacity Delivery Tooling",
+"role": "BI",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10587820/business-intelligence-engineer-data-center-capacity-delivery-tooling",
+"posted": "October 23, 2026",
+"first_seen": "2026-10-28T14:39:35+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "amz:10581926",
+"company": "Amazon",
+"title": "Associate Physical Security Engineer, Data Center Design Engineering",
+"role": "Data / AI",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": null,
+"link": "https://www.amazon.jobs/en/jobs/10581926/associate-physical-security-engineer-data-center-design-engineering",
+"posted": "October 16, 2026",
+"first_seen": "2026-10-28T14:39:35+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "amz:10577607",
+"company": "Amazon",
+"title": "Software Development Engineer , Ads Data Manager",
+"role": "Data / AI",
+"location": "New York, New York, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10577607/software-development-engineer-ads-data-manager",
+"posted": "October 13, 2026",
+"first_seen": "2026-10-28T14:39:35+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "amz:10577327",
+"company": "Amazon",
+"title": "Software Development Engineer , FinTech Entity Data Service",
+"role": "Data / AI",
+"location": "Bellevue, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10577327/software-development-engineer-fintech-entity-data-service",
+"posted": "October 13, 2026",
+"first_seen": "2026-10-28T14:39:35+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "amz:10571019",
+"company": "Amazon",
+"title": "Senior Financial Analyst, AWS Data Center FP&A",
+"role": "Data / AI",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10571019/senior-financial-analyst-aws-data-center-fp-a",
+"posted": "October  6, 2026",
+"first_seen": "2026-10-28T14:39:35+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "amz:10472951",
+"company": "Amazon",
+"title": "Business Analyst, Global Network Delivery",
+"role": "Analyst",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10472951/business-analyst-global-network-delivery",
+"posted": "July 13, 2026",
+"first_seen": "2026-10-28T14:39:35+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "amz:10471711",
+"company": "Amazon",
+"title": "Senior Financial Analyst, AWS Data Center Real Estate",
+"role": "Data / AI",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10471711/senior-financial-analyst-aws-data-center-real-estate",
+"posted": "July 10, 2026",
+"first_seen": "2026-10-28T14:39:35+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "gh:klaviyo:8044834003",
+"company": "Klaviyo",
+"title": "Senior Lead AI Engineer - G&A Systems",
+"role": "Data / AI",
+"location": "San Francisco, CA",
+"mode": "Onsite/Hybrid",
+"years": 2,
+"link": "https://www.klaviyo.com/careers/jobs/8044834003?gh_jid=8044834003",
+"posted": "2026-10-26T13:33:48-04:00",
+"first_seen": "2026-10-28T14:39:35+00:00",
+"seeded": true,
+"sector": "retail"
+},
+{
+"id": "gh:attentive:4463318009",
+"company": "Attentive",
+"title": "People Insights Analyst",
+"role": "Analyst",
+"location": "New York, NY (Hybrid)",
+"mode": "Onsite/Hybrid",
+"years": null,
+"link": "https://job-boards.greenhouse.io/attentive/jobs/4463318009",
+"posted": "2026-10-23T19:24:06-04:00",
+"first_seen": "2026-10-28T14:39:35+00:00",
+"seeded": true,
+"sector": "retail"
+},
+{
+"id": "gh:weee:8038134003",
+"company": "Weee! Inc",
+"title": "Senior Machine Learning Engineer",
+"role": "Data / AI",
+"location": "Fremont, California, United States",
+"mode": "Onsite/Hybrid",
+"years": 2,
+"link": "https://job-boards.greenhouse.io/weee/jobs/8038134003",
+"posted": "2026-10-20T12:16:25-04:00",
+"first_seen": "2026-10-28T14:39:35+00:00",
+"seeded": true,
+"sector": "retail"
+},
+{
+"id": "lv:gopuff:8783c988-e446-43a7-8a7d-b34a58397d22",
+"company": "gopuff",
+"title": "Senior Data Scientist - Delivery Tech",
+"role": "Data Scientist",
+"location": "United States",
+"mode": "Remote",
+"years": 2,
+"link": "https://jobs.lever.co/gopuff/8783c988-e446-43a7-8a7d-b34a58397d22",
+"posted": "2026-10-14T19:12:15+00:00",
+"first_seen": "2026-10-28T14:39:35+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "gh:hellofresh:8237342",
+"company": "HelloFresh",
+"title": "Senior Analyst, Packaging, Planning & Analytics",
+"role": "Data / AI",
+"location": "New York, NY, United States; Newark, NJ, United States",
+"mode": "Onsite/Hybrid",
+"years": null,
+"link": "https://careers.hellofresh.com/global/en/job/8237342?gh_jid=8237342",
+"posted": "2026-09-30T17:01:38-04:00",
+"first_seen": "2026-10-28T14:39:35+00:00",
+"seeded": true,
+"sector": "retail"
+},
+{
+"id": "gh:attentive:4415182009",
+"company": "Attentive",
+"title": "Senior Director, Product Management (AI/ML)",
+"role": "Data / AI",
+"location": "New York, NY (Hybrid)",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://job-boards.greenhouse.io/attentive/jobs/4415182009",
+"posted": "2026-09-29T10:44:17-04:00",
+"first_seen": "2026-10-28T14:39:35+00:00",
+"seeded": true,
+"sector": "retail"
+},
+{
+"id": "gh:harrys:8226536",
+"company": "Harry's",
+"title": "Manager, DTC Analytics",
+"role": "Data / AI",
+"location": "New York, NY",
+"mode": "Onsite/Hybrid",
+"years": null,
+"link": "https://job-boards.greenhouse.io/harrys/jobs/8226536",
+"posted": "2026-09-23T11:26:57-04:00",
+"first_seen": "2026-10-28T14:39:35+00:00",
+"seeded": true,
+"sector": "retail"
+},
+{
+"id": "gh:harrys:8220786",
+"company": "Harry's",
+"title": "Senior Associate, Sales Analytics & Enablement - Grocery",
+"role": "Data / AI",
+"location": "New York, NY",
+"mode": "Onsite/Hybrid",
+"years": 1,
+"link": "https://job-boards.greenhouse.io/harrys/jobs/8220786",
+"posted": "2026-09-21T12:34:51-04:00",
+"first_seen": "2026-10-28T14:39:35+00:00",
+"seeded": true,
+"sector": "retail"
+},
+{
+"id": "gh:harrys:8167116",
+"company": "Harry's",
+"title": "Senior Manager, Retail Analytics - Walmart",
+"role": "Data / AI",
+"location": "New York, NY",
+"mode": "Onsite/Hybrid",
+"years": null,
+"link": "https://job-boards.greenhouse.io/harrys/jobs/8167116",
+"posted": "2026-08-31T11:32:28-04:00",
+"first_seen": "2026-10-28T14:39:35+00:00",
+"seeded": true,
+"sector": "retail"
+},
+{
 "id": "amz:10590795",
 "company": "Amazon",
 "title": "Data Engineer, Global Logistics Product Analytics Team",
@@ -11,7 +277,8 @@
 "link": "https://www.amazon.jobs/en/jobs/10590795/data-engineer-global-logistics-product-analytics-team",
 "posted": "October 28, 2026",
 "first_seen": "2026-10-28T14:17:35+00:00",
-"seeded": false
+"seeded": false,
+"sector": "retail"
 },
 {
 "id": "amz:10545209",
@@ -24,7 +291,8 @@
 "link": "https://www.amazon.jobs/en/jobs/10545209/data-analyst-rsx",
 "posted": "September 16, 2026",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": "retail"
 },
 {
 "id": "amz:10587822",
@@ -37,7 +305,8 @@
 "link": "https://www.amazon.jobs/en/jobs/10587822/data-engineer-ii-nasc-data-engineering",
 "posted": "October 24, 2026",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": "retail"
 },
 {
 "id": "amz:10585967",
@@ -50,7 +319,8 @@
 "link": "https://www.amazon.jobs/en/jobs/10585967/forward-deployed-engineer-model-customization-and-optimization-aws-forward-deployed-engineering",
 "posted": "October 23, 2026",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": "retail"
 },
 {
 "id": "amz:10587730",
@@ -63,7 +333,8 @@
 "link": "https://www.amazon.jobs/en/jobs/10587730/data-engineer-workforce-solutions-talent-mobility",
 "posted": "October 23, 2026",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": "retail"
 },
 {
 "id": "amz:10587268",
@@ -76,7 +347,8 @@
 "link": "https://www.amazon.jobs/en/jobs/10587268/data-engineer-ii-sales-data-services-sds",
 "posted": "October 23, 2026",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": "retail"
 },
 {
 "id": "amz:10585595",
@@ -89,7 +361,8 @@
 "link": "https://www.amazon.jobs/en/jobs/10585595/data-engineer-ii-gmac-fp-a",
 "posted": "October 21, 2026",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": "retail"
 },
 {
 "id": "amz:10583533",
@@ -102,7 +375,8 @@
 "link": "https://www.amazon.jobs/en/jobs/10583533/forward-deployed-engineer-forward-deployment-engineering",
 "posted": "October 20, 2026",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": "retail"
 },
 {
 "id": "amz:10582746",
@@ -115,7 +389,8 @@
 "link": "https://www.amazon.jobs/en/jobs/10582746/data-engineer-amazon-security-experience",
 "posted": "October 19, 2026",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": "retail"
 },
 {
 "id": "amz:10583490",
@@ -128,7 +403,8 @@
 "link": "https://www.amazon.jobs/en/jobs/10583490/data-engineer-amazon-live-data-engineering-sciences-and-analytics-desa",
 "posted": "October 19, 2026",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": "retail"
 },
 {
 "id": "amz:10579730",
@@ -141,7 +417,8 @@
 "link": "https://www.amazon.jobs/en/jobs/10579730/data-engineer-amazon-prime",
 "posted": "October 15, 2026",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": "retail"
 },
 {
 "id": "amz:10579596",
@@ -154,7 +431,8 @@
 "link": "https://www.amazon.jobs/en/jobs/10579596/data-engineer-robotics-delivery-and-packaging-innovation",
 "posted": "October 15, 2026",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": "retail"
 },
 {
 "id": "amz:10577269",
@@ -167,7 +445,8 @@
 "link": "https://www.amazon.jobs/en/jobs/10577269/agentic-data-engineer-frontier-ai-tooling",
 "posted": "October 13, 2026",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": "retail"
 },
 {
 "id": "amz:10576372",
@@ -180,7 +459,8 @@
 "link": "https://www.amazon.jobs/en/jobs/10576372/icqa-data-analyst",
 "posted": "October 12, 2026",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": "retail"
 },
 {
 "id": "amz:10574705",
@@ -193,7 +473,8 @@
 "link": "https://www.amazon.jobs/en/jobs/10574705/data-engineer-amazon-customer-service",
 "posted": "October  9, 2026",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": "retail"
 },
 {
 "id": "ab:tennr:8cfdd6c5-081e-4c10-9b43-effdc91cbda6",
@@ -206,7 +487,8 @@
 "link": "https://jobs.ashbyhq.com/tennr/8cfdd6c5-081e-4c10-9b43-effdc91cbda6",
 "posted": "2026-10-27T16:10:53.557+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:anthropic:5462966008",
@@ -219,7 +501,8 @@
 "link": "https://job-boards.greenhouse.io/anthropic/jobs/5462966008",
 "posted": "2026-10-26T18:47:43-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "lv:palantir:b3d81928-6c26-432f-8a0a-36602c2eefcb",
@@ -232,7 +515,8 @@
 "link": "https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb",
 "posted": "2026-10-22T21:37:49+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "lv:palantir:66b495eb-aaf9-4bf9-a759-41854534add7",
@@ -245,7 +529,8 @@
 "link": "https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7",
 "posted": "2026-10-22T21:34:28+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:ramp:29a5da77-37f0-402a-92bc-072778e77ed8",
@@ -258,7 +543,8 @@
 "link": "https://jobs.ashbyhq.com/ramp/29a5da77-37f0-402a-92bc-072778e77ed8",
 "posted": "2026-10-22T19:20:16.077+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:baseten:976f89ef-1065-45a7-8b51-31fecd1ef1e6",
@@ -271,7 +557,8 @@
 "link": "https://jobs.ashbyhq.com/baseten/976f89ef-1065-45a7-8b51-31fecd1ef1e6",
 "posted": "2026-10-22T00:48:54.252+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:okta:8304288",
@@ -284,7 +571,8 @@
 "link": "https://www.okta.com/company/careers/opportunity/8304288?gh_jid=8304288",
 "posted": "2026-10-21T11:55:12-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:andurilindustries:5269977007",
@@ -297,7 +585,8 @@
 "link": "https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007",
 "posted": "2026-10-20T18:14:02-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:reddit:8301784",
@@ -310,7 +599,8 @@
 "link": "https://job-boards.greenhouse.io/reddit/jobs/8301784",
 "posted": "2026-10-19T16:14:16-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:rogo:9cc38600-5b03-4037-87ea-45085f99cd09",
@@ -323,7 +613,8 @@
 "link": "https://jobs.ashbyhq.com/rogo/9cc38600-5b03-4037-87ea-45085f99cd09",
 "posted": "2026-10-19T16:11:13.350+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:reddit:8301736",
@@ -336,7 +627,8 @@
 "link": "https://job-boards.greenhouse.io/reddit/jobs/8301736",
 "posted": "2026-10-19T15:59:09-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:pinterest:8162539",
@@ -349,7 +641,8 @@
 "link": "https://www.pinterestcareers.com/jobs/?gh_jid=8162539",
 "posted": "2026-10-19T14:20:35-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "lv:shieldai:a3eae89e-5a2b-4e6a-8e9c-e315923b0c71",
@@ -362,7 +655,8 @@
 "link": "https://jobs.lever.co/shieldai/a3eae89e-5a2b-4e6a-8e9c-e315923b0c71",
 "posted": "2026-10-18T01:49:03+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:lyft:8896685002",
@@ -375,7 +669,8 @@
 "link": "https://app.careerpuck.com/job-board/lyft/job/8896685002?gh_jid=8896685002",
 "posted": "2026-10-16T22:54:56-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:supabase:73ddf93b-fe0c-455d-ba27-cdde0d3fb94f",
@@ -388,7 +683,8 @@
 "link": "https://jobs.ashbyhq.com/supabase/73ddf93b-fe0c-455d-ba27-cdde0d3fb94f",
 "posted": "2026-10-14T16:54:28.658+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:anthropic:5449229008",
@@ -401,7 +697,8 @@
 "link": "https://job-boards.greenhouse.io/anthropic/jobs/5449229008",
 "posted": "2026-10-14T12:34:30-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:elevenlabs:6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6",
@@ -414,7 +711,8 @@
 "link": "https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6",
 "posted": "2026-10-14T01:20:28.144+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:doordashusa:8192116",
@@ -427,7 +725,8 @@
 "link": "https://job-boards.greenhouse.io/doordashusa/jobs/8192116",
 "posted": "2026-10-13T16:25:08-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:anthropic:5450099008",
@@ -440,7 +739,8 @@
 "link": "https://job-boards.greenhouse.io/anthropic/jobs/5450099008",
 "posted": "2026-10-12T15:03:03-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:coinbase:8175510",
@@ -453,7 +753,8 @@
 "link": "https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510",
 "posted": "2026-10-09T12:51:20-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "lv:palantir:1b690123-1766-4e75-a0ef-0f58afa864b4",
@@ -466,7 +767,8 @@
 "link": "https://jobs.lever.co/palantir/1b690123-1766-4e75-a0ef-0f58afa864b4",
 "posted": "2026-10-07T23:35:44+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:openai:2796d32a-9f7c-4008-a2c5-50dd53b0f2fe",
@@ -479,7 +781,8 @@
 "link": "https://jobs.ashbyhq.com/openai/2796d32a-9f7c-4008-a2c5-50dd53b0f2fe",
 "posted": "2026-10-06T20:36:36.917+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:harvey:43c6e218-ea85-4519-b2fe-dd188ff3234f",
@@ -492,7 +795,8 @@
 "link": "https://jobs.ashbyhq.com/harvey/43c6e218-ea85-4519-b2fe-dd188ff3234f",
 "posted": "2026-10-06T16:12:19.786+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:harvey:576271e5-a578-40de-8706-b8d932b5788c",
@@ -505,7 +809,8 @@
 "link": "https://jobs.ashbyhq.com/harvey/576271e5-a578-40de-8706-b8d932b5788c",
 "posted": "2026-10-06T16:09:45.406+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:harvey:fb3ecf9e-9379-4839-817c-f620a3e6034d",
@@ -518,7 +823,8 @@
 "link": "https://jobs.ashbyhq.com/harvey/fb3ecf9e-9379-4839-817c-f620a3e6034d",
 "posted": "2026-10-06T16:03:33.814+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:seatgeek:8247554",
@@ -531,7 +837,8 @@
 "link": "https://seatgeek.com/jobs/8247554?gh_jid=8247554",
 "posted": "2026-10-01T15:08:54-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:openai:c25fd30e-056e-4a26-af80-7ea1074fc56e",
@@ -544,7 +851,8 @@
 "link": "https://jobs.ashbyhq.com/openai/c25fd30e-056e-4a26-af80-7ea1074fc56e",
 "posted": "2026-10-01T14:49:22.943+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:stripe:8194291",
@@ -557,7 +865,8 @@
 "link": "https://stripe.com/jobs/search?gh_jid=8194291",
 "posted": "2026-10-01T11:05:29-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:materialize:b2fd4430-633f-41ec-a7a7-df1382bdcd04",
@@ -570,7 +879,8 @@
 "link": "https://jobs.ashbyhq.com/materialize/b2fd4430-633f-41ec-a7a7-df1382bdcd04",
 "posted": "2026-09-30T17:54:34.966+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:tennr:ce18e908-3e76-4828-a95d-ef98569937e0",
@@ -583,7 +893,8 @@
 "link": "https://jobs.ashbyhq.com/tennr/ce18e908-3e76-4828-a95d-ef98569937e0",
 "posted": "2026-09-28T13:23:31.540+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:andurilindustries:5247821007",
@@ -596,7 +907,8 @@
 "link": "https://boards.greenhouse.io/andurilindustries/jobs/5247821007?gh_jid=5247821007",
 "posted": "2026-09-25T09:25:23-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "lv:palantir:a2e9ab0f-4dd1-4744-92b9-edc7ae393c58",
@@ -609,7 +921,8 @@
 "link": "https://jobs.lever.co/palantir/a2e9ab0f-4dd1-4744-92b9-edc7ae393c58",
 "posted": "2026-09-24T14:50:21+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:cursor:9b897011-11bc-4d8f-beb4-d2155d36e941",
@@ -622,7 +935,8 @@
 "link": "https://jobs.ashbyhq.com/cursor/9b897011-11bc-4d8f-beb4-d2155d36e941",
 "posted": "2026-09-23T15:41:05.246+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:figma:6178851004",
@@ -635,7 +949,8 @@
 "link": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004",
 "posted": "2026-09-23T15:30:27-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:cloudflare:8043305",
@@ -648,7 +963,8 @@
 "link": "https://boards.greenhouse.io/cloudflare/jobs/8043305?gh_jid=8043305",
 "posted": "2026-09-23T15:27:31-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:openai:5bbc43df-558a-4e4b-a0cf-83f185c664d7",
@@ -661,7 +977,8 @@
 "link": "https://jobs.ashbyhq.com/openai/5bbc43df-558a-4e4b-a0cf-83f185c664d7",
 "posted": "2026-09-23T13:30:38.483+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:drweng:8189730",
@@ -674,7 +991,8 @@
 "link": "https://job-boards.greenhouse.io/drweng/jobs/8189730",
 "posted": "2026-09-17T16:48:13-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:sofi:7996286003",
@@ -687,7 +1005,8 @@
 "link": "https://sofi.com/careers/job/7996286003?gh_jid=7996286003",
 "posted": "2026-09-15T15:29:33-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:openai:acbf80cd-20a7-47fe-aaf9-3e9224d1570c",
@@ -700,7 +1019,8 @@
 "link": "https://jobs.ashbyhq.com/openai/acbf80cd-20a7-47fe-aaf9-3e9224d1570c",
 "posted": "2026-09-14T22:39:38.571+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:anthropic:5424111008",
@@ -713,7 +1033,8 @@
 "link": "https://job-boards.greenhouse.io/anthropic/jobs/5424111008",
 "posted": "2026-09-14T21:14:53-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:databricks:8807063002",
@@ -726,7 +1047,8 @@
 "link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8807063002",
 "posted": "2026-09-14T16:25:27-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:databricks:8807049002",
@@ -739,7 +1061,8 @@
 "link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8807049002",
 "posted": "2026-09-14T16:25:00-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:databricks:8807033002",
@@ -752,7 +1075,8 @@
 "link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8807033002",
 "posted": "2026-09-14T16:24:31-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:intercom:8201208",
@@ -765,7 +1089,8 @@
 "link": "https://job-boards.greenhouse.io/intercom/jobs/8201208",
 "posted": "2026-09-14T10:22:05-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:intercom:8185627",
@@ -778,7 +1103,8 @@
 "link": "https://job-boards.greenhouse.io/intercom/jobs/8185627",
 "posted": "2026-09-14T08:57:04-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "lv:zoox:ae2785ae-dfee-484b-8add-3cf32ca2d10e",
@@ -791,7 +1117,8 @@
 "link": "https://jobs.lever.co/zoox/ae2785ae-dfee-484b-8add-3cf32ca2d10e",
 "posted": "2026-09-09T22:44:08+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:anthropic:5418610008",
@@ -804,7 +1131,8 @@
 "link": "https://job-boards.greenhouse.io/anthropic/jobs/5418610008",
 "posted": "2026-09-08T22:30:44-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:coinbase:8175459",
@@ -817,7 +1145,8 @@
 "link": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
 "posted": "2026-09-08T18:19:13-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:coinbase:8180833",
@@ -830,7 +1159,8 @@
 "link": "https://www.coinbase.com/careers/positions/8180833?gh_jid=8180833",
 "posted": "2026-09-04T17:31:02-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:rogo:0612fd71-b93a-444c-a3da-0857d06edd3f",
@@ -843,7 +1173,8 @@
 "link": "https://jobs.ashbyhq.com/rogo/0612fd71-b93a-444c-a3da-0857d06edd3f",
 "posted": "2026-09-03T03:47:44.753+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:rogo:7a995f99-b4e1-46e1-a805-d76c65ff63a0",
@@ -856,7 +1187,8 @@
 "link": "https://jobs.ashbyhq.com/rogo/7a995f99-b4e1-46e1-a805-d76c65ff63a0",
 "posted": "2026-09-03T03:44:03.604+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:cohere:b0bcef37-1d20-414f-aade-c54942d63df9",
@@ -869,7 +1201,8 @@
 "link": "https://jobs.ashbyhq.com/cohere/b0bcef37-1d20-414f-aade-c54942d63df9",
 "posted": "2026-09-01T23:06:28.297+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:rogo:bc0086cd-42a3-470b-8ced-b7ad8f44c7b0",
@@ -882,7 +1215,8 @@
 "link": "https://jobs.ashbyhq.com/rogo/bc0086cd-42a3-470b-8ced-b7ad8f44c7b0",
 "posted": "2026-09-01T04:19:44.660+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:benchling:c1ad7288-ad78-4a0f-8f19-1fcc3f6cf85b",
@@ -895,7 +1229,8 @@
 "link": "https://jobs.ashbyhq.com/benchling/c1ad7288-ad78-4a0f-8f19-1fcc3f6cf85b",
 "posted": "2026-08-28T16:13:20.796+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:cloudflare:8043339",
@@ -908,7 +1243,8 @@
 "link": "https://boards.greenhouse.io/cloudflare/jobs/8043339?gh_jid=8043339",
 "posted": "2026-08-26T10:18:44-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:figma:6158162004",
@@ -921,7 +1257,8 @@
 "link": "https://boards.greenhouse.io/figma/jobs/6158162004?gh_jid=6158162004",
 "posted": "2026-08-25T17:42:20-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:baseten:11ab2593-6648-4943-ab4a-284fe7e89720",
@@ -934,7 +1271,8 @@
 "link": "https://jobs.ashbyhq.com/baseten/11ab2593-6648-4943-ab4a-284fe7e89720",
 "posted": "2026-08-19T04:56:43.108+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:gusto:8099751",
@@ -947,7 +1285,8 @@
 "link": "https://job-boards.greenhouse.io/gusto/jobs/8099751",
 "posted": "2026-08-14T13:08:22-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:point72:8701705002",
@@ -960,7 +1299,8 @@
 "link": "https://boards.greenhouse.io/point72/jobs/8701705002?gh_jid=8701705002",
 "posted": "2026-08-12T15:32:55-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:supabase:59083a14-b2b6-4dd8-8037-739aa1ad1e22",
@@ -973,7 +1313,8 @@
 "link": "https://jobs.ashbyhq.com/supabase/59083a14-b2b6-4dd8-8037-739aa1ad1e22",
 "posted": "2026-08-04T19:08:19.856+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:intercom:8081165",
@@ -986,7 +1327,8 @@
 "link": "https://job-boards.greenhouse.io/intercom/jobs/8081165",
 "posted": "2026-07-30T11:18:11-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:ramp:b614563f-3ce6-4dca-b5ba-0e5a6c8bda27",
@@ -999,7 +1341,8 @@
 "link": "https://jobs.ashbyhq.com/ramp/b614563f-3ce6-4dca-b5ba-0e5a6c8bda27",
 "posted": "2026-07-28T17:56:57.225+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:cursor:6960dfef-6dc1-4dbb-887b-0fc9e6e4292e",
@@ -1012,7 +1355,8 @@
 "link": "https://jobs.ashbyhq.com/cursor/6960dfef-6dc1-4dbb-887b-0fc9e6e4292e",
 "posted": "2026-07-23T18:55:03.369+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "lv:zoox:5e03b357-0cc1-4194-9488-14f85044f4f9",
@@ -1025,7 +1369,8 @@
 "link": "https://jobs.lever.co/zoox/5e03b357-0cc1-4194-9488-14f85044f4f9",
 "posted": "2026-07-20T21:28:23+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:gitlab:8512432002",
@@ -1038,7 +1383,8 @@
 "link": "https://job-boards.greenhouse.io/gitlab/jobs/8512432002",
 "posted": "2026-07-20T16:13:39-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:rogo:bae7053e-80de-4cd7-966f-06abe55426c1",
@@ -1051,7 +1397,8 @@
 "link": "https://jobs.ashbyhq.com/rogo/bae7053e-80de-4cd7-966f-06abe55426c1",
 "posted": "2026-07-20T03:33:28.740+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:scaleai:4713648005",
@@ -1064,7 +1411,8 @@
 "link": "https://job-boards.greenhouse.io/scaleai/jobs/4713648005",
 "posted": "2026-07-14T15:15:47-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:janestreet:8631973002",
@@ -1077,7 +1425,8 @@
 "link": "https://www.janestreet.com/join-jane-street/apply/8631973002?gh_jid=8631973002",
 "posted": "2026-07-13T20:19:37-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:stripe:8055930",
@@ -1090,7 +1439,8 @@
 "link": "https://stripe.com/jobs/search?gh_jid=8055930",
 "posted": "2026-07-13T19:29:13-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:xai:5182183007",
@@ -1103,7 +1453,8 @@
 "link": "https://job-boards.greenhouse.io/xai/jobs/5182183007",
 "posted": "2026-07-12T03:52:08-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "lv:palantir:8f362a1f-1eff-4327-94c1-ff46e2101c69",
@@ -1116,7 +1467,8 @@
 "link": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69",
 "posted": "2026-07-10T22:43:13+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:rogo:9ab1b819-4fcf-4b14-98af-06dcfc82c31e",
@@ -1129,7 +1481,8 @@
 "link": "https://jobs.ashbyhq.com/rogo/9ab1b819-4fcf-4b14-98af-06dcfc82c31e",
 "posted": "2026-07-07T22:14:11.357+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:rogo:fd7d1775-9fa3-470d-8cc1-b2c91e19a31b",
@@ -1142,7 +1495,8 @@
 "link": "https://jobs.ashbyhq.com/rogo/fd7d1775-9fa3-470d-8cc1-b2c91e19a31b",
 "posted": "2026-07-07T22:12:46.030+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:andurilindustries:5180410007",
@@ -1155,7 +1509,8 @@
 "link": "https://boards.greenhouse.io/andurilindustries/jobs/5180410007?gh_jid=5180410007",
 "posted": "2026-07-06T12:54:10-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:andurilindustries:5114654007",
@@ -1168,7 +1523,8 @@
 "link": "https://boards.greenhouse.io/andurilindustries/jobs/5114654007?gh_jid=5114654007",
 "posted": "2026-06-29T14:20:26-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:andurilindustries:5150089007",
@@ -1181,7 +1537,8 @@
 "link": "https://boards.greenhouse.io/andurilindustries/jobs/5150089007?gh_jid=5150089007",
 "posted": "2026-06-29T14:01:58-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:datadog:8003181",
@@ -1194,7 +1551,8 @@
 "link": "https://careers.datadoghq.com/detail/8003181/?gh_jid=8003181",
 "posted": "2026-06-24T10:18:28-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:rogo:1c5d976d-5988-4551-a288-c0eeb88a0f1f",
@@ -1207,7 +1565,8 @@
 "link": "https://jobs.ashbyhq.com/rogo/1c5d976d-5988-4551-a288-c0eeb88a0f1f",
 "posted": "2026-06-23T04:04:10.413+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:rogo:d2142883-08fd-4ffe-a678-44381c0d1b87",
@@ -1220,7 +1579,8 @@
 "link": "https://jobs.ashbyhq.com/rogo/d2142883-08fd-4ffe-a678-44381c0d1b87",
 "posted": "2026-06-22T23:31:25.581+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:harvey:f8857e81-4062-4669-a7e3-7b73b114979b",
@@ -1233,7 +1593,8 @@
 "link": "https://jobs.ashbyhq.com/harvey/f8857e81-4062-4669-a7e3-7b73b114979b",
 "posted": "2026-06-15T20:19:44.526+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:harvey:e69f2050-b4c0-4fbb-9852-2c60d2adbb45",
@@ -1246,7 +1607,8 @@
 "link": "https://jobs.ashbyhq.com/harvey/e69f2050-b4c0-4fbb-9852-2c60d2adbb45",
 "posted": "2026-06-15T20:19:41.684+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:harvey:ecfc45be-fc15-4c16-a419-509c998b6c80",
@@ -1259,7 +1621,8 @@
 "link": "https://jobs.ashbyhq.com/harvey/ecfc45be-fc15-4c16-a419-509c998b6c80",
 "posted": "2026-06-15T20:19:24.236+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:doordashusa:7990832",
@@ -1272,7 +1635,8 @@
 "link": "https://job-boards.greenhouse.io/doordashusa/jobs/7990832",
 "posted": "2026-06-09T11:22:00-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:stripe:7947546",
@@ -1285,7 +1649,8 @@
 "link": "https://stripe.com/jobs/search?gh_jid=7947546",
 "posted": "2026-05-20T18:31:58-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "lv:palantir:be4ab5cb-9caa-4c2a-97b9-c73805fca4fc",
@@ -1298,7 +1663,8 @@
 "link": "https://jobs.lever.co/palantir/be4ab5cb-9caa-4c2a-97b9-c73805fca4fc",
 "posted": "2026-05-07T17:41:25+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:databricks:8488399002",
@@ -1311,7 +1677,8 @@
 "link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8488399002",
 "posted": "2026-04-07T17:20:43-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:andurilindustries:5090905007",
@@ -1324,7 +1691,8 @@
 "link": "https://boards.greenhouse.io/andurilindustries/jobs/5090905007?gh_jid=5090905007",
 "posted": "2026-04-02T11:25:11-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "lv:palantir:5c7bb70c-83ea-43e7-8055-0c8f319f4333",
@@ -1337,7 +1705,8 @@
 "link": "https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333",
 "posted": "2026-03-20T19:05:22+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "lv:palantir:e6789b17-62fb-4226-a079-f8c17ff19e2d",
@@ -1350,7 +1719,8 @@
 "link": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d",
 "posted": "2026-03-20T19:02:47+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:baseten:c2ba6c50-d282-4478-98e9-668f94facde8",
@@ -1363,7 +1733,8 @@
 "link": "https://jobs.ashbyhq.com/baseten/c2ba6c50-d282-4478-98e9-668f94facde8",
 "posted": "2026-03-18T17:12:13.600+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:brex:8463702002",
@@ -1376,7 +1747,8 @@
 "link": "https://www.brex.com/careers/8463702002?gh_jid=8463702002",
 "posted": "2026-03-14T16:27:34-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:scaleai:4673051005",
@@ -1389,7 +1761,8 @@
 "link": "https://job-boards.greenhouse.io/scaleai/jobs/4673051005",
 "posted": "2026-03-13T13:46:38-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "lv:palantir:ac0dc094-2480-43c2-8495-26ade227ff4f",
@@ -1402,7 +1775,8 @@
 "link": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f",
 "posted": "2026-03-10T12:26:55+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:modal:9fadb51f-ce11-41b1-84d5-470e66cc8ee9",
@@ -1415,7 +1789,8 @@
 "link": "https://jobs.ashbyhq.com/modal/9fadb51f-ce11-41b1-84d5-470e66cc8ee9",
 "posted": "2026-02-23T19:17:06.760+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:andurilindustries:5057206007",
@@ -1428,7 +1803,8 @@
 "link": "https://boards.greenhouse.io/andurilindustries/jobs/5057206007?gh_jid=5057206007",
 "posted": "2026-02-19T15:28:53-05:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "lv:palantir:689e6869-01bc-40f1-b580-adb33a020065",
@@ -1441,7 +1817,8 @@
 "link": "https://jobs.lever.co/palantir/689e6869-01bc-40f1-b580-adb33a020065",
 "posted": "2026-02-10T14:31:06+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:cognition:f1430967-f367-4afe-9107-e58da423633c",
@@ -1454,7 +1831,8 @@
 "link": "https://jobs.ashbyhq.com/cognition/f1430967-f367-4afe-9107-e58da423633c",
 "posted": "2026-01-26T23:26:14.041+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:brex:8366850002",
@@ -1467,7 +1845,8 @@
 "link": "https://www.brex.com/careers/8366850002?gh_jid=8366850002",
 "posted": "2026-01-08T17:13:05-05:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:vercel:5752684004",
@@ -1480,7 +1859,8 @@
 "link": "https://job-boards.greenhouse.io/vercel/jobs/5752684004",
 "posted": "2026-01-07T15:45:38-05:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:cognition:9ef920ff-de3d-4b5d-8733-f3bf92763b0f",
@@ -1493,7 +1873,8 @@
 "link": "https://jobs.ashbyhq.com/cognition/9ef920ff-de3d-4b5d-8733-f3bf92763b0f",
 "posted": "2025-11-26T01:11:24.182+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:physicalintelligence:567d620f-7600-4e35-9edd-f41ed4db45ce",
@@ -1506,7 +1887,8 @@
 "link": "https://jobs.ashbyhq.com/physicalintelligence/567d620f-7600-4e35-9edd-f41ed4db45ce",
 "posted": "2025-11-17T21:36:46.127+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "lv:palantir:33243fb5-6907-40c7-930c-968b25d825d0",
@@ -1519,7 +1901,8 @@
 "link": "https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0",
 "posted": "2025-10-29T20:26:17+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "lv:palantir:91117724-9389-48dc-912f-98e48d4d45d8",
@@ -1532,7 +1915,8 @@
 "link": "https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8",
 "posted": "2025-10-29T18:27:22+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:modal:cbbbee50-3d3b-4873-8ae8-ff4b885b8e54",
@@ -1545,7 +1929,8 @@
 "link": "https://jobs.ashbyhq.com/modal/cbbbee50-3d3b-4873-8ae8-ff4b885b8e54",
 "posted": "2025-09-23T12:52:22.371+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:openai:db5a708d-1d7a-4aa3-8dd3-0d0423b6b69f",
@@ -1558,7 +1943,8 @@
 "link": "https://jobs.ashbyhq.com/openai/db5a708d-1d7a-4aa3-8dd3-0d0423b6b69f",
 "posted": "2025-09-03T22:38:06.592+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "lv:palantir:84131e3f-455e-47fc-9c11-898d95f09048",
@@ -1571,7 +1957,8 @@
 "link": "https://jobs.lever.co/palantir/84131e3f-455e-47fc-9c11-898d95f09048",
 "posted": "2025-07-29T19:30:16+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:cognition:d72d584c-bb11-4b6a-b043-d81425ea884a",
@@ -1584,7 +1971,8 @@
 "link": "https://jobs.ashbyhq.com/cognition/d72d584c-bb11-4b6a-b043-d81425ea884a",
 "posted": "2025-07-10T23:03:03.075+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "lv:palantir:2e6b0ac8-83e9-4be5-a3aa-cf319f751728",
@@ -1597,7 +1985,8 @@
 "link": "https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728",
 "posted": "2025-06-13T23:45:06+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "lv:palantir:13f99633-43b5-4459-8e84-25073f257c18",
@@ -1610,7 +1999,8 @@
 "link": "https://jobs.lever.co/palantir/13f99633-43b5-4459-8e84-25073f257c18",
 "posted": "2025-02-07T19:57:42+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:point72:7829230002",
@@ -1623,7 +2013,8 @@
 "link": "https://boards.greenhouse.io/point72/jobs/7829230002?gh_jid=7829230002",
 "posted": "2025-01-23T17:41:04-05:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "lv:palantir:4cba9c95-d16f-440d-83e7-2352480f689f",
@@ -1636,7 +2027,8 @@
 "link": "https://jobs.lever.co/palantir/4cba9c95-d16f-440d-83e7-2352480f689f",
 "posted": "2024-11-13T10:59:47+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:point72:7667745002",
@@ -1649,7 +2041,8 @@
 "link": "https://boards.greenhouse.io/point72/jobs/7667745002?gh_jid=7667745002",
 "posted": "2024-10-03T16:50:04-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:baseten:84c1801c-1a65-49fb-aaaa-beeafd530e7e",
@@ -1662,7 +2055,8 @@
 "link": "https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e",
 "posted": "2024-03-28T21:00:55.921+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "lv:palantir:636fc05c-d348-4a06-be51-597cb9e07488",
@@ -1675,7 +2069,8 @@
 "link": "https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488",
 "posted": "2024-03-22T20:44:35+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "ab:openai:fc5bbc77-a30c-4e7a-9acc-8a2e748545b4",
@@ -1688,7 +2083,8 @@
 "link": "https://jobs.ashbyhq.com/openai/fc5bbc77-a30c-4e7a-9acc-8a2e748545b4",
 "posted": "2023-09-26T22:34:48.884+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "lv:palantir:b57f08e9-546c-4b9b-8d21-db0ebbc11363",
@@ -1701,7 +2097,8 @@
 "link": "https://jobs.lever.co/palantir/b57f08e9-546c-4b9b-8d21-db0ebbc11363",
 "posted": "2023-09-14T01:23:51+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "gh:janestreet:6558007002",
@@ -1714,7 +2111,8 @@
 "link": "https://www.janestreet.com/join-jane-street/apply/6558007002?gh_jid=6558007002",
 "posted": "2023-01-09T09:54:03-05:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "lv:veeva:28c47d34-3ad6-4485-85a9-686b4239b9ea",
@@ -1727,7 +2125,8 @@
 "link": "https://jobs.lever.co/veeva/28c47d34-3ad6-4485-85a9-686b4239b9ea",
 "posted": "2022-07-14T16:40:35+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "lv:palantir:d1ac83d0-e923-42a5-8e6d-58dd0cab25ca",
@@ -1740,7 +2139,8 @@
 "link": "https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca",
 "posted": "2022-06-30T22:50:16+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "lv:palantir:e0010393-c300-446f-bf67-fa2ef067f16f",
@@ -1753,7 +2153,8 @@
 "link": "https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f",
 "posted": "2022-06-30T21:20:50+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "lv:palantir:e82b696e-a085-4bbf-8bcb-6d2c4f8cf2f7",
@@ -1766,7 +2167,8 @@
 "link": "https://jobs.lever.co/palantir/e82b696e-a085-4bbf-8bcb-6d2c4f8cf2f7",
 "posted": "2020-06-02T19:49:49+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "lv:palantir:4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
@@ -1779,7 +2181,8 @@
 "link": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
 "posted": "2016-02-24T23:37:05+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 },
 {
 "id": "lv:palantir:dab396d4-2f14-4796-aac0-0d82883dccf0",
@@ -1792,8 +2195,9 @@
 "link": "https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0",
 "posted": "2014-01-23T00:00:00+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true
+"seeded": true,
+"sector": ""
 }
 ],
-"updated": "2026-10-28T14:17:35+00:00"
+"updated": "2026-10-28T14:39:35+00:00"
 }
