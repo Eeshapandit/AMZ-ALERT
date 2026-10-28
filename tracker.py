@@ -99,8 +99,15 @@ def required_years(raw, lenient=False):
     return max(vals) if vals else None
 
 
-def role_of(title):
-    for name, rx in ROLE_RES.items():
+RETAIL_CFG = CFG.get("retail", {})
+RETAIL_ROLE_RES = {k: re.compile(v, re.I) for k, v in RETAIL_CFG.get("extra_roles", {}).items()}
+RETAIL_KEYS = {"amazon:amazon"} | {f"{kind}:{s}" for kind in ("greenhouse", "lever", "ashby")
+                                   for s in RETAIL_CFG.get(kind, [])}
+
+
+def role_of(title, retail=False):
+    rules = list(ROLE_RES.items()) + (list(RETAIL_ROLE_RES.items()) if retail else [])
+    for name, rx in rules:
         if rx.search(title or ""):
             return name
     return None
@@ -213,6 +220,9 @@ SOURCES = [("amazon", "amazon", src_amazon)] + \
     [("greenhouse", s, src_greenhouse) for s in CFG.get("greenhouse", [])] + \
     [("lever", s, src_lever) for s in CFG.get("lever", [])] + \
     [("ashby", s, src_ashby) for s in CFG.get("ashby", [])]
+_have = {(k, s) for k, s, _ in SOURCES}
+SOURCES += [(k, s, fn) for k, fn in (("greenhouse", src_greenhouse), ("lever", src_lever), ("ashby", src_ashby))
+            for s in RETAIL_CFG.get(k, []) if (k, s) not in _have]
 
 
 def run_source(src):
@@ -272,7 +282,7 @@ def main():
         ok_keys.add(key)
         hits = 0
         for j in jobs:
-            role = role_of(j["title"])
+            role = role_of(j["title"], retail=key in RETAIL_KEYS)
             if not role:
                 continue
             label = location_ok(j["location"], j["workplace"])
@@ -308,6 +318,7 @@ def main():
             "location": j["location"], "mode": j["mode"], "years": st["y"], "link": j["link"],
             "posted": j["posted"], "first_seen": prev.get("first_seen", now),
             "seeded": prev.get("seeded", j["_src"] not in known_companies),
+            "sector": "retail" if j["_src"] in RETAIL_KEYS else "",
         }
 
     # keep last known jobs for sources that errored this run

@@ -50,7 +50,7 @@
   .sub { color: var(--muted); font-size: 13px; display: flex; flex-wrap: wrap; gap: 4px 12px; margin-top: 2px; }
   .tag { font-size: 11px; font-weight: 700; padding: 2px 7px; border-radius: 6px; margin-left: 6px; vertical-align: 2px;
     border: 1px solid currentColor; }
-  .t-FDE { color: var(--fde); } .t-DE { color: var(--de); } .t-DA { color: var(--da); }
+  .t-FDE { color: var(--fde); } .t-DE, .t-AE { color: var(--de); } .t-DA, .t-AN, .t-BI, .t-DS, .t-DATA { color: var(--da); }
   .new { color: var(--new); background: var(--new-bg); border-color: transparent; }
   .yrs { font-weight: 600; color: var(--ink); }
   .side { text-align: right; display: flex; flex-direction: column; gap: 6px; align-items: flex-end; }
@@ -97,6 +97,7 @@
     <button class="chip" data-loc="ca">California</button>
   </div>
   <div class="row"><span class="lbl">Show</span>
+    <button class="chip" id="retail">Retail only</button>
     <button class="chip" id="newOnly">Posted in 24h</button>
     <button class="chip" id="junior">0 to 1 yrs</button>
     <button class="chip" id="noSenior">Hide Senior/Staff titles</button>
@@ -162,13 +163,14 @@
     ca: function (j) { return /california|,\s*ca\b|san francisco|bay area|los angeles|san jose|palo alto|mountain view|sunnyvale|san diego|menlo park|redwood city|santa clara|oakland|irvine|santa monica|cupertino|san mateo/i.test(j.location); }
   };
   var SENIOR = /\b(senior|sr\.?|staff|principal|lead|manager|director|head of|vp)\b/i;
-  var ROLE_TAG = { "FDE": "FDE", "Data Engineer": "DE", "Data Analyst": "DA" };
+  var ROLE_TAG = { "FDE": "FDE", "Data Engineer": "DE", "Data Analyst": "DA", "Analytics Engineer": "AE", "BI": "BI", "Data Scientist": "DS", "Analyst": "AN", "Data / AI": "DATA" };
 
   function render() {
     var q = state.q.toLowerCase();
     var rows = state.jobs.filter(function (j) {
       if (ui.role && j.role !== ui.role) return false;
       if (ui.loc && !LOC[ui.loc](j)) return false;
+      if (ui.retail && j.sector !== "retail") return false;
       if (ui.newOnly && !isNew(j)) return false;
       if (ui.junior && j.years != null && j.years > 1) return false;
       if (ui.noSenior && SENIOR.test(j.title)) return false;
@@ -245,7 +247,7 @@
   }
   wireGroup("roles", "role", "role");
   wireGroup("locs", "loc", "loc");
-  ["newOnly", "junior", "noSenior", "hideApplied"].forEach(wireToggle);
+  ["retail", "newOnly", "junior", "noSenior", "hideApplied"].forEach(wireToggle);
   document.getElementById("q").oninput = function () { state.q = this.value; render(); };
   document.getElementById("list").addEventListener("change", function (e) {
     var id = e.target.dataset && e.target.dataset.id;
