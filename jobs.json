@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-28T02:26:06+00:00",
+ "updated": "2026-10-28T08:56:17+00:00",
  "jobs": [
+  {
+   "id": "10590952",
+   "title": "Applied Scientist, Neuron ARG",
+   "location": "Seattle, Washington, USA",
+   "team": "annapurna",
+   "posted_date": "October 28, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10590952/applied-scientist-neuron-arg",
+   "query": "machine learning",
+   "first_seen": "2026-10-28T08:56:17+00:00",
+   "seeded": false
+  },
   {
    "id": "10590801",
    "title": "Sr. Manager, Software Development, WW Sustainability  ",
