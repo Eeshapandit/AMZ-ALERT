@@ -166,7 +166,8 @@
       return;
     }
     list.innerHTML = rows.map(function (j) {
-      var sub = [j.location, j.team, j.posted_date ? "Posted " + j.posted_date : ""].filter(Boolean)
+      var yrs = j.years == null ? "No yrs listed" : j.years + "+ yrs";
+      var sub = [yrs, j.location, j.team, j.posted_date ? "Posted " + j.posted_date : ""].filter(Boolean)
         .map(function (s) { return "<span>" + esc(s) + "</span>"; }).join("");
       return '<div class="job' + (applied[j.id] ? " applied" : "") + '">' +
         '<div><a class="title" href="' + esc(j.link) + '" target="_blank" rel="noopener">' + esc(j.title) + "</a>" +

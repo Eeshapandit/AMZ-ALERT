@@ -1,5 +1,6 @@
 """Job watcher."""
 import json
+import re
 import os
 import sys
 import urllib.parse
@@ -31,7 +32,24 @@ def fetch(query):
         return json.loads(r.read()).get("jobs", [])
 
 
+YEARS_RE = re.compile(r"(\d{1,2})\s*\+?\s*(?:or more\s+)?(?:years?|yrs?)", re.I)
+
+
+def required_years(job):
+    """Years asked for in basic qualifications. Each line's alternatives
+    ("Master's + 3 or Bachelor's + 5") count as the lowest; the job needs
+    the highest line. None if no years are mentioned."""
+    text = re.sub(r"<br\s*/?>|</li>|\u2022", "\n", job.get("basic_qualifications") or "", flags=re.I)
+    per_line = [min(int(n) for n in YEARS_RE.findall(line)) for line in text.split("\n") if YEARS_RE.search(line)]
+    return max(per_line) if per_line else None
+
+
 def matches(job):
+    max_years = CONFIG.get("max_years")
+    if max_years is not None:
+        y = required_years(job)
+        if y is not None and y > max_years:
+            return False
     title = (job.get("title") or "").lower()
     loc = " ".join(
         str(job.get(k) or "") for k in ("location", "normalized_location", "city", "state")
@@ -57,6 +75,7 @@ def record(job, query, now, seeded):
         "location": job.get("normalized_location") or job.get("location") or "",
         "team": job.get("business_category") or job.get("job_category") or job.get("team") or "",
         "posted_date": job.get("posted_date", ""),
+        "years": required_years(job),
         "link": link_of(job),
         "query": query,
         "first_seen": now,
@@ -116,11 +135,19 @@ def main():
             notify(found[i][0])
         print(f"{len(new_ids)} new jobs.")
 
+    # drop old entries saved before the experience filter existed
+    legacy = [i for i, j in stored.items() if "years" not in j]
+    for i in legacy:
+        if i in found:
+            stored[i]["years"] = required_years(found[i][0])
+        else:
+            del stored[i]
+
     for i, (job, q) in found.items():
         if i not in stored:
             stored[i] = record(job, q, now, seeded=first_run)
 
-    if first_run or new_ids or not JOBS_FILE.exists():
+    if first_run or new_ids or legacy or not JOBS_FILE.exists():
         SEEN_FILE.write_text(json.dumps(sorted(seen | set(found)), indent=0))
         jobs = sorted(stored.values(), key=lambda j: j["first_seen"], reverse=True)[:MAX_JOBS]
         JOBS_FILE.write_text(json.dumps({"updated": now, "jobs": jobs}, indent=1))

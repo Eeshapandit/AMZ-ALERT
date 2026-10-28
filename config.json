@@ -10,7 +10,10 @@
     "AI engineer",
     "applied scientist"
   ],
-  "countries": ["USA"],
+  "countries": [
+    "USA"
+  ],
   "locations": [],
-  "exclude_title": []
+  "exclude_title": [],
+  "max_years": 3
 }
