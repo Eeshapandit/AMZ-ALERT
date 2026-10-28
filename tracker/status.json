@@ -139,7 +139,7 @@
   },
   "ashby:posthog": {
    "matching": 0,
-   "open": 11
+   "open": 12
   },
   "ashby:prefect": {
    "matching": 0,
@@ -283,7 +283,7 @@
   },
   "greenhouse:datadog": {
    "matching": 1,
-   "open": 402
+   "open": 401
   },
   "greenhouse:discord": {
    "matching": 3,
@@ -507,7 +507,7 @@
   },
   "greenhouse:samsara": {
    "matching": 2,
-   "open": 320
+   "open": 321
   },
   "greenhouse:scaleai": {
    "matching": 5,
@@ -619,7 +619,7 @@
   },
   "lever:lyrahealth": {
    "matching": 1,
-   "open": 466
+   "open": 465
   },
   "lever:matchgroup": {
    "matching": 1,
