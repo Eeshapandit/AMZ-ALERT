@@ -1,0 +1,47 @@
+name: job-tracker
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - tracker.py
+      - tracker_config.json
+      - .github/workflows/tracker.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tracker
+  cancel-in-progress: false
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check every ~2 min during this run
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          git config user.name "job-bot"
+          git config user.email "job-bot@users.noreply.github.com"
+          for pass in 1 2 3; do
+            python tracker.py || true
+            if [ -n "$(git status --porcelain tracker/)" ]; then
+              git add tracker/
+              git commit -qm "tracker update"
+              for try in 1 2 3; do
+                git pull -q --rebase origin main && git push -q && break
+                sleep 5
+              done
+            fi
+            [ "$pass" -lt 3 ] && sleep 110
+          done

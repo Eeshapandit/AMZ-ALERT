@@ -1,0 +1,41 @@
+{
+  "roles": {
+    "FDE": "forward[\\s-]*deploy",
+    "Data Engineer": "data\\s+engineer",
+    "Data Analyst": "data\\s+analyst"
+  },
+  "max_years": 3,
+  "amazon_queries": ["forward deployed", "data engineer", "data analyst"],
+  "greenhouse": [
+    "anthropic", "databricks", "scaleai", "airbnb", "stripe", "figma", "datadog", "mongodb",
+    "robinhood", "coinbase", "lyft", "pinterest", "dropbox", "instacart", "affirm", "brex",
+    "chime", "gusto", "asana", "airtable", "samsara", "cloudflare", "twilio", "okta",
+    "elastic", "gitlab", "squarespace", "etsy", "peloton", "betterment", "flatironhealth",
+    "nerdwallet", "sofi", "discord", "reddit", "duolingo", "roblox", "twitch", "andurilindustries",
+    "vercel", "gleanwork", "fivetran", "dbtlabsinc", "clickhouse", "cockroachlabs", "mercury",
+    "waymo", "faire", "grammarly", "nextdoor", "thumbtack", "doordashusa", "toast", "carta",
+    "oscar", "headway", "springhealth", "hinge", "warbyparker", "seatgeek",
+    "compass", "justworks", "datavant", "tempus", "abnormalsecurity", "verkada",
+    "applovin", "unity3d", "khanacademy", "nuro", "aurorainnovation", "zscaler", "hightouch",
+    "amplitude", "mixpanel", "postman", "launchdarkly", "pagerduty", "newrelic", "sentry",
+    "temporaltechnologies", "anyscale", "togetherai", "runwayml", "characterai", "xai",
+    "point72", "janestreet", "twosigma", "citadel", "drweng", "hudsonrivertrading", "imc",
+    "optiver", "bloomberg", "nytimes", "spotify", "block", "intercom", "monzo", "wise"
+  ],
+  "lever": [
+    "palantir", "plaid", "mistral", "zoox", "shieldai", "anduril", "matchgroup", "eventbrite",
+    "atlassian", "netflix", "attentive", "outreach", "kraken", "binance", "whoop", "lyrahealth",
+    "rover", "gopuff", "jumpcloud", "veeva", "nium", "sardine"
+  ],
+  "ashby": [
+    "openai", "ramp", "notion", "cohere", "perplexity", "sierra", "decagon", "harvey",
+    "rippling", "linear", "retool", "hex", "writer", "confluent", "airbyte", "census",
+    "replit", "elevenlabs", "modal", "baseten", "cursor", "anysphere", "langchain",
+    "pinecone", "weaviate", "snorkelai", "hebbia", "rogo", "clay", "deel", "vanta",
+    "watershed", "chainguard", "cognition", "glean", "suno", "pika", "luma", "physicalintelligence",
+    "skild", "abridge", "ambiencehealthcare", "hippocraticai", "tennr", "hightouch", "dagster",
+    "motherduck", "tecton", "materialize", "astronomer", "prefect", "sigmacomputing", "omni",
+    "lightdash", "metabase", "cribl", "posthog", "supabase", "neon", "planetscale", "zapier",
+    "whatnot", "plaid", "benchling", "scale", "giga", "distyl", "palantir"
+  ]
+}

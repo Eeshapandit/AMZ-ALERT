@@ -1,0 +1,259 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Job Tracker</title>
+<style>
+  :root {
+    --bg: #f5f4f0; --card: #ffffff; --ink: #1b1b19; --muted: #6b6a63;
+    --line: #e3e1da; --accent: #3b5bdb; --accent-ink: #ffffff; --chip: #eceae4;
+    --new: #0a7d4f; --new-bg: #e2f3ea;
+    --fde: #7048e8; --de: #1971c2; --da: #e8590c;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #121211; --card: #1c1c1a; --ink: #ecebe5; --muted: #9a998f;
+      --line: #2d2d2a; --accent: #748ffc; --accent-ink: #121211; --chip: #262623;
+      --new: #51cf8e; --new-bg: #16301f;
+      --fde: #b197fc; --de: #74c0fc; --da: #ffa94d;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink);
+    font: 15px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, sans-serif; }
+  .wrap { max-width: 980px; margin: 0 auto; padding: 26px 16px 60px; }
+  header { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 14px; margin-bottom: 16px; }
+  h1 { font-size: 22px; margin: 0; letter-spacing: -0.01em; }
+  h1 span { color: var(--accent); }
+  .meta { color: var(--muted); font-size: 13px; }
+  .meta .dot { display: inline-block; width: 7px; height: 7px; border-radius: 50%; background: var(--new); margin-right: 5px; vertical-align: 1px; }
+  .stats { display: grid; grid-template-columns: repeat(4, minmax(0, 150px)); gap: 10px; margin-bottom: 16px; }
+  .stat { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px; }
+  .stat b { display: block; font-size: 20px; font-variant-numeric: tabular-nums; }
+  .stat small { color: var(--muted); }
+  .row { display: flex; flex-wrap: wrap; gap: 7px; margin-bottom: 9px; align-items: center; }
+  .row .lbl { font-size: 12px; color: var(--muted); width: 58px; }
+  input[type=search] { flex: 1 1 240px; padding: 9px 12px; border-radius: 8px; border: 1px solid var(--line);
+    background: var(--card); color: var(--ink); font: inherit; }
+  .chip { border: 1px solid var(--line); background: var(--chip); color: var(--ink); padding: 6px 12px;
+    border-radius: 999px; font: inherit; font-size: 13px; cursor: pointer; }
+  .chip.on { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+  .count { color: var(--muted); font-size: 13px; margin: 12px 0 8px; }
+  .list { display: flex; flex-direction: column; gap: 8px; }
+  .job { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px;
+    display: grid; grid-template-columns: 1fr auto; gap: 4px 12px; align-items: start; }
+  .job.applied { opacity: 0.45; }
+  .co { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); }
+  .job a.title { color: var(--ink); font-weight: 600; text-decoration: none; }
+  .job a.title:hover { color: var(--accent); }
+  .sub { color: var(--muted); font-size: 13px; display: flex; flex-wrap: wrap; gap: 4px 12px; margin-top: 2px; }
+  .tag { font-size: 11px; font-weight: 700; padding: 2px 7px; border-radius: 6px; margin-left: 6px; vertical-align: 2px;
+    border: 1px solid currentColor; }
+  .t-FDE { color: var(--fde); } .t-DE { color: var(--de); } .t-DA { color: var(--da); }
+  .new { color: var(--new); background: var(--new-bg); border-color: transparent; }
+  .yrs { font-weight: 600; color: var(--ink); }
+  .side { text-align: right; display: flex; flex-direction: column; gap: 6px; align-items: flex-end; }
+  .ago { font-size: 12px; color: var(--muted); white-space: nowrap; }
+  label.ap { font-size: 12px; color: var(--muted); display: flex; gap: 5px; align-items: center; cursor: pointer; }
+  .empty { text-align: center; color: var(--muted); padding: 40px 10px; border: 1px dashed var(--line); border-radius: 10px; }
+  @media (max-width: 600px) {
+    .stats { grid-template-columns: repeat(4, 1fr); gap: 6px; }
+    .stat { padding: 8px 10px; } .stat b { font-size: 17px; } .stat small { font-size: 11px; }
+    .row .lbl { width: 100%; }
+    .job { grid-template-columns: 1fr; }
+    .side { flex-direction: row; justify-content: space-between; align-items: center; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Job <span>Tracker</span></h1>
+    <div class="meta" id="meta">Loading…</div>
+    <a href="./" style="margin-left:auto;font-size:13px;color:var(--accent)">Amazon only</a>
+  </header>
+
+  <div class="stats">
+    <div class="stat"><b id="sNew">0</b><small>new in 24h</small></div>
+    <div class="stat"><b id="sTotal">0</b><small>open roles</small></div>
+    <div class="stat"><b id="sCos">0</b><small>companies</small></div>
+    <div class="stat"><b id="sApplied">0</b><small>applied</small></div>
+  </div>
+
+  <div class="row"><input type="search" id="q" placeholder="Search company, title, location"></div>
+  <div class="row" id="roles"><span class="lbl">Role</span>
+    <button class="chip on" data-role="">All</button>
+    <button class="chip" data-role="FDE">Forward Deployed</button>
+    <button class="chip" data-role="Data Engineer">Data Engineer</button>
+    <button class="chip" data-role="Data Analyst">Data Analyst</button>
+  </div>
+  <div class="row" id="locs"><span class="lbl">Where</span>
+    <button class="chip on" data-loc="">All</button>
+    <button class="chip" data-loc="remote">Remote</button>
+    <button class="chip" data-loc="ny">NY</button>
+    <button class="chip" data-loc="nj">NJ</button>
+    <button class="chip" data-loc="sea">Seattle</button>
+    <button class="chip" data-loc="ca">California</button>
+  </div>
+  <div class="row"><span class="lbl">Show</span>
+    <button class="chip" id="newOnly">New in 24h</button>
+    <button class="chip" id="junior">0 to 1 yrs</button>
+    <button class="chip" id="noSenior">Hide Senior/Staff titles</button>
+    <button class="chip" id="hideApplied">Hide applied</button>
+  </div>
+
+  <div class="count" id="count"></div>
+  <div class="list" id="list"></div>
+</div>
+
+<script>
+(function () {
+  var OWNER = "Eeshapandit", REPO = "AMZ-ALERT", PATH = "tracker/jobs.json";
+  var DAY = 864e5, POLL = 90000;
+  var NAMES = { openai: "OpenAI", xai: "xAI", hex: "Hex", ramp: "Ramp", scaleai: "Scale AI", elevenlabs: "ElevenLabs",
+    posthog: "PostHog", langchain: "LangChain", anysphere: "Anysphere (Cursor)", snorkelai: "Snorkel AI",
+    planetscale: "PlanetScale", motherduck: "MotherDuck", sigmacomputing: "Sigma", hippocraticai: "Hippocratic AI",
+    ambiencehealthcare: "Ambience", physicalintelligence: "Physical Intelligence", shieldai: "Shield AI",
+    lyrahealth: "Lyra Health", matchgroup: "Match Group", jumpcloud: "JumpCloud", launchdarkly: "LaunchDarkly" };
+
+  var store = {
+    get: function (k, d) { try { var v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch (e) { return d; } },
+    set: function (k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
+  };
+  var applied = store.get("trk_applied", {});
+  var ui = store.get("trk_ui", { role: "", loc: "", newOnly: false, junior: false, noSenior: false, hideApplied: false });
+  var state = { jobs: [], updated: null, q: "" };
+
+  function esc(s) {
+    return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+  }
+  function ago(iso) {
+    var d = (Date.now() - new Date(iso).getTime()) / 1000;
+    if (isNaN(d)) return "";
+    if (d < 60) return "just now";
+    if (d < 3600) return Math.floor(d / 60) + " min ago";
+    if (d < 86400) return Math.floor(d / 3600) + " hr ago";
+    return Math.floor(d / 86400) + " d ago";
+  }
+  function coName(c) {
+    if (!c) return "";
+    var k = c.toLowerCase();
+    if (NAMES[k]) return NAMES[k];
+    return /[A-Z ]/.test(c) ? c : c.charAt(0).toUpperCase() + c.slice(1);
+  }
+  function posted(p) {
+    if (!p) return "";
+    var d = new Date(p);
+    return isNaN(d) ? p : d.toLocaleDateString(undefined, { month: "short", day: "numeric" });
+  }
+  function isNew(j) { return !j.seeded && Date.now() - new Date(j.first_seen).getTime() < DAY; }
+  var LOC = {
+    remote: function (j) { return /remote/i.test(j.mode); },
+    ny: function (j) { return /new york|\bnyc\b|brooklyn|manhattan|,\s*ny\b/i.test(j.location); },
+    nj: function (j) { return /new jersey|,\s*nj\b|jersey city|newark|hoboken|princeton/i.test(j.location); },
+    sea: function (j) { return /seattle|bellevue|redmond|kirkland|,\s*wa\b/i.test(j.location); },
+    ca: function (j) { return /california|,\s*ca\b|san francisco|bay area|los angeles|san jose|palo alto|mountain view|sunnyvale|san diego|menlo park|redwood city|santa clara|oakland|irvine|santa monica|cupertino|san mateo/i.test(j.location); }
+  };
+  var SENIOR = /\b(senior|sr\.?|staff|principal|lead|manager|director|head of|vp)\b/i;
+  var ROLE_TAG = { "FDE": "FDE", "Data Engineer": "DE", "Data Analyst": "DA" };
+
+  function render() {
+    var q = state.q.toLowerCase();
+    var rows = state.jobs.filter(function (j) {
+      if (ui.role && j.role !== ui.role) return false;
+      if (ui.loc && !LOC[ui.loc](j)) return false;
+      if (ui.newOnly && !isNew(j)) return false;
+      if (ui.junior && j.years != null && j.years > 1) return false;
+      if (ui.noSenior && SENIOR.test(j.title)) return false;
+      if (ui.hideApplied && applied[j.id]) return false;
+      if (q && (j.company + " " + coName(j.company) + " " + j.title + " " + j.location).toLowerCase().indexOf(q) < 0) return false;
+      return true;
+    });
+    var cos = {};
+    state.jobs.forEach(function (j) { cos[j.company.toLowerCase()] = 1; });
+    document.getElementById("sNew").textContent = state.jobs.filter(isNew).length;
+    document.getElementById("sTotal").textContent = state.jobs.length;
+    document.getElementById("sCos").textContent = Object.keys(cos).length;
+    document.getElementById("sApplied").textContent = Object.keys(applied).length;
+    document.getElementById("count").textContent = rows.length + " of " + state.jobs.length + " shown";
+
+    var list = document.getElementById("list");
+    if (!rows.length) {
+      list.innerHTML = '<div class="empty">' + (state.jobs.length ? "Nothing matches these filters." : "No data yet. The first run takes a few minutes.") + "</div>";
+      return;
+    }
+    list.innerHTML = rows.map(function (j) {
+      var t = ROLE_TAG[j.role] || "";
+      var yrs = j.years == null ? "No yrs listed" : j.years + "+ yrs";
+      var sub = '<span class="yrs">' + esc(yrs) + "</span><span>" + esc(j.mode) + "</span><span>" + esc(j.location) + "</span>" +
+        (j.posted ? "<span>Posted " + esc(posted(j.posted)) + "</span>" : "");
+      return '<div class="job' + (applied[j.id] ? " applied" : "") + '"><div>' +
+        '<div class="co">' + esc(coName(j.company)) + "</div>" +
+        '<a class="title" href="' + esc(j.link) + '" target="_blank" rel="noopener">' + esc(j.title) + "</a>" +
+        (t ? '<span class="tag t-' + t + '">' + t + "</span>" : "") +
+        (isNew(j) ? '<span class="tag new">NEW</span>' : "") +
+        '<div class="sub">' + sub + "</div></div>" +
+        '<div class="side"><span class="ago">' + (j.seeded ? "open at start" : "seen " + ago(j.first_seen)) + "</span>" +
+        '<label class="ap"><input type="checkbox" data-id="' + esc(j.id) + '"' + (applied[j.id] ? " checked" : "") + "> applied</label></div></div>";
+    }).join("");
+  }
+
+  function setData(d) {
+    state.jobs = d.jobs || [];
+    state.updated = d.updated;
+    document.getElementById("meta").innerHTML = '<span class="dot"></span>Live · last change ' +
+      esc(d.updated ? ago(d.updated) : "never") + " · checks every 2 to 5 min";
+    render();
+  }
+
+  // GitHub API gives the freshest copy; raw.githubusercontent is cached ~5 min and used as fallback.
+  function load() {
+    var api = "https://api.github.com/repos/" + OWNER + "/" + REPO + "/contents/" + PATH + "?ref=main";
+    fetch(api, { headers: { Accept: "application/vnd.github.raw+json" }, cache: "no-store" })
+      .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .catch(function () {
+        return fetch("https://raw.githubusercontent.com/" + OWNER + "/" + REPO + "/main/" + PATH + "?t=" + Date.now(), { cache: "no-store" })
+          .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); });
+      })
+      .catch(function () { return fetch(PATH + "?t=" + Date.now()).then(function (r) { return r.json(); }); })
+      .then(setData)
+      .catch(function () { document.getElementById("meta").textContent = "Could not load data yet"; render(); });
+  }
+
+  function saveUi() { store.set("trk_ui", ui); }
+  function wireGroup(id, key, attr) {
+    var btns = document.querySelectorAll("#" + id + " [data-" + attr + "]");
+    btns.forEach(function (b) {
+      b.classList.toggle("on", b.dataset[attr] === ui[key]);
+      b.onclick = function () {
+        btns.forEach(function (x) { x.classList.remove("on"); });
+        b.classList.add("on"); ui[key] = b.dataset[attr]; saveUi(); render();
+      };
+    });
+  }
+  function wireToggle(id) {
+    var b = document.getElementById(id);
+    b.classList.toggle("on", !!ui[id]);
+    b.onclick = function () { ui[id] = !ui[id]; b.classList.toggle("on", ui[id]); saveUi(); render(); };
+  }
+  wireGroup("roles", "role", "role");
+  wireGroup("locs", "loc", "loc");
+  ["newOnly", "junior", "noSenior", "hideApplied"].forEach(wireToggle);
+  document.getElementById("q").oninput = function () { state.q = this.value; render(); };
+  document.getElementById("list").addEventListener("change", function (e) {
+    var id = e.target.dataset && e.target.dataset.id;
+    if (!id) return;
+    if (e.target.checked) applied[id] = Date.now(); else delete applied[id];
+    store.set("trk_applied", applied); render();
+  });
+  document.addEventListener("visibilitychange", function () { if (!document.hidden) load(); });
+
+  load();
+  setInterval(function () { if (!document.hidden) load(); }, POLL);
+})();
+</script>
+</body>
+</html>
