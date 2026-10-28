@@ -395,7 +395,7 @@
   },
   "greenhouse:klaviyo": {
    "matching": 2,
-   "open": 157
+   "open": 156
   },
   "greenhouse:launchdarkly": {
    "matching": 0,
@@ -523,7 +523,7 @@
   },
   "greenhouse:squarespace": {
    "matching": 0,
-   "open": 27
+   "open": 28
   },
   "greenhouse:stitchfix": {
    "matching": 0,
@@ -555,7 +555,7 @@
   },
   "greenhouse:twilio": {
    "matching": 0,
-   "open": 133
+   "open": 134
   },
   "greenhouse:twitch": {
    "matching": 0,
@@ -599,7 +599,7 @@
   },
   "greenhouse:zscaler": {
    "matching": 0,
-   "open": 352
+   "open": 351
   },
   "lever:binance": {
    "matching": 0,
