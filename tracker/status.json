@@ -283,7 +283,7 @@
   },
   "greenhouse:datadog": {
    "matching": 1,
-   "open": 401
+   "open": 399
   },
   "greenhouse:discord": {
    "matching": 3,
@@ -367,7 +367,7 @@
   },
   "greenhouse:hellofresh": {
    "matching": 1,
-   "open": 384
+   "open": 383
   },
   "greenhouse:imc": {
    "matching": 0,
@@ -403,7 +403,7 @@
   },
   "greenhouse:lyft": {
    "matching": 1,
-   "open": 177
+   "open": 178
   },
   "greenhouse:mercari": {
    "matching": 0,
