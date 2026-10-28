@@ -1,64 +1,5 @@
 {
- "errors": {
-  "ashby:anysphere": "HTTPError: HTTP Error 404: Not Found",
-  "ashby:census": "HTTPError: HTTP Error 404: Not Found",
-  "ashby:chainguard": "HTTPError: HTTP Error 404: Not Found",
-  "ashby:clay": "HTTPError: HTTP Error 404: Not Found",
-  "ashby:cribl": "HTTPError: HTTP Error 404: Not Found",
-  "ashby:dagster": "HTTPError: HTTP Error 404: Not Found",
-  "ashby:giga": "HTTPError: HTTP Error 404: Not Found",
-  "ashby:glean": "HTTPError: HTTP Error 404: Not Found",
-  "ashby:hebbia": "HTTPError: HTTP Error 404: Not Found",
-  "ashby:hippocraticai": "HTTPError: HTTP Error 404: Not Found",
-  "ashby:luma": "HTTPError: HTTP Error 404: Not Found",
-  "ashby:metabase": "HTTPError: HTTP Error 404: Not Found",
-  "ashby:palantir": "HTTPError: HTTP Error 404: Not Found",
-  "ashby:planetscale": "HTTPError: HTTP Error 404: Not Found",
-  "ashby:retool": "HTTPError: HTTP Error 404: Not Found",
-  "ashby:rippling": "HTTPError: HTTP Error 404: Not Found",
-  "ashby:scale": "HTTPError: HTTP Error 404: Not Found",
-  "ashby:sigmacomputing": "HTTPError: HTTP Error 404: Not Found",
-  "ashby:skild": "HTTPError: HTTP Error 404: Not Found",
-  "ashby:snorkelai": "HTTPError: HTTP Error 404: Not Found",
-  "ashby:tecton": "HTTPError: HTTP Error 404: Not Found",
-  "ashby:whatnot": "HTTPError: HTTP Error 404: Not Found",
-  "greenhouse:amplitude": "HTTPError: HTTP Error 404: Not Found",
-  "greenhouse:anyscale": "HTTPError: HTTP Error 404: Not Found",
-  "greenhouse:aurorainnovation": "HTTPError: HTTP Error 404: Not Found",
-  "greenhouse:bloomberg": "HTTPError: HTTP Error 404: Not Found",
-  "greenhouse:characterai": "HTTPError: HTTP Error 404: Not Found",
-  "greenhouse:citadel": "HTTPError: HTTP Error 404: Not Found",
-  "greenhouse:clickhouse": "HTTPError: HTTP Error 404: Not Found",
-  "greenhouse:compass": "HTTPError: HTTP Error 404: Not Found",
-  "greenhouse:datavant": "HTTPError: HTTP Error 404: Not Found",
-  "greenhouse:dbtlabsinc": "HTTPError: HTTP Error 404: Not Found",
-  "greenhouse:etsy": "HTTPError: HTTP Error 404: Not Found",
-  "greenhouse:grammarly": "HTTPError: HTTP Error 404: Not Found",
-  "greenhouse:headway": "HTTPError: HTTP Error 404: Not Found",
-  "greenhouse:hightouch": "HTTPError: HTTP Error 404: Not Found",
-  "greenhouse:hinge": "HTTPError: HTTP Error 404: Not Found",
-  "greenhouse:hudsonrivertrading": "HTTPError: HTTP Error 404: Not Found",
-  "greenhouse:nerdwallet": "HTTPError: HTTP Error 404: Not Found",
-  "greenhouse:nytimes": "HTTPError: HTTP Error 404: Not Found",
-  "greenhouse:postman": "HTTPError: HTTP Error 404: Not Found",
-  "greenhouse:runwayml": "HTTPError: HTTP Error 404: Not Found",
-  "greenhouse:sentry": "HTTPError: HTTP Error 404: Not Found",
-  "greenhouse:spotify": "HTTPError: HTTP Error 404: Not Found",
-  "greenhouse:springhealth": "HTTPError: HTTP Error 404: Not Found",
-  "greenhouse:temporaltechnologies": "HTTPError: HTTP Error 404: Not Found",
-  "greenhouse:tempus": "HTTPError: HTTP Error 404: Not Found",
-  "greenhouse:thumbtack": "HTTPError: HTTP Error 404: Not Found",
-  "greenhouse:twosigma": "HTTPError: HTTP Error 404: Not Found",
-  "greenhouse:unity3d": "HTTPError: HTTP Error 404: Not Found",
-  "greenhouse:warbyparker": "HTTPError: HTTP Error 404: Not Found",
-  "lever:anduril": "HTTPError: HTTP Error 404: Not Found",
-  "lever:atlassian": "HTTPError: HTTP Error 404: Not Found",
-  "lever:attentive": "HTTPError: HTTP Error 404: Not Found",
-  "lever:eventbrite": "HTTPError: HTTP Error 404: Not Found",
-  "lever:netflix": "HTTPError: HTTP Error 404: Not Found",
-  "lever:plaid": "HTTPError: HTTP Error 404: Not Found",
-  "lever:sardine": "HTTPError: HTTP Error 404: Not Found"
- },
+ "errors": {},
  "ok": {
   "amazon:amazon": {
    "matching": 39,
@@ -382,7 +323,7 @@
   },
   "greenhouse:intercom": {
    "matching": 4,
-   "open": 100
+   "open": 101
   },
   "greenhouse:janestreet": {
    "matching": 2,
@@ -600,7 +541,7 @@
  "summary": {
   "candidates": 259,
   "kept": 138,
-  "sources_failed": 58,
+  "sources_failed": 0,
   "sources_ok": 134
  }
 }
