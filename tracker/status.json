@@ -295,7 +295,7 @@
   },
   "greenhouse:doordashusa": {
    "matching": 3,
-   "open": 441
+   "open": 440
   },
   "greenhouse:dropbox": {
    "matching": 0,
@@ -311,7 +311,7 @@
   },
   "greenhouse:elastic": {
    "matching": 0,
-   "open": 407
+   "open": 408
   },
   "greenhouse:everlane": {
    "matching": 1,
@@ -339,7 +339,7 @@
   },
   "greenhouse:gitlab": {
    "matching": 1,
-   "open": 235
+   "open": 234
   },
   "greenhouse:gleanwork": {
    "matching": 3,
@@ -539,7 +539,7 @@
   },
   "greenhouse:sweetgreen": {
    "matching": 0,
-   "open": 63
+   "open": 64
   },
   "greenhouse:thrivemarket": {
    "matching": 1,
