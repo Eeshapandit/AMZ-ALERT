@@ -43,5 +43,5 @@ jobs:
                 sleep 5
               done
             fi
-            [ "$pass" -lt 3 ] && sleep 110
+            if [ "$pass" -lt 3 ]; then sleep 110; fi
           done
