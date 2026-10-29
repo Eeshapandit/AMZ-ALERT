@@ -1,6 +1,78 @@
 {
- "updated": "2026-10-29T00:45:42+00:00",
+ "updated": "2026-10-29T06:33:38+00:00",
  "jobs": [
+  {
+   "id": "10591978",
+   "title": "Overnight Staff Pharmacist , Amazon Pharmacy",
+   "location": "Middleburg Heights, Ohio, USA",
+   "team": "healthcare",
+   "posted_date": "October 29, 2026",
+   "years": null,
+   "link": "https://www.amazon.jobs/en/jobs/10591978/overnight-staff-pharmacist-amazon-pharmacy",
+   "query": "data",
+   "first_seen": "2026-10-29T06:33:38+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10591979",
+   "title": "Staff Pharmacist , Amazon Pharmacy",
+   "location": "Middleburg Heights, Ohio, USA",
+   "team": "healthcare",
+   "posted_date": "October 29, 2026",
+   "years": null,
+   "link": "https://www.amazon.jobs/en/jobs/10591979/staff-pharmacist-amazon-pharmacy",
+   "query": "data",
+   "first_seen": "2026-10-29T06:33:38+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10591735",
+   "title": "Hardware Development Engineer I, Relay Fleet & Yard Devices",
+   "location": "Bellevue, Washington, USA",
+   "team": "fulfillment-and-operations",
+   "posted_date": "October 29, 2026",
+   "years": 2,
+   "link": "https://www.amazon.jobs/en/jobs/10591735/hardware-development-engineer-i-relay-fleet-yard-devices",
+   "query": "data",
+   "first_seen": "2026-10-29T06:33:38+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10589541",
+   "title": "Process Improvement Specialist III, AMXL ACES Customer Experience",
+   "location": "Nashville, Tennessee, USA",
+   "team": "transportation-and-logistics",
+   "posted_date": "October 27, 2026",
+   "years": null,
+   "link": "https://www.amazon.jobs/en/jobs/10589541/process-improvement-specialist-iii-amxl-aces-customer-experience",
+   "query": "analytics",
+   "first_seen": "2026-10-29T06:33:38+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10591973",
+   "title": "Category Manager, Construction, Global Procurement Organization (GPO), Global Procurement Organization (GPO)",
+   "location": "Arlington, Virginia, USA",
+   "team": "fulfillment-ops",
+   "posted_date": "October 29, 2026",
+   "years": null,
+   "link": "https://www.amazon.jobs/en/jobs/10591973/category-manager-construction-global-procurement-organization-gpo-global-procurement-organization-gpo",
+   "query": "analytics",
+   "first_seen": "2026-10-29T06:33:38+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10591988",
+   "title": "Software Engineer, Worldwide Amazon Stores Finance Technology, Controllership Engineering",
+   "location": "Seattle, Washington, USA",
+   "team": "finance",
+   "posted_date": "October 29, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10591988/software-engineer-worldwide-amazon-stores-finance-technology-controllership-engineering",
+   "query": "machine learning",
+   "first_seen": "2026-10-29T06:33:38+00:00",
+   "seeded": false
+  },
   {
    "id": "10591921",
    "title": "Financial Analyst II, Leo Accounting PMO - Reporting, Testing, Readiness",
