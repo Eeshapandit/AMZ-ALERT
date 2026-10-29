@@ -1,6 +1,20 @@
 {
 "jobs": [
 {
+"id": "amz:10592334",
+"company": "Amazon",
+"title": "Data Engineer, WW Ops Finance S&A ",
+"role": "Data Engineer",
+"location": "Bellevue, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10592334/data-engineer-ww-ops-finance-s-a",
+"posted": "October 29, 2026",
+"first_seen": "2026-10-29T16:18:09+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
 "id": "amz:10591361",
 "company": "Amazon",
 "title": "Data Engineer II, AWS Analytics Engineering",
@@ -2199,5 +2213,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-10-29T02:51:41+00:00"
+"updated": "2026-10-29T16:18:09+00:00"
 }
