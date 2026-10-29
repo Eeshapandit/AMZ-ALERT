@@ -1,6 +1,20 @@
 {
 "jobs": [
 {
+"id": "amz:10591361",
+"company": "Amazon",
+"title": "Data Engineer II, AWS Analytics Engineering",
+"role": "Data Engineer",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10591361/data-engineer-ii-aws-analytics-engineering",
+"posted": "October 29, 2026",
+"first_seen": "2026-10-29T02:51:41+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
 "id": "amz:10552219",
 "company": "Amazon",
 "title": "Senior Financial Analyst, Data & Financial Modeling \u2013 Operations Finance, North America 3P External Fulfillment Finance",
@@ -2185,5 +2199,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-10-28T19:39:49+00:00"
+"updated": "2026-10-29T02:51:41+00:00"
 }
