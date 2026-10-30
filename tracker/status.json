@@ -1,5 +1,7 @@
 {
- "errors": {},
+ "errors": {
+  "lever:veeva": "TimeoutError: The read operation timed out"
+ },
  "ok": {
   "amazon:amazon": {
    "matching": 68,
@@ -219,7 +221,7 @@
   },
   "greenhouse:andurilindustries": {
    "matching": 7,
-   "open": 2554
+   "open": 2552
   },
   "greenhouse:anthropic": {
    "matching": 7,
@@ -267,7 +269,7 @@
   },
   "greenhouse:cloudflare": {
    "matching": 2,
-   "open": 462
+   "open": 461
   },
   "greenhouse:cockroachlabs": {
    "matching": 0,
@@ -303,7 +305,7 @@
   },
   "greenhouse:drweng": {
    "matching": 1,
-   "open": 163
+   "open": 164
   },
   "greenhouse:duolingo": {
    "matching": 0,
@@ -495,7 +497,7 @@
   },
   "greenhouse:robinhood": {
    "matching": 1,
-   "open": 167
+   "open": 166
   },
   "greenhouse:roblox": {
    "matching": 0,
@@ -649,10 +651,6 @@
    "matching": 3,
    "open": 655
   },
-  "lever:veeva": {
-   "matching": 4,
-   "open": 888
-  },
   "lever:whoop": {
    "matching": 0,
    "open": 0
@@ -663,9 +661,9 @@
   }
  },
  "summary": {
-  "candidates": 310,
+  "candidates": 306,
   "kept": 156,
-  "sources_failed": 0,
-  "sources_ok": 165
+  "sources_failed": 1,
+  "sources_ok": 164
  }
 }
