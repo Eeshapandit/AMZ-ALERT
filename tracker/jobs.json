@@ -1359,20 +1359,6 @@
 "sector": ""
 },
 {
-"id": "gh:gitlab:8512432002",
-"company": "GitLab",
-"title": "Staff Forward Deployed Engineer",
-"role": "FDE",
-"location": "Remote, US",
-"mode": "Remote",
-"years": null,
-"link": "https://job-boards.greenhouse.io/gitlab/jobs/8512432002",
-"posted": "2026-07-20T16:13:39-04:00",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": ""
-},
-{
 "id": "ab:rogo:bae7053e-80de-4cd7-966f-06abe55426c1",
 "company": "rogo",
 "title": "Forward Deployed, Wealth Management",
@@ -2185,5 +2171,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-10-30T14:04:26+00:00"
+"updated": "2026-10-30T19:18:28+00:00"
 }
