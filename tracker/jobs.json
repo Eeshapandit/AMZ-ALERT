@@ -1,6 +1,20 @@
 {
 "jobs": [
 {
+"id": "gh:intercom:8333690",
+"company": "Fin",
+"title": "Forward Deployed Engineer",
+"role": "FDE",
+"location": "San Francisco, California",
+"mode": "Onsite/Hybrid",
+"years": null,
+"link": "https://job-boards.greenhouse.io/intercom/jobs/8333690",
+"posted": "2026-10-30T07:51:29-04:00",
+"first_seen": "2026-10-30T14:04:26+00:00",
+"seeded": false,
+"sector": ""
+},
+{
 "id": "amz:10592660",
 "company": "Amazon",
 "title": "Senior Financial Analyst, AWS Data Center Finance",
@@ -1093,20 +1107,6 @@
 "sector": ""
 },
 {
-"id": "gh:intercom:8201208",
-"company": "Fin",
-"title": "Forward Deployed Engineer",
-"role": "FDE",
-"location": "Chicago, Illinois; San Francisco, California",
-"mode": "Onsite/Hybrid",
-"years": null,
-"link": "https://job-boards.greenhouse.io/intercom/jobs/8201208",
-"posted": "2026-09-14T10:22:05-04:00",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": ""
-},
-{
 "id": "gh:intercom:8185627",
 "company": "Fin",
 "title": "Forward Deployed Data Scientist",
@@ -1312,20 +1312,6 @@
 "years": null,
 "link": "https://jobs.ashbyhq.com/supabase/59083a14-b2b6-4dd8-8037-739aa1ad1e22",
 "posted": "2026-08-04T19:08:19.856+00:00",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": ""
-},
-{
-"id": "gh:intercom:8081165",
-"company": "Fin",
-"title": "Senior Forward Deployed Engineer",
-"role": "FDE",
-"location": "Chicago, Illinois; San Francisco, California",
-"mode": "Onsite/Hybrid",
-"years": null,
-"link": "https://job-boards.greenhouse.io/intercom/jobs/8081165",
-"posted": "2026-07-30T11:18:11-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
 "seeded": true,
 "sector": ""
@@ -2199,5 +2185,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-10-30T07:05:02+00:00"
+"updated": "2026-10-30T14:04:26+00:00"
 }
