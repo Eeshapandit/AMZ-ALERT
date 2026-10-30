@@ -1,8 +1,8 @@
 {
  "errors": {
-  "lever:gopuff": "TimeoutError: The read operation timed out",
-  "lever:outreach": "TimeoutError: The read operation timed out",
-  "lever:shieldai": "TimeoutError: The read operation timed out"
+  "lever:lyrahealth": "TimeoutError: The read operation timed out",
+  "lever:matchgroup": "HTTPError: HTTP Error 502: Bad Gateway",
+  "lever:shieldai": "HTTPError: HTTP Error 502: Bad Gateway"
  },
  "ok": {
   "amazon:amazon": {
@@ -259,7 +259,7 @@
   },
   "greenhouse:brex": {
    "matching": 2,
-   "open": 261
+   "open": 263
   },
   "greenhouse:carta": {
    "matching": 0,
@@ -279,7 +279,7 @@
   },
   "greenhouse:coinbase": {
    "matching": 6,
-   "open": 246
+   "open": 247
   },
   "greenhouse:databricks": {
    "matching": 23,
@@ -609,6 +609,10 @@
    "matching": 0,
    "open": 5
   },
+  "lever:gopuff": {
+   "matching": 3,
+   "open": 779
+  },
   "lever:jumpcloud": {
    "matching": 0,
    "open": 43
@@ -617,14 +621,6 @@
    "matching": 0,
    "open": 0
   },
-  "lever:lyrahealth": {
-   "matching": 1,
-   "open": 473
-  },
-  "lever:matchgroup": {
-   "matching": 1,
-   "open": 62
-  },
   "lever:mistral": {
    "matching": 0,
    "open": 0
@@ -632,6 +628,10 @@
   "lever:nium": {
    "matching": 0,
    "open": 25
+  },
+  "lever:outreach": {
+   "matching": 0,
+   "open": 19
   },
   "lever:palantir": {
    "matching": 23,
@@ -655,7 +655,7 @@
   }
  },
  "summary": {
-  "candidates": 303,
+  "candidates": 304,
   "kept": 155,
   "sources_failed": 3,
   "sources_ok": 162
