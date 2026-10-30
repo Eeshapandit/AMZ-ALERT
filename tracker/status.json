@@ -1,5 +1,9 @@
 {
- "errors": {},
+ "errors": {
+  "lever:gopuff": "TimeoutError: The read operation timed out",
+  "lever:outreach": "TimeoutError: The read operation timed out",
+  "lever:shieldai": "TimeoutError: The read operation timed out"
+ },
  "ok": {
   "amazon:amazon": {
    "matching": 67,
@@ -207,7 +211,7 @@
   },
   "greenhouse:airbnb": {
    "matching": 1,
-   "open": 200
+   "open": 201
   },
   "greenhouse:airtable": {
    "matching": 0,
@@ -267,7 +271,7 @@
   },
   "greenhouse:cloudflare": {
    "matching": 2,
-   "open": 463
+   "open": 462
   },
   "greenhouse:cockroachlabs": {
    "matching": 0,
@@ -339,7 +343,7 @@
   },
   "greenhouse:gitlab": {
    "matching": 0,
-   "open": 237
+   "open": 236
   },
   "greenhouse:gleanwork": {
    "matching": 3,
@@ -605,10 +609,6 @@
    "matching": 0,
    "open": 5
   },
-  "lever:gopuff": {
-   "matching": 3,
-   "open": 779
-  },
   "lever:jumpcloud": {
    "matching": 0,
    "open": 43
@@ -633,10 +633,6 @@
    "matching": 0,
    "open": 25
   },
-  "lever:outreach": {
-   "matching": 0,
-   "open": 19
-  },
   "lever:palantir": {
    "matching": 23,
    "open": 299
@@ -644,10 +640,6 @@
   "lever:rover": {
    "matching": 0,
    "open": 34
-  },
-  "lever:shieldai": {
-   "matching": 3,
-   "open": 655
   },
   "lever:veeva": {
    "matching": 4,
@@ -663,9 +655,9 @@
   }
  },
  "summary": {
-  "candidates": 309,
+  "candidates": 303,
   "kept": 155,
-  "sources_failed": 0,
-  "sources_ok": 165
+  "sources_failed": 3,
+  "sources_ok": 162
  }
 }
