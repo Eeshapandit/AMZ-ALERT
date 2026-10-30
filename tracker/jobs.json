@@ -1303,20 +1303,6 @@
 "sector": ""
 },
 {
-"id": "gh:gusto:8099751",
-"company": "Gusto, Inc.",
-"title": "Senior Data Engineer",
-"role": "Data Engineer",
-"location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
-"mode": "Onsite/Hybrid",
-"years": null,
-"link": "https://job-boards.greenhouse.io/gusto/jobs/8099751",
-"posted": "2026-08-14T13:08:22-04:00",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": ""
-},
-{
 "id": "gh:point72:8701705002",
 "company": "Point72 ",
 "title": "Data Engineer, Knowledge Graph   ",
@@ -2227,5 +2213,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-10-29T21:13:22+00:00"
+"updated": "2026-10-30T01:07:34+00:00"
 }
