@@ -687,20 +687,6 @@
 "sector": ""
 },
 {
-"id": "gh:lyft:8896685002",
-"company": "Lyft",
-"title": "Data Analyst",
-"role": "Data Analyst",
-"location": "New York, NY",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://app.careerpuck.com/job-board/lyft/job/8896685002?gh_jid=8896685002",
-"posted": "2026-10-16T22:54:56-04:00",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": ""
-},
-{
 "id": "ab:supabase:73ddf93b-fe0c-455d-ba27-cdde0d3fb94f",
 "company": "supabase",
 "title": "FinOps Data Engineer ",
@@ -2213,5 +2199,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-10-30T01:07:34+00:00"
+"updated": "2026-10-30T07:05:02+00:00"
 }
