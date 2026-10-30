@@ -1,6 +1,20 @@
 {
 "jobs": [
 {
+"id": "amz:10593890",
+"company": "Amazon",
+"title": "Data Engineer II, Sales Data Services (SDS)",
+"role": "Data Engineer",
+"location": "New York, New York, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10593890/data-engineer-ii-sales-data-services-sds",
+"posted": "October 30, 2026",
+"first_seen": "2026-10-30T23:03:35+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
 "id": "gh:intercom:8333690",
 "company": "Fin",
 "title": "Forward Deployed Engineer",
@@ -80,20 +94,6 @@
 "years": 3,
 "link": "https://www.amazon.jobs/en/jobs/10552313/sr-financial-analyst-aws-data-center-construction-finance",
 "posted": "September 17, 2026",
-"first_seen": "2026-10-28T14:39:35+00:00",
-"seeded": false,
-"sector": "retail"
-},
-{
-"id": "amz:10588747",
-"company": "Amazon",
-"title": "Business Intelligence Engineer II, AWS DC Central Operations",
-"role": "BI",
-"location": "Seattle, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10588747/business-intelligence-engineer-ii-aws-dc-central-operations",
-"posted": "October 26, 2026",
 "first_seen": "2026-10-28T14:39:35+00:00",
 "seeded": false,
 "sector": "retail"
@@ -1417,7 +1417,7 @@
 {
 "id": "gh:xai:5182183007",
 "company": "SpaceXSI",
-"title": "Software Engineer - X Data Engineering",
+"title": "Software Engineer, Data Engineering (X)",
 "role": "Data Engineer",
 "location": " Palo Alto, CA",
 "mode": "Onsite/Hybrid",
@@ -2171,5 +2171,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-10-30T19:18:28+00:00"
+"updated": "2026-10-30T23:03:35+00:00"
 }
