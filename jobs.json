@@ -1,6 +1,42 @@
 {
- "updated": "2026-10-31T00:45:39+00:00",
+ "updated": "2026-10-31T06:22:36+00:00",
  "jobs": [
+  {
+   "id": "10593947",
+   "title": "SSL Lab Engineer 2nd shift, Space Simulation Lab",
+   "location": "Redmond, Washington, USA",
+   "team": "alexa-and-amazon-devices",
+   "posted_date": "October 31, 2026",
+   "years": 1,
+   "link": "https://www.amazon.jobs/en/jobs/10593947/ssl-lab-engineer-2nd-shift-space-simulation-lab",
+   "query": "data",
+   "first_seen": "2026-10-31T06:22:36+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10593946",
+   "title": "SSL Production Lab Engineer, Space Simulation Lab",
+   "location": "Redmond, Washington, USA",
+   "team": "alexa-and-amazon-devices",
+   "posted_date": "October 31, 2026",
+   "years": 1,
+   "link": "https://www.amazon.jobs/en/jobs/10593946/ssl-production-lab-engineer-space-simulation-lab",
+   "query": "data",
+   "first_seen": "2026-10-31T06:22:36+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10593778",
+   "title": "Software Development Engineer, PXT Central Science",
+   "location": "Bellevue, Washington, USA",
+   "team": "pxt",
+   "posted_date": "October 30, 2026",
+   "years": 2,
+   "link": "https://www.amazon.jobs/en/jobs/10593778/software-development-engineer-pxt-central-science",
+   "query": "machine learning",
+   "first_seen": "2026-10-31T06:22:36+00:00",
+   "seeded": false
+  },
   {
    "id": "10593900",
    "title": "HR Partner, Human Resources",
