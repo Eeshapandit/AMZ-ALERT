@@ -59,7 +59,7 @@
   },
   "ashby:elevenlabs": {
    "matching": 1,
-   "open": 145
+   "open": 144
   },
   "ashby:harvey": {
    "matching": 6,
@@ -171,7 +171,7 @@
   },
   "ashby:supabase": {
    "matching": 2,
-   "open": 64
+   "open": 68
   },
   "ashby:tennr": {
    "matching": 3,
@@ -295,7 +295,7 @@
   },
   "greenhouse:doordashusa": {
    "matching": 3,
-   "open": 438
+   "open": 439
   },
   "greenhouse:dropbox": {
    "matching": 0,
@@ -379,7 +379,7 @@
   },
   "greenhouse:intercom": {
    "matching": 2,
-   "open": 110
+   "open": 109
   },
   "greenhouse:janestreet": {
    "matching": 2,
@@ -419,7 +419,7 @@
   },
   "greenhouse:mixpanel": {
    "matching": 0,
-   "open": 44
+   "open": 43
   },
   "greenhouse:mongodb": {
    "matching": 1,
@@ -447,7 +447,7 @@
   },
   "greenhouse:okta": {
    "matching": 0,
-   "open": 388
+   "open": 387
   },
   "greenhouse:optiver": {
    "matching": 0,
@@ -507,7 +507,7 @@
   },
   "greenhouse:samsara": {
    "matching": 2,
-   "open": 325
+   "open": 326
   },
   "greenhouse:scaleai": {
    "matching": 5,
@@ -531,7 +531,7 @@
   },
   "greenhouse:stockx": {
    "matching": 0,
-   "open": 34
+   "open": 33
   },
   "greenhouse:stripe": {
    "matching": 6,
