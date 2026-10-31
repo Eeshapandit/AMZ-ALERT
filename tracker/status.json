@@ -59,7 +59,7 @@
   },
   "ashby:elevenlabs": {
    "matching": 1,
-   "open": 149
+   "open": 145
   },
   "ashby:harvey": {
    "matching": 6,
@@ -111,7 +111,7 @@
   },
   "ashby:openai": {
    "matching": 19,
-   "open": 815
+   "open": 813
   },
   "ashby:perplexity": {
    "matching": 0,
@@ -159,11 +159,11 @@
   },
   "ashby:rothys": {
    "matching": 0,
-   "open": 106
+   "open": 105
   },
   "ashby:sierra": {
    "matching": 0,
-   "open": 219
+   "open": 220
   },
   "ashby:suno": {
    "matching": 0,
@@ -267,7 +267,7 @@
   },
   "greenhouse:cloudflare": {
    "matching": 2,
-   "open": 465
+   "open": 464
   },
   "greenhouse:cockroachlabs": {
    "matching": 0,
@@ -275,7 +275,7 @@
   },
   "greenhouse:coinbase": {
    "matching": 6,
-   "open": 249
+   "open": 250
   },
   "greenhouse:databricks": {
    "matching": 23,
@@ -339,7 +339,7 @@
   },
   "greenhouse:gitlab": {
    "matching": 0,
-   "open": 237
+   "open": 238
   },
   "greenhouse:gleanwork": {
    "matching": 3,
@@ -399,7 +399,7 @@
   },
   "greenhouse:launchdarkly": {
    "matching": 0,
-   "open": 47
+   "open": 46
   },
   "greenhouse:lyft": {
    "matching": 0,
@@ -507,7 +507,7 @@
   },
   "greenhouse:samsara": {
    "matching": 2,
-   "open": 326
+   "open": 325
   },
   "greenhouse:scaleai": {
    "matching": 5,
