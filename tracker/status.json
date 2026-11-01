@@ -59,7 +59,7 @@
   },
   "ashby:elevenlabs": {
    "matching": 1,
-   "open": 141
+   "open": 138
   },
   "ashby:harvey": {
    "matching": 6,
@@ -279,7 +279,7 @@
   },
   "greenhouse:databricks": {
    "matching": 23,
-   "open": 901
+   "open": 904
   },
   "greenhouse:datadog": {
    "matching": 1,
@@ -399,7 +399,7 @@
   },
   "greenhouse:launchdarkly": {
    "matching": 0,
-   "open": 46
+   "open": 45
   },
   "greenhouse:lyft": {
    "matching": 0,
@@ -507,7 +507,7 @@
   },
   "greenhouse:samsara": {
    "matching": 2,
-   "open": 323
+   "open": 338
   },
   "greenhouse:scaleai": {
    "matching": 5,
