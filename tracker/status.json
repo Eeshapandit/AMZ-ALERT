@@ -2,7 +2,7 @@
  "errors": {},
  "ok": {
   "amazon:amazon": {
-   "matching": 67,
+   "matching": 66,
    "open": 168
   },
   "ashby:abridge": {
@@ -447,7 +447,7 @@
   },
   "greenhouse:okta": {
    "matching": 0,
-   "open": 387
+   "open": 386
   },
   "greenhouse:optiver": {
    "matching": 0,
@@ -491,7 +491,7 @@
   },
   "greenhouse:reformation": {
    "matching": 0,
-   "open": 158
+   "open": 157
   },
   "greenhouse:robinhood": {
    "matching": 0,
@@ -547,7 +547,7 @@
   },
   "greenhouse:toast": {
    "matching": 0,
-   "open": 328
+   "open": 329
   },
   "greenhouse:togetherai": {
    "matching": 2,
@@ -663,7 +663,7 @@
   }
  },
  "summary": {
-  "candidates": 308,
+  "candidates": 307,
   "kept": 156,
   "sources_failed": 0,
   "sources_ok": 165
