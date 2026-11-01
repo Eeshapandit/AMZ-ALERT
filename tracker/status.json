@@ -27,7 +27,7 @@
   },
   "ashby:benchling": {
    "matching": 1,
-   "open": 54
+   "open": 55
   },
   "ashby:cognition": {
    "matching": 3,
@@ -35,7 +35,7 @@
   },
   "ashby:cohere": {
    "matching": 3,
-   "open": 122
+   "open": 120
   },
   "ashby:confluent": {
    "matching": 0,
@@ -43,7 +43,7 @@
   },
   "ashby:cursor": {
    "matching": 5,
-   "open": 125
+   "open": 124
   },
   "ashby:decagon": {
    "matching": 0,
@@ -59,7 +59,7 @@
   },
   "ashby:elevenlabs": {
    "matching": 1,
-   "open": 138
+   "open": 139
   },
   "ashby:harvey": {
    "matching": 6,
@@ -159,7 +159,7 @@
   },
   "ashby:rothys": {
    "matching": 0,
-   "open": 107
+   "open": 106
   },
   "ashby:sierra": {
    "matching": 0,
@@ -223,7 +223,7 @@
   },
   "greenhouse:anthropic": {
    "matching": 8,
-   "open": 675
+   "open": 674
   },
   "greenhouse:applovin": {
    "matching": 0,
@@ -267,7 +267,7 @@
   },
   "greenhouse:cloudflare": {
    "matching": 2,
-   "open": 464
+   "open": 463
   },
   "greenhouse:cockroachlabs": {
    "matching": 0,
@@ -279,7 +279,7 @@
   },
   "greenhouse:databricks": {
    "matching": 23,
-   "open": 904
+   "open": 909
   },
   "greenhouse:datadog": {
    "matching": 1,
@@ -307,7 +307,7 @@
   },
   "greenhouse:duolingo": {
    "matching": 0,
-   "open": 57
+   "open": 56
   },
   "greenhouse:elastic": {
    "matching": 0,
@@ -507,7 +507,7 @@
   },
   "greenhouse:samsara": {
    "matching": 2,
-   "open": 338
+   "open": 339
   },
   "greenhouse:scaleai": {
    "matching": 5,
@@ -535,7 +535,7 @@
   },
   "greenhouse:stripe": {
    "matching": 6,
-   "open": 745
+   "open": 746
   },
   "greenhouse:sweetgreen": {
    "matching": 0,
