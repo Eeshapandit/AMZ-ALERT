@@ -1,6 +1,78 @@
 {
- "updated": "2026-11-02T00:41:01+00:00",
+ "updated": "2026-11-02T06:55:19+00:00",
  "jobs": [
+  {
+   "id": "10594145",
+   "title": "Staff Pharmacist , Amazon Pharmacy",
+   "location": "Monroe Twp, New Jersey, USA",
+   "team": "healthcare",
+   "posted_date": "November  2, 2026",
+   "years": null,
+   "link": "https://www.amazon.jobs/en/jobs/10594145/staff-pharmacist-amazon-pharmacy",
+   "query": "data",
+   "first_seen": "2026-11-02T06:55:19+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10594144",
+   "title": "Staff Pharmacist , Amazon Pharmacy",
+   "location": "Chicago, Illinois, USA",
+   "team": "healthcare",
+   "posted_date": "November  2, 2026",
+   "years": null,
+   "link": "https://www.amazon.jobs/en/jobs/10594144/staff-pharmacist-amazon-pharmacy",
+   "query": "data",
+   "first_seen": "2026-11-02T06:55:19+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10594143",
+   "title": "Overnight Staff Pharmacist , Amazon Pharmacy",
+   "location": "Lockbourne, Ohio, USA",
+   "team": "healthcare",
+   "posted_date": "November  2, 2026",
+   "years": null,
+   "link": "https://www.amazon.jobs/en/jobs/10594143/overnight-staff-pharmacist-amazon-pharmacy",
+   "query": "data",
+   "first_seen": "2026-11-02T06:55:19+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10594106",
+   "title": "Data Center Technician , DCC Communities ",
+   "location": "New Carlisle, Indiana, USA",
+   "team": "aws",
+   "posted_date": "November  2, 2026",
+   "years": 2,
+   "link": "https://www.amazon.jobs/en/jobs/10594106/data-center-technician-dcc-communities",
+   "query": "data",
+   "first_seen": "2026-11-02T06:55:19+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10594131",
+   "title": "Applied Scientist, PXT Central Science",
+   "location": "Seattle, Washington, USA",
+   "team": "pxt",
+   "posted_date": "November  2, 2026",
+   "years": null,
+   "link": "https://www.amazon.jobs/en/jobs/10594131/applied-scientist-pxt-central-science",
+   "query": "data",
+   "first_seen": "2026-11-02T06:55:19+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10591666",
+   "title": "Design Engineer, Amazon Logistics",
+   "location": "Bellevue, Washington, USA",
+   "team": "transportation-and-logistics",
+   "posted_date": "October 28, 2026",
+   "years": 2,
+   "link": "https://www.amazon.jobs/en/jobs/10591666/design-engineer-amazon-logistics",
+   "query": "analytics",
+   "first_seen": "2026-11-02T06:55:19+00:00",
+   "seeded": false
+  },
   {
    "id": "10594100",
    "title": "Software Development Engineer, Ads AI Core Infra (ACI)",
