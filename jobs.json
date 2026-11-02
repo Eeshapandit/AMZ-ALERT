@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-02T06:55:19+00:00",
+ "updated": "2026-11-02T16:58:07+00:00",
  "jobs": [
+  {
+   "id": "10594488",
+   "title": "Data Center Controls Tech, Data Center Communities",
+   "location": "Manassas, Virginia, USA",
+   "team": "aws",
+   "posted_date": "November  2, 2026",
+   "years": 1,
+   "link": "https://www.amazon.jobs/en/jobs/10594488/data-center-controls-tech-data-center-communities",
+   "query": "data",
+   "first_seen": "2026-11-02T16:58:07+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10594462",
+   "title": "Data Center Controls Tech, Atlanta",
+   "location": "Lithia Springs, Georgia, USA",
+   "team": "aws",
+   "posted_date": "November  2, 2026",
+   "years": 1,
+   "link": "https://www.amazon.jobs/en/jobs/10594462/data-center-controls-tech-atlanta",
+   "query": "data",
+   "first_seen": "2026-11-02T16:58:07+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10594407",
+   "title": "Data Center Technician , DCC Communities ",
+   "location": "New Carlisle, Indiana, USA",
+   "team": "aws",
+   "posted_date": "November  2, 2026",
+   "years": 2,
+   "link": "https://www.amazon.jobs/en/jobs/10594407/data-center-technician-dcc-communities",
+   "query": "data",
+   "first_seen": "2026-11-02T16:58:07+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10594486",
+   "title": "Controls Technician, Controls Deployment Service",
+   "location": "Wheatfield, Indiana, USA",
+   "team": "aws",
+   "posted_date": "November  2, 2026",
+   "years": null,
+   "link": "https://www.amazon.jobs/en/jobs/10594486/controls-technician-controls-deployment-service",
+   "query": "data",
+   "first_seen": "2026-11-02T16:58:07+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10594499",
+   "title": "Site EHS Manager II",
+   "location": "Spokane, Washington, USA",
+   "team": "fulfillment-and-operations",
+   "posted_date": "November  2, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10594499/site-ehs-manager-ii",
+   "query": "analytics",
+   "first_seen": "2026-11-02T16:58:07+00:00",
+   "seeded": false
+  },
   {
    "id": "10594145",
    "title": "Staff Pharmacist , Amazon Pharmacy",
