@@ -1,6 +1,20 @@
 {
 "jobs": [
 {
+"id": "gh:aloyoga:6235113004",
+"company": " ALO",
+"title": "Retail Planning Analyst",
+"role": "Analyst",
+"location": "Beverly Hills, California, United States",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://boards.greenhouse.io/aloyoga/jobs/6235113004?gh_jid=6235113004",
+"posted": "2026-11-02T14:17:08-05:00",
+"first_seen": "2026-11-02T19:25:46+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
 "id": "gh:anthropic:5464234008",
 "company": "Anthropic",
 "title": "Data Engineer",
@@ -1611,20 +1625,6 @@
 "sector": ""
 },
 {
-"id": "gh:doordashusa:7990832",
-"company": "DoorDash USA",
-"title": "Data Analyst, In-Store",
-"role": "Data Analyst",
-"location": "New York, NY; San Francisco, CA; San Jose, CA; Seattle, WA; Los Angeles, CA; Washington D.C.; Austin, TX; Chicago, IL",
-"mode": "Onsite/Hybrid",
-"years": 2,
-"link": "https://job-boards.greenhouse.io/doordashusa/jobs/7990832",
-"posted": "2026-06-09T11:22:00-04:00",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": ""
-},
-{
 "id": "gh:stripe:7947546",
 "company": "Stripe",
 "title": "Engineering Manager, Forward Deployed (Privy)",
@@ -1769,8 +1769,8 @@
 "company": "modal",
 "title": "Forward Deployed Engineer - ML",
 "role": "FDE",
-"location": "New York; San Francisco (United States)",
-"mode": "Onsite/Hybrid",
+"location": "New York; San Francisco; London (United States)",
+"mode": "Onsite",
 "years": null,
 "link": "https://jobs.ashbyhq.com/modal/9fadb51f-ce11-41b1-84d5-470e66cc8ee9",
 "posted": "2026-02-23T19:17:06.760+00:00",
@@ -2185,5 +2185,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-10-31T02:18:08+00:00"
+"updated": "2026-11-02T19:25:46+00:00"
 }
