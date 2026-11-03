@@ -1,6 +1,48 @@
 {
 "jobs": [
 {
+"id": "amz:10595880",
+"company": "Amazon",
+"title": "Data Engineer, WW Pricing - Data & Analytics",
+"role": "Data Engineer",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10595880/data-engineer-ww-pricing-data-analytics",
+"posted": "November  3, 2026",
+"first_seen": "2026-11-03T21:59:28+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "gh:stitchfix:8351087",
+"company": "Stitch Fix",
+"title": "Principal Full-Stack Data Scientist  - Foundational Models  ",
+"role": "Data Scientist",
+"location": "Remote, USA",
+"mode": "Remote",
+"years": null,
+"link": "https://www.stitchfix.com/careers/jobs?gh_jid=8351087&gh_jid=8351087",
+"posted": "2026-11-03T16:32:37-05:00",
+"first_seen": "2026-11-03T21:59:28+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "gh:andurilindustries:4263030007",
+"company": "Anduril Industries",
+"title": "Forward Deployed Software Engineer, Connected Warfare (Active Clearance)",
+"role": "FDE",
+"location": "Seattle, Washington, United States",
+"mode": "Onsite/Hybrid",
+"years": null,
+"link": "https://boards.greenhouse.io/andurilindustries/jobs/4263030007?gh_jid=4263030007",
+"posted": "2024-02-22T12:17:06-05:00",
+"first_seen": "2026-11-03T21:59:28+00:00",
+"seeded": false,
+"sector": ""
+},
+{
 "id": "amz:10591987",
 "company": "Amazon",
 "title": "Senior Robotics Data Engineer, Frontier AI & Robotics (FAR)",
@@ -309,20 +351,6 @@
 "sector": "retail"
 },
 {
-"id": "gh:hellofresh:8237342",
-"company": "HelloFresh",
-"title": "Senior Analyst, Packaging, Planning & Analytics",
-"role": "Data / AI",
-"location": "New York, NY, United States; Newark, NJ, United States",
-"mode": "Onsite/Hybrid",
-"years": null,
-"link": "https://careers.hellofresh.com/global/en/job/8237342?gh_jid=8237342",
-"posted": "2026-09-30T17:01:38-04:00",
-"first_seen": "2026-10-28T14:39:35+00:00",
-"seeded": true,
-"sector": "retail"
-},
-{
 "id": "gh:attentive:4415182009",
 "company": "Attentive",
 "title": "Senior Director, Product Management (AI/ML)",
@@ -528,20 +556,6 @@
 "years": 2,
 "link": "https://www.amazon.jobs/en/jobs/10579596/data-engineer-robotics-delivery-and-packaging-innovation",
 "posted": "October 15, 2026",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": "retail"
-},
-{
-"id": "amz:10577269",
-"company": "Amazon",
-"title": "Agentic Data Engineer, Frontier AI Tooling",
-"role": "Data Engineer",
-"location": "Seattle, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10577269/agentic-data-engineer-frontier-ai-tooling",
-"posted": "October 13, 2026",
 "first_seen": "2026-10-28T14:15:32+00:00",
 "seeded": true,
 "sector": "retail"
@@ -1060,20 +1074,6 @@
 "years": null,
 "link": "https://job-boards.greenhouse.io/drweng/jobs/8189730",
 "posted": "2026-09-17T16:48:13-04:00",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": ""
-},
-{
-"id": "gh:sofi:7996286003",
-"company": "SoFi",
-"title": "Sr Staff Forward Deployed Engineer, Enterprise AI",
-"role": "FDE",
-"location": "WA - Seattle; CA - San Francisco; UT - Cottonwood Heights",
-"mode": "Onsite/Hybrid",
-"years": null,
-"link": "https://sofi.com/careers/job/7996286003?gh_jid=7996286003",
-"posted": "2026-09-15T15:29:33-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
 "seeded": true,
 "sector": ""
@@ -2199,5 +2199,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-03T01:44:19+00:00"
+"updated": "2026-11-03T21:59:28+00:00"
 }
