@@ -1,6 +1,34 @@
 {
 "jobs": [
 {
+"id": "amz:10591987",
+"company": "Amazon",
+"title": "Senior Robotics Data Engineer, Frontier AI & Robotics (FAR)",
+"role": "Data Engineer",
+"location": "San Francisco, California, USA",
+"mode": "Onsite/Hybrid",
+"years": null,
+"link": "https://www.amazon.jobs/en/jobs/10591987/senior-robotics-data-engineer-frontier-ai-robotics-far",
+"posted": "October 29, 2026",
+"first_seen": "2026-11-03T01:44:19+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "amz:10592596",
+"company": "Amazon",
+"title": "Robotics Data Engineer, Frontier AI & Robotics (FAR)",
+"role": "Data Engineer",
+"location": "San Francisco, California, USA",
+"mode": "Onsite/Hybrid",
+"years": null,
+"link": "https://www.amazon.jobs/en/jobs/10592596/robotics-data-engineer-frontier-ai-robotics-far",
+"posted": "October 29, 2026",
+"first_seen": "2026-11-03T01:44:19+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
 "id": "gh:aloyoga:6235113004",
 "company": " ALO",
 "title": "Retail Planning Analyst",
@@ -401,20 +429,6 @@
 "mode": "Onsite/Hybrid",
 "years": 3,
 "link": "https://www.amazon.jobs/en/jobs/10585967/forward-deployed-engineer-model-customization-and-optimization-aws-forward-deployed-engineering",
-"posted": "October 23, 2026",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": "retail"
-},
-{
-"id": "amz:10587730",
-"company": "Amazon",
-"title": "Data Engineer, Workforce Solutions - Talent Mobility",
-"role": "Data Engineer",
-"location": "Bellevue, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10587730/data-engineer-workforce-solutions-talent-mobility",
 "posted": "October 23, 2026",
 "first_seen": "2026-10-28T14:15:32+00:00",
 "seeded": true,
@@ -2185,5 +2199,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-02T19:25:46+00:00"
+"updated": "2026-11-03T01:44:19+00:00"
 }
