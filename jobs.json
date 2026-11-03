@@ -1,6 +1,90 @@
 {
- "updated": "2026-11-02T23:50:58+00:00",
+ "updated": "2026-11-03T06:21:36+00:00",
  "jobs": [
+  {
+   "id": "10595069",
+   "title": "Staff Pharmacist , Amazon Pharmacy",
+   "location": "Kansas City, Missouri, USA",
+   "team": "healthcare",
+   "posted_date": "November  3, 2026",
+   "years": null,
+   "link": "https://www.amazon.jobs/en/jobs/10595069/staff-pharmacist-amazon-pharmacy",
+   "query": "data",
+   "first_seen": "2026-11-03T06:21:36+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10595067",
+   "title": "Staff Pharmacist , Amazon Pharmacy",
+   "location": "Simi Valley, California, USA",
+   "team": "healthcare",
+   "posted_date": "November  3, 2026",
+   "years": null,
+   "link": "https://www.amazon.jobs/en/jobs/10595067/staff-pharmacist-amazon-pharmacy",
+   "query": "data",
+   "first_seen": "2026-11-03T06:21:36+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10595068",
+   "title": "Overnight Staff Pharmacist , Amazon Pharmacy",
+   "location": "Richardson, Texas, USA",
+   "team": "healthcare",
+   "posted_date": "November  3, 2026",
+   "years": null,
+   "link": "https://www.amazon.jobs/en/jobs/10595068/overnight-staff-pharmacist-amazon-pharmacy",
+   "query": "data",
+   "first_seen": "2026-11-03T06:21:36+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10594998",
+   "title": "Software Development Engineer, Eva Development Team",
+   "location": "Bellevue, Washington, USA",
+   "team": "aws",
+   "posted_date": "November  3, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10594998/software-development-engineer-eva-development-team",
+   "query": "data",
+   "first_seen": "2026-11-03T06:21:36+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10595024",
+   "title": "Business Intelligence Engineer, SSP Analytics, Seller Success Programs Analytics",
+   "location": "Seattle, Washington, USA",
+   "team": "selling-partner-services",
+   "posted_date": "November  3, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10595024/business-intelligence-engineer-ssp-analytics-seller-success-programs-analytics",
+   "query": "analytics",
+   "first_seen": "2026-11-03T06:21:36+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10593774",
+   "title": "Applied Scientist II, Kiro Science",
+   "location": "Santa Clara, California, USA",
+   "team": "aws",
+   "posted_date": "November  3, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10593774/applied-scientist-ii-kiro-science",
+   "query": "machine learning",
+   "first_seen": "2026-11-03T06:21:36+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10594978",
+   "title": "Economist, Prime Video Science, Prime Video Science",
+   "location": "Culver City, California, USA",
+   "team": "finance",
+   "posted_date": "November  3, 2026",
+   "years": null,
+   "link": "https://www.amazon.jobs/en/jobs/10594978/economist-prime-video-science-prime-video-science",
+   "query": "machine learning",
+   "first_seen": "2026-11-03T06:21:36+00:00",
+   "seeded": false
+  },
   {
    "id": "10594883",
    "title": "Risk Manager, Dangerous Goods Classification",
