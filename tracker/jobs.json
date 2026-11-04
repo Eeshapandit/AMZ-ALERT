@@ -1,6 +1,34 @@
 {
 "jobs": [
 {
+"id": "amz:10596924",
+"company": "Amazon",
+"title": "Data Engineer II, New Selection Success",
+"role": "Data Engineer",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10596924/data-engineer-ii-new-selection-success",
+"posted": "November  4, 2026",
+"first_seen": "2026-11-04T22:45:48+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "gh:misfitsmarket:7516411003",
+"company": "Misfits Market",
+"title": "Senior Data Analyst, Experimentation",
+"role": "Data Analyst",
+"location": "Remote",
+"mode": "Remote",
+"years": 3,
+"link": "https://job-boards.greenhouse.io/misfitsmarket/jobs/7516411003",
+"posted": "2025-11-06T11:17:27-05:00",
+"first_seen": "2026-11-04T22:45:48+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
 "id": "amz:10595880",
 "company": "Amazon",
 "title": "Data Engineer, WW Pricing - Data & Analytics",
@@ -390,20 +418,6 @@
 "posted": "2026-08-31T11:32:28-04:00",
 "first_seen": "2026-10-28T14:39:35+00:00",
 "seeded": true,
-"sector": "retail"
-},
-{
-"id": "amz:10590795",
-"company": "Amazon",
-"title": "Data Engineer, Global Logistics Product Analytics Team",
-"role": "Data Engineer",
-"location": "Bellevue, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 1,
-"link": "https://www.amazon.jobs/en/jobs/10590795/data-engineer-global-logistics-product-analytics-team",
-"posted": "October 28, 2026",
-"first_seen": "2026-10-28T14:17:35+00:00",
-"seeded": false,
 "sector": "retail"
 },
 {
@@ -985,7 +999,7 @@
 "company": "cursor",
 "title": "Forward Deployed Strategist ",
 "role": "FDE",
-"location": "London; New York; Remote (United Kingdom)",
+"location": "London; New York, NY; Remote (United Kingdom)",
 "mode": "Remote",
 "years": null,
 "link": "https://jobs.ashbyhq.com/cursor/9b897011-11bc-4d8f-beb4-d2155d36e941",
@@ -1193,7 +1207,7 @@
 {
 "id": "ab:rogo:0612fd71-b93a-444c-a3da-0857d06edd3f",
 "company": "rogo",
-"title": "Forward Deployed, Alliances",
+"title": "Forward Deployed, Consultant",
 "role": "FDE",
 "location": "New York City (USA)",
 "mode": "Onsite",
@@ -1349,7 +1363,7 @@
 "company": "cursor",
 "title": "Forward Deployed Strategist",
 "role": "FDE",
-"location": "Remote; New York; San Francisco; Remote (United States)",
+"location": "Remote; New York, NY; San Francisco, CA; Remote (United States)",
 "mode": "Remote",
 "years": null,
 "link": "https://jobs.ashbyhq.com/cursor/6960dfef-6dc1-4dbb-887b-0fc9e6e4292e",
@@ -2171,5 +2185,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-04T02:10:07+00:00"
+"updated": "2026-11-04T22:45:48+00:00"
 }
