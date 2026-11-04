@@ -239,20 +239,6 @@
 "sector": "retail"
 },
 {
-"id": "amz:10577327",
-"company": "Amazon",
-"title": "Software Development Engineer , FinTech Entity Data Service",
-"role": "Data / AI",
-"location": "Bellevue, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10577327/software-development-engineer-fintech-entity-data-service",
-"posted": "October 13, 2026",
-"first_seen": "2026-10-28T14:39:35+00:00",
-"seeded": false,
-"sector": "retail"
-},
-{
 "id": "amz:10571019",
 "company": "Amazon",
 "title": "Senior Financial Analyst, AWS Data Center FP&A",
@@ -541,20 +527,6 @@
 "mode": "Onsite/Hybrid",
 "years": 3,
 "link": "https://www.amazon.jobs/en/jobs/10579730/data-engineer-amazon-prime",
-"posted": "October 15, 2026",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": "retail"
-},
-{
-"id": "amz:10579596",
-"company": "Amazon",
-"title": "Data Engineer, Robotics Delivery and Packaging Innovation",
-"role": "Data Engineer",
-"location": "Bellevue, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 2,
-"link": "https://www.amazon.jobs/en/jobs/10579596/data-engineer-robotics-delivery-and-packaging-innovation",
 "posted": "October 15, 2026",
 "first_seen": "2026-10-28T14:15:32+00:00",
 "seeded": true,
@@ -2199,5 +2171,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-03T21:59:28+00:00"
+"updated": "2026-11-04T02:10:07+00:00"
 }
