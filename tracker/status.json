@@ -1,8 +1,6 @@
 {
  "errors": {
-  "greenhouse:andurilindustries": "TimeoutError: The read operation timed out",
-  "lever:palantir": "TimeoutError: The read operation timed out",
-  "lever:zoox": "TimeoutError: The read operation timed out"
+  "greenhouse:andurilindustries": "TimeoutError: The read operation timed out"
  },
  "ok": {
   "amazon:amazon": {
@@ -315,7 +313,7 @@
   },
   "greenhouse:everlane": {
    "matching": 1,
-   "open": 32
+   "open": 31
   },
   "greenhouse:faire": {
    "matching": 0,
@@ -435,7 +433,7 @@
   },
   "greenhouse:newrelic": {
    "matching": 0,
-   "open": 49
+   "open": 50
   },
   "greenhouse:nextdoor": {
    "matching": 0,
@@ -491,7 +489,7 @@
   },
   "greenhouse:reformation": {
    "matching": 0,
-   "open": 163
+   "open": 162
   },
   "greenhouse:robinhood": {
    "matching": 0,
@@ -637,6 +635,10 @@
    "matching": 0,
    "open": 20
   },
+  "lever:palantir": {
+   "matching": 23,
+   "open": 309
+  },
   "lever:rover": {
    "matching": 0,
    "open": 32
@@ -652,12 +654,16 @@
   "lever:whoop": {
    "matching": 0,
    "open": 0
+  },
+  "lever:zoox": {
+   "matching": 2,
+   "open": 226
   }
  },
  "summary": {
-  "candidates": 261,
+  "candidates": 286,
   "kept": 155,
-  "sources_failed": 3,
-  "sources_ok": 162
+  "sources_failed": 1,
+  "sources_ok": 164
  }
 }
