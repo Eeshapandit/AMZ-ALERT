@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-04T00:54:50+00:00",
+ "updated": "2026-11-04T07:25:18+00:00",
  "jobs": [
+  {
+   "id": "10596175",
+   "title": "Staff Pharmacist - Simi Valley, CA, Amazon Pharmacy",
+   "location": "Simi Valley, California, USA",
+   "team": "pharmacy",
+   "posted_date": "November  4, 2026",
+   "years": null,
+   "link": "https://www.amazon.jobs/en/jobs/10596175/staff-pharmacist-simi-valley-ca-amazon-pharmacy",
+   "query": "data",
+   "first_seen": "2026-11-04T07:25:18+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10596200",
+   "title": "Delivery Consultant - Migrations, Cloud Platform and Migrations, AWS Professional Services",
+   "location": "New York, New York, USA",
+   "team": "aws",
+   "posted_date": "November  4, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10596200/delivery-consultant-migrations-cloud-platform-and-migrations-aws-professional-services",
+   "query": "data",
+   "first_seen": "2026-11-04T07:25:18+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10596126",
+   "title": "Brand Partnerships Manager, Creators",
+   "location": "New York, New York, USA",
+   "team": "north-america-stores",
+   "posted_date": "November  4, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10596126/brand-partnerships-manager-creators",
+   "query": "data",
+   "first_seen": "2026-11-04T07:25:18+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10596177",
+   "title": "Digital Marketing Manager, Digital Marketing, Movies ",
+   "location": "Culver City, California, USA",
+   "team": "entertainment",
+   "posted_date": "November  4, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10596177/digital-marketing-manager-digital-marketing-movies",
+   "query": "data",
+   "first_seen": "2026-11-04T07:25:18+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10596127",
+   "title": "Launch Sr PM, ARS",
+   "location": "Nashville, Tennessee, USA",
+   "team": "operations",
+   "posted_date": "November  4, 2026",
+   "years": 2,
+   "link": "https://www.amazon.jobs/en/jobs/10596127/launch-sr-pm-ars",
+   "query": "analytics",
+   "first_seen": "2026-11-04T07:25:18+00:00",
+   "seeded": false
+  },
   {
    "id": "10595995",
    "title": "EHS Specialist",
