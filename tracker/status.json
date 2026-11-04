@@ -1,6 +1,6 @@
 {
  "errors": {
-  "lever:palantir": "TimeoutError: The read operation timed out"
+  "lever:gopuff": "HTTPError: HTTP Error 500: Internal Server Error"
  },
  "ok": {
   "amazon:amazon": {
@@ -473,7 +473,7 @@
   },
   "greenhouse:pinterest": {
    "matching": 2,
-   "open": 168
+   "open": 167
   },
   "greenhouse:point72": {
    "matching": 4,
@@ -607,10 +607,6 @@
    "matching": 0,
    "open": 5
   },
-  "lever:gopuff": {
-   "matching": 3,
-   "open": 779
-  },
   "lever:jumpcloud": {
    "matching": 0,
    "open": 43
@@ -639,6 +635,10 @@
    "matching": 0,
    "open": 19
   },
+  "lever:palantir": {
+   "matching": 23,
+   "open": 307
+  },
   "lever:rover": {
    "matching": 0,
    "open": 33
@@ -661,7 +661,7 @@
   }
  },
  "summary": {
-  "candidates": 272,
+  "candidates": 292,
   "kept": 155,
   "sources_failed": 1,
   "sources_ok": 164
