@@ -1,5 +1,7 @@
 {
- "errors": {},
+ "errors": {
+  "lever:palantir": "TimeoutError: The read operation timed out"
+ },
  "ok": {
   "amazon:amazon": {
    "matching": 64,
@@ -311,7 +313,7 @@
   },
   "greenhouse:elastic": {
    "matching": 0,
-   "open": 418
+   "open": 420
   },
   "greenhouse:everlane": {
    "matching": 1,
@@ -637,10 +639,6 @@
    "matching": 0,
    "open": 19
   },
-  "lever:palantir": {
-   "matching": 23,
-   "open": 307
-  },
   "lever:rover": {
    "matching": 0,
    "open": 33
@@ -663,9 +661,9 @@
   }
  },
  "summary": {
-  "candidates": 295,
+  "candidates": 272,
   "kept": 155,
-  "sources_failed": 0,
-  "sources_ok": 165
+  "sources_failed": 1,
+  "sources_ok": 164
  }
 }
