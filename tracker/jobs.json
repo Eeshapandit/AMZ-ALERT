@@ -1,6 +1,34 @@
 {
 "jobs": [
 {
+"id": "gh:gleanwork:4751170005",
+"company": "Glean",
+"title": "Forward Deployed Recruiter",
+"role": "FDE",
+"location": "Mountain View, CA",
+"mode": "Onsite/Hybrid",
+"years": null,
+"link": "https://job-boards.greenhouse.io/gleanwork/jobs/4751170005",
+"posted": "2026-11-04T19:22:58-05:00",
+"first_seen": "2026-11-05T02:54:01+00:00",
+"seeded": false,
+"sector": ""
+},
+{
+"id": "gh:stripe:8189909",
+"company": "Stripe",
+"title": "Data Analyst, SF",
+"role": "Data Analyst",
+"location": "San Francisco",
+"mode": "Onsite/Hybrid",
+"years": null,
+"link": "https://stripe.com/jobs/search?gh_jid=8189909",
+"posted": "2026-09-10T17:39:22-04:00",
+"first_seen": "2026-11-05T02:54:01+00:00",
+"seeded": false,
+"sector": ""
+},
+{
 "id": "amz:10596924",
 "company": "Amazon",
 "title": "Data Engineer II, New Selection Success",
@@ -500,20 +528,6 @@
 "years": 3,
 "link": "https://www.amazon.jobs/en/jobs/10583533/forward-deployed-engineer-forward-deployment-engineering",
 "posted": "October 20, 2026",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": "retail"
-},
-{
-"id": "amz:10582746",
-"company": "Amazon",
-"title": "Data Engineer, Amazon Security Experience",
-"role": "Data Engineer",
-"location": "Seattle, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 2,
-"link": "https://www.amazon.jobs/en/jobs/10582746/data-engineer-amazon-security-experience",
-"posted": "October 19, 2026",
 "first_seen": "2026-10-28T14:15:32+00:00",
 "seeded": true,
 "sector": "retail"
@@ -2185,5 +2199,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-04T22:45:48+00:00"
+"updated": "2026-11-05T02:54:01+00:00"
 }
