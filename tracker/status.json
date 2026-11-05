@@ -1,7 +1,6 @@
 {
  "errors": {
-  "lever:mistral": "HTTPError: HTTP Error 404: Not Found",
-  "lever:shieldai": "HTTPError: HTTP Error 500: Internal Server Error"
+  "lever:mistral": "HTTPError: HTTP Error 404: Not Found"
  },
  "ok": {
   "amazon:amazon": {
@@ -130,7 +129,7 @@
   },
   "ashby:pinecone": {
    "matching": 0,
-   "open": 5
+   "open": 6
   },
   "ashby:plaid": {
    "matching": 1,
@@ -450,7 +449,7 @@
   },
   "greenhouse:okta": {
    "matching": 0,
-   "open": 390
+   "open": 389
   },
   "greenhouse:optiver": {
    "matching": 0,
@@ -644,6 +643,10 @@
    "matching": 0,
    "open": 33
   },
+  "lever:shieldai": {
+   "matching": 3,
+   "open": 655
+  },
   "lever:veeva": {
    "matching": 1,
    "open": 878
@@ -658,9 +661,9 @@
   }
  },
  "summary": {
-  "candidates": 297,
+  "candidates": 300,
   "kept": 163,
-  "sources_failed": 2,
-  "sources_ok": 163
+  "sources_failed": 1,
+  "sources_ok": 164
  }
 }
