@@ -1,7 +1,6 @@
 {
  "errors": {
-  "lever:mistral": "HTTPError: HTTP Error 404: Not Found",
-  "lever:palantir": "TimeoutError: The read operation timed out"
+  "lever:mistral": "HTTPError: HTTP Error 404: Not Found"
  },
  "ok": {
   "amazon:amazon": {
@@ -210,7 +209,7 @@
   },
   "greenhouse:airbnb": {
    "matching": 0,
-   "open": 202
+   "open": 201
   },
   "greenhouse:airtable": {
    "matching": 0,
@@ -470,7 +469,7 @@
   },
   "greenhouse:peloton": {
    "matching": 0,
-   "open": 47
+   "open": 46
   },
   "greenhouse:pinterest": {
    "matching": 2,
@@ -636,6 +635,10 @@
    "matching": 0,
    "open": 22
   },
+  "lever:palantir": {
+   "matching": 23,
+   "open": 309
+  },
   "lever:rover": {
    "matching": 0,
    "open": 33
@@ -658,9 +661,9 @@
   }
  },
  "summary": {
-  "candidates": 279,
+  "candidates": 302,
   "kept": 163,
-  "sources_failed": 2,
-  "sources_ok": 163
+  "sources_failed": 1,
+  "sources_ok": 164
  }
 }
