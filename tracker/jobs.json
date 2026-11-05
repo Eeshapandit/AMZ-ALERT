@@ -1,16 +1,58 @@
 {
 "jobs": [
 {
-"id": "amz:10582746",
+"id": "amz:10597861",
 "company": "Amazon",
-"title": "Data Engineer, Amazon Security Experience",
+"title": "Data Engineer, WW Pricing - Data & Analytics",
 "role": "Data Engineer",
 "location": "Seattle, Washington, USA",
 "mode": "Onsite/Hybrid",
-"years": 2,
-"link": "https://www.amazon.jobs/en/jobs/10582746/data-engineer-amazon-security-experience",
-"posted": "October 19, 2026",
-"first_seen": "2026-11-05T18:12:39+00:00",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10597861/data-engineer-ww-pricing-data-analytics",
+"posted": "November  5, 2026",
+"first_seen": "2026-11-05T23:41:21+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "amz:10597835",
+"company": "Amazon",
+"title": "Software Development Engineer, Kinesis Data Streams",
+"role": "Data / AI",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10597835/software-development-engineer-kinesis-data-streams",
+"posted": "November  5, 2026",
+"first_seen": "2026-11-05T23:41:21+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "gh:aloyoga:6250252004",
+"company": " ALO",
+"title": "Lead Data Engineer",
+"role": "Data Engineer",
+"location": "Beverly Hills LAND, Beverly Hills, CA (HQ-L)",
+"mode": "Onsite/Hybrid",
+"years": null,
+"link": "https://boards.greenhouse.io/aloyoga/jobs/6250252004?gh_jid=6250252004",
+"posted": "2026-11-05T17:58:46-05:00",
+"first_seen": "2026-11-05T23:41:21+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "gh:aloyoga:6250250004",
+"company": " ALO",
+"title": "Senior Data Engineer",
+"role": "Data Engineer",
+"location": "Beverly Hills LAND, Beverly Hills, CA (HQ-L)",
+"mode": "Onsite/Hybrid",
+"years": null,
+"link": "https://boards.greenhouse.io/aloyoga/jobs/6250250004?gh_jid=6250250004",
+"posted": "2026-11-05T17:55:32-05:00",
+"first_seen": "2026-11-05T23:41:21+00:00",
 "seeded": false,
 "sector": "retail"
 },
@@ -127,20 +169,6 @@
 "sector": ""
 },
 {
-"id": "amz:10596924",
-"company": "Amazon",
-"title": "Data Engineer II, New Selection Success",
-"role": "Data Engineer",
-"location": "Seattle, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10596924/data-engineer-ii-new-selection-success",
-"posted": "November  4, 2026",
-"first_seen": "2026-11-04T22:45:48+00:00",
-"seeded": false,
-"sector": "retail"
-},
-{
 "id": "gh:misfitsmarket:7516411003",
 "company": "Misfits Market",
 "title": "Senior Data Analyst, Experimentation",
@@ -151,20 +179,6 @@
 "link": "https://job-boards.greenhouse.io/misfitsmarket/jobs/7516411003",
 "posted": "2025-11-06T11:17:27-05:00",
 "first_seen": "2026-11-04T22:45:48+00:00",
-"seeded": false,
-"sector": "retail"
-},
-{
-"id": "amz:10595880",
-"company": "Amazon",
-"title": "Data Engineer, WW Pricing - Data & Analytics",
-"role": "Data Engineer",
-"location": "Seattle, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10595880/data-engineer-ww-pricing-data-analytics",
-"posted": "November  3, 2026",
-"first_seen": "2026-11-03T21:59:28+00:00",
 "seeded": false,
 "sector": "retail"
 },
@@ -1545,7 +1559,7 @@
 "company": "SpaceXSI",
 "title": "Software Engineer, Data Engineering (X)",
 "role": "Data Engineer",
-"location": " Palo Alto, CA",
+"location": "Palo Alto, CA",
 "mode": "Onsite/Hybrid",
 "years": null,
 "link": "https://job-boards.greenhouse.io/xai/jobs/5182183007",
@@ -1620,20 +1634,6 @@
 "years": 3,
 "link": "https://boards.greenhouse.io/andurilindustries/jobs/5114654007?gh_jid=5114654007",
 "posted": "2026-06-29T14:20:26-04:00",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": ""
-},
-{
-"id": "gh:andurilindustries:5150089007",
-"company": "Anduril Industries",
-"title": "Product Data Engineer",
-"role": "Data Engineer",
-"location": "Irvine, California, United States",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://boards.greenhouse.io/andurilindustries/jobs/5150089007?gh_jid=5150089007",
-"posted": "2026-06-29T14:01:58-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
 "seeded": true,
 "sector": ""
@@ -2283,5 +2283,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-05T18:12:39+00:00"
+"updated": "2026-11-05T23:41:21+00:00"
 }
