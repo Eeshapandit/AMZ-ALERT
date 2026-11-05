@@ -1,7 +1,6 @@
 {
  "errors": {
-  "lever:mistral": "HTTPError: HTTP Error 404: Not Found",
-  "lever:veeva": "TimeoutError: The read operation timed out"
+  "lever:mistral": "HTTPError: HTTP Error 404: Not Found"
  },
  "ok": {
   "amazon:amazon": {
@@ -314,7 +313,7 @@
   },
   "greenhouse:elastic": {
    "matching": 0,
-   "open": 420
+   "open": 421
   },
   "greenhouse:everlane": {
    "matching": 1,
@@ -648,6 +647,10 @@
    "matching": 3,
    "open": 659
   },
+  "lever:veeva": {
+   "matching": 1,
+   "open": 873
+  },
   "lever:whoop": {
    "matching": 0,
    "open": 0
@@ -658,9 +661,9 @@
   }
  },
  "summary": {
-  "candidates": 295,
+  "candidates": 296,
   "kept": 156,
-  "sources_failed": 2,
-  "sources_ok": 163
+  "sources_failed": 1,
+  "sources_ok": 164
  }
 }
