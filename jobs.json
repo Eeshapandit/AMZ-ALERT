@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-05T01:48:26+00:00",
+ "updated": "2026-11-05T08:41:31+00:00",
  "jobs": [
+  {
+   "id": "10597316",
+   "title": "Software Dev Engineer",
+   "location": "Sunnyvale, California, USA",
+   "team": "alexa-and-amazon-devices",
+   "posted_date": "November  5, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10597316/software-dev-engineer",
+   "query": "data",
+   "first_seen": "2026-11-05T08:41:31+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10597381",
+   "title": "Supply Chain Analyst, GPCS - AMER",
+   "location": "Tempe, Arizona, USA",
+   "team": "fulfillment-ops",
+   "posted_date": "November  5, 2026",
+   "years": 2,
+   "link": "https://www.amazon.jobs/en/jobs/10597381/supply-chain-analyst-gpcs-amer",
+   "query": "analytics",
+   "first_seen": "2026-11-05T08:41:31+00:00",
+   "seeded": false
+  },
   {
    "id": "10597261",
    "title": "Investigations Analyst, Safety, NAST",
