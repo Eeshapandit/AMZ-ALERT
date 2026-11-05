@@ -575,20 +575,6 @@
 "sector": "retail"
 },
 {
-"id": "amz:10574705",
-"company": "Amazon",
-"title": "Data Engineer , Amazon Customer Service",
-"role": "Data Engineer",
-"location": "Seattle, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10574705/data-engineer-amazon-customer-service",
-"posted": "October  9, 2026",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": "retail"
-},
-{
 "id": "ab:tennr:8cfdd6c5-081e-4c10-9b43-effdc91cbda6",
 "company": "tennr",
 "title": "Forward Deployed Engineering Team Manager",
@@ -2199,5 +2185,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-05T02:54:01+00:00"
+"updated": "2026-11-05T10:25:43+00:00"
 }
