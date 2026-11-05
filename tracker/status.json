@@ -61,7 +61,7 @@
   },
   "ashby:elevenlabs": {
    "matching": 1,
-   "open": 143
+   "open": 144
   },
   "ashby:harvey": {
    "matching": 6,
@@ -425,7 +425,7 @@
   },
   "greenhouse:mongodb": {
    "matching": 1,
-   "open": 364
+   "open": 365
   },
   "greenhouse:monzo": {
    "matching": 0,
@@ -537,7 +537,7 @@
   },
   "greenhouse:stripe": {
    "matching": 6,
-   "open": 761
+   "open": 762
   },
   "greenhouse:sweetgreen": {
    "matching": 0,
@@ -589,7 +589,7 @@
   },
   "greenhouse:xai": {
    "matching": 3,
-   "open": 305
+   "open": 304
   },
   "greenhouse:yotpo": {
    "matching": 0,
