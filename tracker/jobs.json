@@ -1,6 +1,104 @@
 {
 "jobs": [
 {
+"id": "amz:10582746",
+"company": "Amazon",
+"title": "Data Engineer, Amazon Security Experience",
+"role": "Data Engineer",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 2,
+"link": "https://www.amazon.jobs/en/jobs/10582746/data-engineer-amazon-security-experience",
+"posted": "October 19, 2026",
+"first_seen": "2026-11-05T18:12:39+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "amz:10597768",
+"company": "Amazon",
+"title": "Data Engineer II, Eva Trust Dev Team",
+"role": "Data Engineer",
+"location": "Bellevue, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10597768/data-engineer-ii-eva-trust-dev-team",
+"posted": "November  5, 2026",
+"first_seen": "2026-11-05T18:12:39+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "ab:openai:8e7ba2dd-d632-4a8b-b95b-e2592f77a679",
+"company": "openai",
+"title": "Forward Deployed Engineering Manager, Financial Services",
+"role": "FDE",
+"location": "New York City (United States)",
+"mode": "Hybrid",
+"years": 2,
+"link": "https://jobs.ashbyhq.com/openai/8e7ba2dd-d632-4a8b-b95b-e2592f77a679",
+"posted": "2026-11-05T14:12:06.619+00:00",
+"first_seen": "2026-11-05T18:12:39+00:00",
+"seeded": false,
+"sector": ""
+},
+{
+"id": "gh:andurilindustries:5286149007",
+"company": "Anduril Industries",
+"title": "Forward Deployed Software Engineer, JBLM (Active Clearance)",
+"role": "FDE",
+"location": "Remote",
+"mode": "Remote",
+"years": null,
+"link": "https://boards.greenhouse.io/andurilindustries/jobs/5286149007?gh_jid=5286149007",
+"posted": "2026-11-05T11:58:33-05:00",
+"first_seen": "2026-11-05T18:12:39+00:00",
+"seeded": false,
+"sector": ""
+},
+{
+"id": "gh:andurilindustries:5259047007",
+"company": "Anduril Industries",
+"title": "Senior Product Manager, Forward Deployed",
+"role": "FDE",
+"location": "Seattle, Washington, United States",
+"mode": "Onsite/Hybrid",
+"years": null,
+"link": "https://boards.greenhouse.io/andurilindustries/jobs/5259047007?gh_jid=5259047007",
+"posted": "2026-10-06T16:53:50-04:00",
+"first_seen": "2026-11-05T18:12:39+00:00",
+"seeded": false,
+"sector": ""
+},
+{
+"id": "gh:andurilindustries:5254920007",
+"company": "Anduril Industries",
+"title": "Senior Product Manager, Forward Deployed",
+"role": "FDE",
+"location": "Costa Mesa, California, United States",
+"mode": "Onsite/Hybrid",
+"years": null,
+"link": "https://boards.greenhouse.io/andurilindustries/jobs/5254920007?gh_jid=5254920007",
+"posted": "2026-10-06T16:53:46-04:00",
+"first_seen": "2026-11-05T18:12:39+00:00",
+"seeded": false,
+"sector": ""
+},
+{
+"id": "gh:drweng:8189760",
+"company": "DRW ",
+"title": "Data Analyst, Exploration",
+"role": "Data Analyst",
+"location": "Chicago, New York City",
+"mode": "Onsite/Hybrid",
+"years": 1,
+"link": "https://job-boards.greenhouse.io/drweng/jobs/8189760",
+"posted": "2026-09-18T15:57:07-04:00",
+"first_seen": "2026-11-05T18:12:39+00:00",
+"seeded": false,
+"sector": ""
+},
+{
 "id": "gh:gleanwork:4751170005",
 "company": "Glean",
 "title": "Forward Deployed Recruiter",
@@ -2185,5 +2283,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-05T10:25:43+00:00"
+"updated": "2026-11-05T18:12:39+00:00"
 }
