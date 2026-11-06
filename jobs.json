@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-06T02:50:50+00:00",
+ "updated": "2026-11-06T10:40:33+00:00",
  "jobs": [
+  {
+   "id": "10598432",
+   "title": "Software Development Engineer, SoC HAL",
+   "location": "Cupertino, California, USA",
+   "team": "annapurna",
+   "posted_date": "November  6, 2026",
+   "years": null,
+   "link": "https://www.amazon.jobs/en/jobs/10598432/software-development-engineer-soc-hal",
+   "query": "data",
+   "first_seen": "2026-11-06T10:40:33+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10598163",
+   "title": "Ontologist, Product Knowledge",
+   "location": "Seattle, Washington, USA",
+   "team": "ecp",
+   "posted_date": "November  6, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10598163/ontologist-product-knowledge",
+   "query": "data",
+   "first_seen": "2026-11-06T10:40:33+00:00",
+   "seeded": false
+  },
   {
    "id": "10598116",
    "title": "Digital Supply Chain Mgr III- AMZ18767.9",
