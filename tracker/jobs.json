@@ -1,6 +1,34 @@
 {
 "jobs": [
 {
+"id": "gh:andurilindustries:5286897007",
+"company": "Anduril Industries",
+"title": "Forward Deployed Production Lead",
+"role": "FDE",
+"location": "Costa Mesa, California, United States",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://boards.greenhouse.io/andurilindustries/jobs/5286897007?gh_jid=5286897007",
+"posted": "2026-11-05T21:23:34-05:00",
+"first_seen": "2026-11-06T03:41:12+00:00",
+"seeded": false,
+"sector": ""
+},
+{
+"id": "gh:stripe:8354566",
+"company": "Stripe",
+"title": "AMER Data Analyst - Sales Strategy and Operations",
+"role": "Data Analyst",
+"location": "Chicago, US Remote, SF, NYC, Seattle",
+"mode": "Remote",
+"years": 3,
+"link": "https://stripe.com/jobs/search?gh_jid=8354566",
+"posted": "2026-11-05T19:45:33-05:00",
+"first_seen": "2026-11-06T03:41:12+00:00",
+"seeded": false,
+"sector": ""
+},
+{
 "id": "amz:10597861",
 "company": "Amazon",
 "title": "Data Engineer, WW Pricing - Data & Analytics",
@@ -2283,5 +2311,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-05T23:41:21+00:00"
+"updated": "2026-11-06T03:41:12+00:00"
 }
