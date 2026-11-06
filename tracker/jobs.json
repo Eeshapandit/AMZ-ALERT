@@ -1,6 +1,20 @@
 {
 "jobs": [
 {
+"id": "gh:okta:8304288",
+"company": "Okta",
+"title": "Senior Data Analyst (Auth0)",
+"role": "Data Analyst",
+"location": "Chicago, Illinois; New York, New York; Seattle, Washington; Washington, DC",
+"mode": "Onsite/Hybrid",
+"years": null,
+"link": "https://www.okta.com/company/careers/opportunity/8304288?gh_jid=8304288",
+"posted": "2026-10-21T11:55:12-04:00",
+"first_seen": "2026-11-06T23:25:05+00:00",
+"seeded": false,
+"sector": ""
+},
+{
 "id": "amz:10598852",
 "company": "Amazon",
 "title": "Data Engineer, Selling Partner Trust",
@@ -69,20 +83,6 @@
 "first_seen": "2026-11-06T03:41:12+00:00",
 "seeded": false,
 "sector": ""
-},
-{
-"id": "amz:10597861",
-"company": "Amazon",
-"title": "Data Engineer, WW Pricing - Data & Analytics",
-"role": "Data Engineer",
-"location": "Seattle, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10597861/data-engineer-ww-pricing-data-analytics",
-"posted": "November  5, 2026",
-"first_seen": "2026-11-05T23:41:21+00:00",
-"seeded": false,
-"sector": "retail"
 },
 {
 "id": "amz:10597835",
@@ -2325,5 +2325,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-06T18:25:40+00:00"
+"updated": "2026-11-06T23:25:05+00:00"
 }
