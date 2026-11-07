@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-07T02:18:12+00:00",
+ "updated": "2026-11-07T08:58:41+00:00",
  "jobs": [
+  {
+   "id": "10599137",
+   "title": "Infra Delivery Technician",
+   "location": "Lancaster, Texas, USA",
+   "team": "aws",
+   "posted_date": "November  7, 2026",
+   "years": 1,
+   "link": "https://www.amazon.jobs/en/jobs/10599137/infra-delivery-technician",
+   "query": "data",
+   "first_seen": "2026-11-07T08:58:41+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10599329",
+   "title": "AI Security Engineer, US ADC Security",
+   "location": "Herndon, Virginia, USA",
+   "team": "amazon-security",
+   "posted_date": "November  7, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10599329/ai-security-engineer-us-adc-security",
+   "query": "machine learning",
+   "first_seen": "2026-11-07T08:58:41+00:00",
+   "seeded": false
+  },
   {
    "id": "10599226",
    "title": "Data Center Technician ",
