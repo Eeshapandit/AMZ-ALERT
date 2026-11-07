@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-06T22:26:22+00:00",
+ "updated": "2026-11-07T02:18:12+00:00",
  "jobs": [
+  {
+   "id": "10599226",
+   "title": "Data Center Technician ",
+   "location": "Avondale, Arizona, USA",
+   "team": "aws",
+   "posted_date": "November  6, 2026",
+   "years": 1,
+   "link": "https://www.amazon.jobs/en/jobs/10599226/data-center-technician",
+   "query": "data",
+   "first_seen": "2026-11-07T02:18:12+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10599227",
+   "title": "Data Center Technician ",
+   "location": "Avondale, Arizona, USA",
+   "team": "aws",
+   "posted_date": "November  6, 2026",
+   "years": 2,
+   "link": "https://www.amazon.jobs/en/jobs/10599227/data-center-technician",
+   "query": "data",
+   "first_seen": "2026-11-07T02:18:12+00:00",
+   "seeded": false
+  },
   {
    "id": "10599177",
    "title": "Pharmacy Manager, Amazon Pharmacy",
