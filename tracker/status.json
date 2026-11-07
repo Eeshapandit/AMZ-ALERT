@@ -149,7 +149,7 @@
   },
   "ashby:ramp": {
    "matching": 2,
-   "open": 171
+   "open": 169
   },
   "ashby:replit": {
    "matching": 1,
@@ -281,7 +281,7 @@
   },
   "greenhouse:databricks": {
    "matching": 23,
-   "open": 923
+   "open": 922
   },
   "greenhouse:datadog": {
    "matching": 1,
@@ -509,7 +509,7 @@
   },
   "greenhouse:samsara": {
    "matching": 2,
-   "open": 316
+   "open": 315
   },
   "greenhouse:scaleai": {
    "matching": 5,
@@ -577,7 +577,7 @@
   },
   "greenhouse:waymo": {
    "matching": 2,
-   "open": 370
+   "open": 371
   },
   "greenhouse:weee": {
    "matching": 1,
