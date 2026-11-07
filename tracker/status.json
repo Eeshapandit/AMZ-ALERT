@@ -65,7 +65,7 @@
   },
   "ashby:harvey": {
    "matching": 6,
-   "open": 371
+   "open": 370
   },
   "ashby:hex": {
    "matching": 0,
@@ -77,7 +77,7 @@
   },
   "ashby:langchain": {
    "matching": 0,
-   "open": 98
+   "open": 100
   },
   "ashby:lightdash": {
    "matching": 0,
@@ -281,7 +281,7 @@
   },
   "greenhouse:databricks": {
    "matching": 23,
-   "open": 924
+   "open": 923
   },
   "greenhouse:datadog": {
    "matching": 1,
@@ -493,7 +493,7 @@
   },
   "greenhouse:reformation": {
    "matching": 0,
-   "open": 156
+   "open": 158
   },
   "greenhouse:robinhood": {
    "matching": 0,
@@ -509,7 +509,7 @@
   },
   "greenhouse:samsara": {
    "matching": 2,
-   "open": 315
+   "open": 316
   },
   "greenhouse:scaleai": {
    "matching": 5,
@@ -537,7 +537,7 @@
   },
   "greenhouse:stripe": {
    "matching": 7,
-   "open": 765
+   "open": 766
   },
   "greenhouse:sweetgreen": {
    "matching": 0,
@@ -645,7 +645,7 @@
   },
   "lever:shieldai": {
    "matching": 3,
-   "open": 659
+   "open": 660
   },
   "lever:veeva": {
    "matching": 1,
