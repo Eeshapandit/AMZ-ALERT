@@ -221,11 +221,11 @@
   },
   "greenhouse:andurilindustries": {
    "matching": 13,
-   "open": 2604
+   "open": 2603
   },
   "greenhouse:anthropic": {
    "matching": 8,
-   "open": 678
+   "open": 675
   },
   "greenhouse:applovin": {
    "matching": 0,
@@ -277,15 +277,15 @@
   },
   "greenhouse:coinbase": {
    "matching": 6,
-   "open": 285
+   "open": 284
   },
   "greenhouse:databricks": {
    "matching": 23,
-   "open": 923
+   "open": 924
   },
   "greenhouse:datadog": {
    "matching": 1,
-   "open": 399
+   "open": 400
   },
   "greenhouse:discord": {
    "matching": 2,
@@ -645,7 +645,7 @@
   },
   "lever:shieldai": {
    "matching": 3,
-   "open": 662
+   "open": 661
   },
   "lever:veeva": {
    "matching": 1,
