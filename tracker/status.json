@@ -33,7 +33,7 @@
   },
   "ashby:cognition": {
    "matching": 3,
-   "open": 108
+   "open": 110
   },
   "ashby:cohere": {
    "matching": 2,
@@ -113,7 +113,7 @@
   },
   "ashby:openai": {
    "matching": 25,
-   "open": 818
+   "open": 816
   },
   "ashby:perplexity": {
    "matching": 0,
@@ -277,7 +277,7 @@
   },
   "greenhouse:coinbase": {
    "matching": 6,
-   "open": 284
+   "open": 283
   },
   "greenhouse:databricks": {
    "matching": 23,
@@ -509,7 +509,7 @@
   },
   "greenhouse:samsara": {
    "matching": 2,
-   "open": 316
+   "open": 315
   },
   "greenhouse:scaleai": {
    "matching": 5,
@@ -549,7 +549,7 @@
   },
   "greenhouse:toast": {
    "matching": 0,
-   "open": 332
+   "open": 333
   },
   "greenhouse:togetherai": {
    "matching": 2,
