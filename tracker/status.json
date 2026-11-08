@@ -4,8 +4,8 @@
  },
  "ok": {
   "amazon:amazon": {
-   "matching": 65,
-   "open": 177
+   "matching": 64,
+   "open": 176
   },
   "ashby:abridge": {
    "matching": 1,
@@ -61,11 +61,11 @@
   },
   "ashby:elevenlabs": {
    "matching": 1,
-   "open": 139
+   "open": 137
   },
   "ashby:harvey": {
    "matching": 6,
-   "open": 370
+   "open": 373
   },
   "ashby:hex": {
    "matching": 0,
@@ -97,7 +97,7 @@
   },
   "ashby:motherduck": {
    "matching": 0,
-   "open": 7
+   "open": 6
   },
   "ashby:neon": {
    "matching": 0,
@@ -405,7 +405,7 @@
   },
   "greenhouse:lyft": {
    "matching": 0,
-   "open": 167
+   "open": 166
   },
   "greenhouse:mercari": {
    "matching": 0,
@@ -577,7 +577,7 @@
   },
   "greenhouse:waymo": {
    "matching": 2,
-   "open": 371
+   "open": 369
   },
   "greenhouse:weee": {
    "matching": 1,
@@ -589,7 +589,7 @@
   },
   "greenhouse:xai": {
    "matching": 4,
-   "open": 303
+   "open": 304
   },
   "greenhouse:yotpo": {
    "matching": 0,
@@ -661,7 +661,7 @@
   }
  },
  "summary": {
-  "candidates": 311,
+  "candidates": 310,
   "kept": 166,
   "sources_failed": 1,
   "sources_ok": 164
