@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-08T20:37:25+00:00",
+ "updated": "2026-11-09T06:19:22+00:00",
  "jobs": [
+  {
+   "id": "10599483",
+   "title": "Staff Pharmacist , Amazon Pharmacy",
+   "location": "Plainfield, Indiana, USA",
+   "team": "healthcare",
+   "posted_date": "November  9, 2026",
+   "years": null,
+   "link": "https://www.amazon.jobs/en/jobs/10599483/staff-pharmacist-amazon-pharmacy",
+   "query": "data",
+   "first_seen": "2026-11-09T06:19:22+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10599482",
+   "title": "Overnight Staff Pharmacist , Amazon Pharmacy",
+   "location": "Chicago, Illinois, USA",
+   "team": "healthcare",
+   "posted_date": "November  9, 2026",
+   "years": null,
+   "link": "https://www.amazon.jobs/en/jobs/10599482/overnight-staff-pharmacist-amazon-pharmacy",
+   "query": "data",
+   "first_seen": "2026-11-09T06:19:22+00:00",
+   "seeded": false
+  },
   {
    "id": "10599449",
    "title": "Program Manager, Travel Tech, Travel Technology",
