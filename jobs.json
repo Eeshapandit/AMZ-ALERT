@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-09T06:19:22+00:00",
+ "updated": "2026-11-09T16:42:18+00:00",
  "jobs": [
+  {
+   "id": "10599774",
+   "title": "Data Center Security Manager , AMER East",
+   "location": "Ashburn, Virginia, USA",
+   "team": "aws",
+   "posted_date": "November  9, 2026",
+   "years": 2,
+   "link": "https://www.amazon.jobs/en/jobs/10599774/data-center-security-manager-amer-east",
+   "query": "data",
+   "first_seen": "2026-11-09T16:42:18+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10599742",
+   "title": "Product Marketing Manager, Prime Video US Streaming",
+   "location": "Culver City, California, USA",
+   "team": "entertainment",
+   "posted_date": "November  9, 2026",
+   "years": 2,
+   "link": "https://www.amazon.jobs/en/jobs/10599742/product-marketing-manager-prime-video-us-streaming",
+   "query": "data",
+   "first_seen": "2026-11-09T16:42:18+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10594741",
+   "title": "Instock Manager III - AMZ21079.9",
+   "location": "Seattle, Washington, USA",
+   "team": "no-business-category",
+   "posted_date": "November  2, 2026",
+   "years": null,
+   "link": "https://www.amazon.jobs/en/jobs/10594741/instock-manager-iii-amz21079-9",
+   "query": "analytics",
+   "first_seen": "2026-11-09T16:42:18+00:00",
+   "seeded": false
+  },
   {
    "id": "10599483",
    "title": "Staff Pharmacist , Amazon Pharmacy",
