@@ -1,5 +1,7 @@
 {
  "errors": {
+  "greenhouse:andurilindustries": "TimeoutError: The read operation timed out",
+  "lever:gopuff": "HTTPError: HTTP Error 500: Internal Server Error",
   "lever:mistral": "HTTPError: HTTP Error 404: Not Found"
  },
  "ok": {
@@ -217,11 +219,7 @@
   },
   "greenhouse:aloyoga": {
    "matching": 6,
-   "open": 784
-  },
-  "greenhouse:andurilindustries": {
-   "matching": 13,
-   "open": 2602
+   "open": 786
   },
   "greenhouse:anthropic": {
    "matching": 8,
@@ -285,7 +283,7 @@
   },
   "greenhouse:datadog": {
    "matching": 1,
-   "open": 404
+   "open": 402
   },
   "greenhouse:discord": {
    "matching": 2,
@@ -469,7 +467,7 @@
   },
   "greenhouse:peloton": {
    "matching": 0,
-   "open": 45
+   "open": 44
   },
   "greenhouse:pinterest": {
    "matching": 2,
@@ -607,10 +605,6 @@
    "matching": 0,
    "open": 4
   },
-  "lever:gopuff": {
-   "matching": 3,
-   "open": 782
-  },
   "lever:jumpcloud": {
    "matching": 0,
    "open": 40
@@ -661,9 +655,9 @@
   }
  },
  "summary": {
-  "candidates": 310,
+  "candidates": 294,
   "kept": 166,
-  "sources_failed": 1,
-  "sources_ok": 164
+  "sources_failed": 3,
+  "sources_ok": 162
  }
 }
