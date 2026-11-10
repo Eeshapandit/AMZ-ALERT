@@ -1,6 +1,20 @@
 {
 "jobs": [
 {
+"id": "amz:10601153",
+"company": "Amazon",
+"title": "DE, Amazon Talent Solutions, ITDS Data Foundations",
+"role": "Data / AI",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10601153/de-amazon-talent-solutions-itds-data-foundations",
+"posted": "November 10, 2026",
+"first_seen": "2026-11-10T21:28:15+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
 "id": "ab:pika:3800dd06-4d34-4557-a038-b8cda5980b6c",
 "company": "pika",
 "title": "Forward Deployed Engineer, Applied AI",
@@ -178,20 +192,6 @@
 "years": 2,
 "link": "https://jobs.ashbyhq.com/openai/8e7ba2dd-d632-4a8b-b95b-e2592f77a679",
 "posted": "2026-11-05T14:12:06.619+00:00",
-"first_seen": "2026-11-05T18:12:39+00:00",
-"seeded": false,
-"sector": ""
-},
-{
-"id": "gh:andurilindustries:5286149007",
-"company": "Anduril Industries",
-"title": "Forward Deployed Software Engineer, JBLM (Active Clearance)",
-"role": "FDE",
-"location": "Remote",
-"mode": "Remote",
-"years": null,
-"link": "https://boards.greenhouse.io/andurilindustries/jobs/5286149007?gh_jid=5286149007",
-"posted": "2026-11-05T11:58:33-05:00",
 "first_seen": "2026-11-05T18:12:39+00:00",
 "seeded": false,
 "sector": ""
@@ -617,20 +617,6 @@
 "sector": "retail"
 },
 {
-"id": "gh:harrys:8220786",
-"company": "Harry's",
-"title": "Senior Associate, Sales Analytics & Enablement - Grocery",
-"role": "Data / AI",
-"location": "New York, NY",
-"mode": "Onsite/Hybrid",
-"years": 1,
-"link": "https://job-boards.greenhouse.io/harrys/jobs/8220786",
-"posted": "2026-09-21T12:34:51-04:00",
-"first_seen": "2026-10-28T14:39:35+00:00",
-"seeded": true,
-"sector": "retail"
-},
-{
 "id": "gh:harrys:8167116",
 "company": "Harry's",
 "title": "Senior Manager, Retail Analytics - Walmart",
@@ -850,20 +836,6 @@
 "years": null,
 "link": "https://job-boards.greenhouse.io/reddit/jobs/8301784",
 "posted": "2026-10-19T16:14:16-04:00",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": ""
-},
-{
-"id": "ab:rogo:9cc38600-5b03-4037-87ea-45085f99cd09",
-"company": "rogo",
-"title": "Forward Deployed, Asset Management (EMEA)",
-"role": "FDE",
-"location": "New York City (USA)",
-"mode": "Onsite",
-"years": 3,
-"link": "https://jobs.ashbyhq.com/Rogo/9cc38600-5b03-4037-87ea-45085f99cd09",
-"posted": "2026-10-19T16:11:13.350+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
 "seeded": true,
 "sector": ""
@@ -1363,7 +1335,7 @@
 "company": "rogo",
 "title": "Forward Deployed, Consultant",
 "role": "FDE",
-"location": "New York City (USA)",
+"location": "New York City or San Francisco (United States)",
 "mode": "Onsite",
 "years": 3,
 "link": "https://jobs.ashbyhq.com/Rogo/0612fd71-b93a-444c-a3da-0857d06edd3f",
@@ -1377,7 +1349,7 @@
 "company": "rogo",
 "title": "Forward Deployed, Corporate Development",
 "role": "FDE",
-"location": "New York City (USA)",
+"location": "New York City or San Francisco (United States)",
 "mode": "Onsite",
 "years": 3,
 "link": "https://jobs.ashbyhq.com/Rogo/7a995f99-b4e1-46e1-a805-d76c65ff63a0",
@@ -1405,7 +1377,7 @@
 "company": "rogo",
 "title": "Forward Deployed, Asset Management",
 "role": "FDE",
-"location": "New York City (USA)",
+"location": "New York City or San Francisco (United States)",
 "mode": "Onsite",
 "years": 3,
 "link": "https://jobs.ashbyhq.com/Rogo/bc0086cd-42a3-470b-8ced-b7ad8f44c7b0",
@@ -1480,20 +1452,6 @@
 "years": 3,
 "link": "https://boards.greenhouse.io/point72/jobs/8701705002?gh_jid=8701705002",
 "posted": "2026-08-12T15:32:55-04:00",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": ""
-},
-{
-"id": "ab:supabase:59083a14-b2b6-4dd8-8037-739aa1ad1e22",
-"company": "supabase",
-"title": "Senior Data Analyst - Marketing",
-"role": "Data Analyst",
-"location": "Remote, Global",
-"mode": "Remote",
-"years": null,
-"link": "https://jobs.ashbyhq.com/supabase/59083a14-b2b6-4dd8-8037-739aa1ad1e22",
-"posted": "2026-08-04T19:08:19.856+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
 "seeded": true,
 "sector": ""
@@ -1629,8 +1587,8 @@
 "company": "rogo",
 "title": "Forward Deployed Banker",
 "role": "FDE",
-"location": "New York City or San Francisco",
-"mode": "Onsite/Hybrid",
+"location": "New York City or San Francisco (United States)",
+"mode": "Onsite",
 "years": 2,
 "link": "https://jobs.ashbyhq.com/Rogo/9ab1b819-4fcf-4b14-98af-06dcfc82c31e",
 "posted": "2026-07-07T22:14:11.357+00:00",
@@ -1643,7 +1601,7 @@
 "company": "rogo",
 "title": "Forward Deployed Investor",
 "role": "FDE",
-"location": "New York City (USA)",
+"location": "New York City or San Francisco (United States)",
 "mode": "Onsite",
 "years": 3,
 "link": "https://jobs.ashbyhq.com/Rogo/fd7d1775-9fa3-470d-8cc1-b2c91e19a31b",
@@ -1699,7 +1657,7 @@
 "company": "rogo",
 "title": "Forward Deployed, Equity Research",
 "role": "FDE",
-"location": "New York City (USA)",
+"location": "New York City or San Francisco (United States)",
 "mode": "Onsite",
 "years": 2,
 "link": "https://jobs.ashbyhq.com/Rogo/1c5d976d-5988-4551-a288-c0eeb88a0f1f",
@@ -1713,7 +1671,7 @@
 "company": "rogo",
 "title": "Forward Deployed, Corporate Banking",
 "role": "FDE",
-"location": "New York City (USA)",
+"location": "New York City or San Francisco (United States)",
 "mode": "Onsite",
 "years": 3,
 "link": "https://jobs.ashbyhq.com/Rogo/d2142883-08fd-4ffe-a678-44381c0d1b87",
@@ -2325,5 +2283,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-10T07:35:41+00:00"
+"updated": "2026-11-10T21:28:15+00:00"
 }
