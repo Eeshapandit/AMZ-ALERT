@@ -1,6 +1,20 @@
 {
 "jobs": [
 {
+"id": "ab:pika:3800dd06-4d34-4557-a038-b8cda5980b6c",
+"company": "pika",
+"title": "Forward Deployed Engineer, Applied AI",
+"role": "FDE",
+"location": "Palo Alto HQ (United States)",
+"mode": "Onsite",
+"years": null,
+"link": "https://jobs.ashbyhq.com/pika/3800dd06-4d34-4557-a038-b8cda5980b6c",
+"posted": "2026-11-10T02:23:17.731+00:00",
+"first_seen": "2026-11-10T07:35:41+00:00",
+"seeded": false,
+"sector": ""
+},
+{
 "id": "ab:ramp:09360e92-fc95-4ba6-9611-dfefd60b13ce",
 "company": "ramp",
 "title": "Software Engineer, Forward Deployed, Enterprise Product",
@@ -1303,20 +1317,6 @@
 "sector": ""
 },
 {
-"id": "lv:zoox:ae2785ae-dfee-484b-8add-3cf32ca2d10e",
-"company": "zoox",
-"title": "Contract Student Worker - Data Analyst (20 hrs/wk)",
-"role": "Data Analyst",
-"location": "Seattle, WA",
-"mode": "Hybrid",
-"years": null,
-"link": "https://jobs.lever.co/zoox/ae2785ae-dfee-484b-8add-3cf32ca2d10e",
-"posted": "2026-09-09T22:44:08+00:00",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": ""
-},
-{
 "id": "gh:anthropic:5418610008",
 "company": "Anthropic",
 "title": "Data Engineer, GTM",
@@ -2325,5 +2325,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-10T00:21:53+00:00"
+"updated": "2026-11-10T07:35:41+00:00"
 }
