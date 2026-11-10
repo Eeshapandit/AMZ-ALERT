@@ -1,6 +1,20 @@
 {
 "jobs": [
 {
+"id": "ab:ramp:09360e92-fc95-4ba6-9611-dfefd60b13ce",
+"company": "ramp",
+"title": "Software Engineer, Forward Deployed, Enterprise Product",
+"role": "FDE",
+"location": "New York, NY (HQ); San Francisco, CA (USA)",
+"mode": "Hybrid",
+"years": 3,
+"link": "https://jobs.ashbyhq.com/ramp/09360e92-fc95-4ba6-9611-dfefd60b13ce",
+"posted": "2026-10-22T19:20:13.000+00:00",
+"first_seen": "2026-11-10T00:21:53+00:00",
+"seeded": false,
+"sector": ""
+},
+{
 "id": "gh:okta:8304288",
 "company": "Okta",
 "title": "Senior Data Analyst (Auth0)",
@@ -785,20 +799,6 @@
 "sector": ""
 },
 {
-"id": "ab:ramp:29a5da77-37f0-402a-92bc-072778e77ed8",
-"company": "ramp",
-"title": "Software Engineer, Forward Deployed",
-"role": "FDE",
-"location": "New York, NY (HQ); San Francisco, CA (USA)",
-"mode": "Hybrid",
-"years": 3,
-"link": "https://jobs.ashbyhq.com/ramp/29a5da77-37f0-402a-92bc-072778e77ed8",
-"posted": "2026-10-22T19:20:16.077+00:00",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": ""
-},
-{
 "id": "ab:baseten:976f89ef-1065-45a7-8b51-31fecd1ef1e6",
 "company": "baseten",
 "title": "Technical Program Manager, Forward Deployed Engineering",
@@ -1501,7 +1501,7 @@
 {
 "id": "ab:ramp:b614563f-3ce6-4dca-b5ba-0e5a6c8bda27",
 "company": "ramp",
-"title": "Software Engineer, Forward Deployed AI Solutions",
+"title": "Software Engineer, Forward Deployed, AI Solutions",
 "role": "FDE",
 "location": "New York, NY (HQ) (USA)",
 "mode": "Hybrid",
@@ -2325,5 +2325,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-06T23:25:05+00:00"
+"updated": "2026-11-10T00:21:53+00:00"
 }
