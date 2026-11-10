@@ -1,6 +1,90 @@
 {
- "updated": "2026-11-10T00:27:50+00:00",
+ "updated": "2026-11-10T07:41:15+00:00",
  "jobs": [
+  {
+   "id": "10600289",
+   "title": "Mission Operations Systems Development Engineer, Optical Inter-Satellite Link ",
+   "location": "Redmond, Washington, USA",
+   "team": "alexa-and-amazon-devices",
+   "posted_date": "November 10, 2026",
+   "years": null,
+   "link": "https://www.amazon.jobs/en/jobs/10600289/mission-operations-systems-development-engineer-optical-inter-satellite-link",
+   "query": "data",
+   "first_seen": "2026-11-10T07:41:15+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10600832",
+   "title": "Senior Financial Analyst, AWS Search, Security, and Observability",
+   "location": "Seattle, Washington, USA",
+   "team": "finance",
+   "posted_date": "November 10, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10600832/senior-financial-analyst-aws-search-security-and-observability",
+   "query": "data",
+   "first_seen": "2026-11-10T07:41:15+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10600773",
+   "title": "HR Business Partner, SSD-FC",
+   "location": "Greenville, South Carolina, USA",
+   "team": "pxt",
+   "posted_date": "November 10, 2026",
+   "years": 2,
+   "link": "https://www.amazon.jobs/en/jobs/10600773/hr-business-partner-ssd-fc",
+   "query": "analytics",
+   "first_seen": "2026-11-10T07:41:15+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10600771",
+   "title": "HR Business Partner, SSD-FC",
+   "location": "Concord, North Carolina, USA",
+   "team": "pxt",
+   "posted_date": "November 10, 2026",
+   "years": 2,
+   "link": "https://www.amazon.jobs/en/jobs/10600771/hr-business-partner-ssd-fc",
+   "query": "analytics",
+   "first_seen": "2026-11-10T07:41:15+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10600754",
+   "title": "HR Partner, AMZL",
+   "location": "Doraville, Georgia, USA",
+   "team": "pxt",
+   "posted_date": "November 10, 2026",
+   "years": 2,
+   "link": "https://www.amazon.jobs/en/jobs/10600754/hr-partner-amzl",
+   "query": "analytics",
+   "first_seen": "2026-11-10T07:41:15+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10600775",
+   "title": "HR Business Partner , Air KAFW ",
+   "location": "Fort Worth, Texas, USA",
+   "team": "pxt",
+   "posted_date": "November 10, 2026",
+   "years": 2,
+   "link": "https://www.amazon.jobs/en/jobs/10600775/hr-business-partner-air-kafw",
+   "query": "analytics",
+   "first_seen": "2026-11-10T07:41:15+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10600769",
+   "title": "HR Business Partner",
+   "location": "Whitestown, Indiana, USA",
+   "team": "pxt",
+   "posted_date": "November 10, 2026",
+   "years": 2,
+   "link": "https://www.amazon.jobs/en/jobs/10600769/hr-business-partner",
+   "query": "analytics",
+   "first_seen": "2026-11-10T07:41:15+00:00",
+   "seeded": false
+  },
   {
    "id": "10600616",
    "title": "Data Scientist I, NEST",
