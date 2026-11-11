@@ -1,6 +1,20 @@
 {
 "jobs": [
 {
+"id": "gh:andurilindustries:5291892007",
+"company": "Anduril Industries",
+"title": "Production Master Data Engineer",
+"role": "Data Engineer",
+"location": "Costa Mesa, California, United States",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://boards.greenhouse.io/andurilindustries/jobs/5291892007?gh_jid=5291892007",
+"posted": "2026-11-11T01:59:26-05:00",
+"first_seen": "2026-11-11T08:14:31+00:00",
+"seeded": false,
+"sector": ""
+},
+{
 "id": "amz:10601986",
 "company": "Amazon",
 "title": "Software Development Engineer, Billing Data Services, Billing Data Services",
@@ -2297,5 +2311,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-11T01:26:28+00:00"
+"updated": "2026-11-11T08:14:31+00:00"
 }
