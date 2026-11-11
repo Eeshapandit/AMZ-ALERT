@@ -181,7 +181,7 @@
   },
   "ashby:vanta": {
    "matching": 1,
-   "open": 82
+   "open": 81
   },
   "ashby:watershed": {
    "matching": 0,
@@ -425,7 +425,7 @@
   },
   "greenhouse:mongodb": {
    "matching": 1,
-   "open": 374
+   "open": 375
   },
   "greenhouse:monzo": {
    "matching": 0,
