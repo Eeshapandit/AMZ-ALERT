@@ -1,6 +1,20 @@
 {
 "jobs": [
 {
+"id": "amz:10601986",
+"company": "Amazon",
+"title": "Software Development Engineer, Billing Data Services, Billing Data Services",
+"role": "Data / AI",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10601986/software-development-engineer-billing-data-services-billing-data-services",
+"posted": "November 11, 2026",
+"first_seen": "2026-11-11T01:26:28+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
 "id": "amz:10601153",
 "company": "Amazon",
 "title": "DE, Amazon Talent Solutions, ITDS Data Foundations",
@@ -2283,5 +2297,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-10T21:28:15+00:00"
+"updated": "2026-11-11T01:26:28+00:00"
 }
