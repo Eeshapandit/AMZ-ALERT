@@ -457,7 +457,7 @@
   },
   "greenhouse:oscar": {
    "matching": 0,
-   "open": 187
+   "open": 186
   },
   "greenhouse:pagerduty": {
    "matching": 2,
@@ -473,7 +473,7 @@
   },
   "greenhouse:pinterest": {
    "matching": 2,
-   "open": 162
+   "open": 161
   },
   "greenhouse:point72": {
    "matching": 4,
@@ -509,7 +509,7 @@
   },
   "greenhouse:samsara": {
    "matching": 2,
-   "open": 313
+   "open": 315
   },
   "greenhouse:scaleai": {
    "matching": 5,
@@ -541,7 +541,7 @@
   },
   "greenhouse:sweetgreen": {
    "matching": 0,
-   "open": 71
+   "open": 70
   },
   "greenhouse:thrivemarket": {
    "matching": 1,
@@ -645,7 +645,7 @@
   },
   "lever:shieldai": {
    "matching": 3,
-   "open": 667
+   "open": 664
   },
   "lever:veeva": {
    "matching": 1,
