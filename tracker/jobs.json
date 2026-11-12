@@ -1,6 +1,20 @@
 {
 "jobs": [
 {
+"id": "gh:chime:8765690002",
+"company": "Chime Financial, Inc",
+"title": "Director, Data Engineering",
+"role": "Data Engineer",
+"location": "San Francisco, CA, USA",
+"mode": "Onsite/Hybrid",
+"years": null,
+"link": "https://boards.greenhouse.io/chime/jobs/8765690002?gh_jid=8765690002",
+"posted": "2026-11-12T13:48:54-05:00",
+"first_seen": "2026-11-12T19:12:30+00:00",
+"seeded": false,
+"sector": ""
+},
+{
 "id": "amz:10600808",
 "company": "Amazon",
 "title": "System Development Engineer, AWS Data Center Procurement Governance (DCPG)",
@@ -1625,20 +1639,6 @@
 "sector": ""
 },
 {
-"id": "lv:palantir:8f362a1f-1eff-4327-94c1-ff46e2101c69",
-"company": "palantir",
-"title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
-"role": "FDE",
-"location": "Palo Alto, CA",
-"mode": "Onsite",
-"years": null,
-"link": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69",
-"posted": "2026-07-10T22:43:13+00:00",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": ""
-},
-{
 "id": "ab:rogo:9ab1b819-4fcf-4b14-98af-06dcfc82c31e",
 "company": "rogo",
 "title": "Forward Deployed Banker",
@@ -2339,5 +2339,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-12T03:30:20+00:00"
+"updated": "2026-11-12T19:12:30+00:00"
 }
