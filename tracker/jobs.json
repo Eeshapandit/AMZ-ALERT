@@ -1,6 +1,20 @@
 {
 "jobs": [
 {
+"id": "amz:10600808",
+"company": "Amazon",
+"title": "System Development Engineer, AWS Data Center Procurement Governance (DCPG)",
+"role": "Data / AI",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10600808/system-development-engineer-aws-data-center-procurement-governance-dcpg",
+"posted": "November 11, 2026",
+"first_seen": "2026-11-12T03:30:20+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
 "id": "gh:zscaler:5282847007",
 "company": "Zscaler",
 "title": "Principal GenAI Data Engineer ",
@@ -2325,5 +2339,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-11T22:51:06+00:00"
+"updated": "2026-11-12T03:30:20+00:00"
 }
