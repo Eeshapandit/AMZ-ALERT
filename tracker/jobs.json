@@ -1,6 +1,20 @@
 {
 "jobs": [
 {
+"id": "lv:outreach:752b3b1a-dcee-4c74-844d-c17705f46f37",
+"company": "outreach",
+"title": "Forward Deployed Engineer, Onboarding Services",
+"role": "FDE",
+"location": "United States",
+"mode": "Remote",
+"years": null,
+"link": "https://jobs.lever.co/outreach/752b3b1a-dcee-4c74-844d-c17705f46f37",
+"posted": "2026-11-12T21:23:36+00:00",
+"first_seen": "2026-11-13T00:32:03+00:00",
+"seeded": false,
+"sector": ""
+},
+{
 "id": "gh:chime:8765690002",
 "company": "Chime Financial, Inc",
 "title": "Director, Data Engineering",
@@ -1877,20 +1891,6 @@
 "sector": ""
 },
 {
-"id": "gh:brex:8463702002",
-"company": "Brex",
-"title": "Data Analyst II",
-"role": "Data Analyst",
-"location": "New York, New York, United States",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.brex.com/careers/8463702002?gh_jid=8463702002",
-"posted": "2026-03-14T16:27:34-04:00",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": ""
-},
-{
 "id": "gh:scaleai:4673051005",
 "company": "Scale AI",
 "title": "Forward Deployed Product Manager, Enterprise",
@@ -2339,5 +2339,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-12T19:12:30+00:00"
+"updated": "2026-11-13T00:32:03+00:00"
 }
