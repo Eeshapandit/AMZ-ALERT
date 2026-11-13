@@ -757,20 +757,6 @@
 "sector": "retail"
 },
 {
-"id": "amz:10585595",
-"company": "Amazon",
-"title": "Data Engineer II, GMAC FP&A",
-"role": "Data Engineer",
-"location": "Seattle, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10585595/data-engineer-ii-gmac-fp-a",
-"posted": "October 21, 2026",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": "retail"
-},
-{
 "id": "amz:10583533",
 "company": "Amazon",
 "title": "Forward Deployed Engineer, Forward Deployment Engineering",
@@ -2297,5 +2283,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-13T21:33:50+00:00"
+"updated": "2026-11-13T21:38:16+00:00"
 }

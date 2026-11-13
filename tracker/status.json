@@ -4,7 +4,7 @@
  },
  "ok": {
   "amazon:amazon": {
-   "matching": 64,
+   "matching": 63,
    "open": 182
   },
   "ashby:abridge": {
@@ -661,8 +661,8 @@
   }
  },
  "summary": {
-  "candidates": 308,
-  "kept": 164,
+  "candidates": 307,
+  "kept": 163,
   "sources_failed": 1,
   "sources_ok": 164
  }
