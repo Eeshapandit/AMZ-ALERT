@@ -1,6 +1,78 @@
 {
- "updated": "2026-11-13T00:46:49+00:00",
+ "updated": "2026-11-13T07:25:00+00:00",
  "jobs": [
+  {
+   "id": "10603988",
+   "title": "Drone Test and Simulation Hardware Development Engineer, Prime Air",
+   "location": "Seattle, Washington, USA",
+   "team": "retail",
+   "posted_date": "November 13, 2026",
+   "years": 2,
+   "link": "https://www.amazon.jobs/en/jobs/10603988/drone-test-and-simulation-hardware-development-engineer-prime-air",
+   "query": "data",
+   "first_seen": "2026-11-13T07:25:00+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10603951",
+   "title": "Sr. Manager Product Manager - Technical, AWS Billing Product",
+   "location": "Seattle, Washington, USA",
+   "team": "aws",
+   "posted_date": "November 13, 2026",
+   "years": null,
+   "link": "https://www.amazon.jobs/en/jobs/10603951/sr-manager-product-manager-technical-aws-billing-product",
+   "query": "data",
+   "first_seen": "2026-11-13T07:25:00+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10603690",
+   "title": "Applied Scientist, Superconducting Digital and Cryogenic Control Electronics,Center for Quantum Computing, Physical Design and Simulation, Enabling Technologies",
+   "location": "San Francisco, California, USA",
+   "team": "aws",
+   "posted_date": "November 13, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10603690/applied-scientist-superconducting-digital-and-cryogenic-control-electronics-center-for-quantum-computing-physical-design-and-simulation-enabling-technologies",
+   "query": "data",
+   "first_seen": "2026-11-13T07:25:00+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10600026",
+   "title": "Sr. Product Manager - Tech, Amazon Leo E-Commerce Foundations",
+   "location": "Redmond, Washington, USA",
+   "team": "alexa-and-amazon-devices",
+   "posted_date": "November 13, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10600026/sr-product-manager-tech-amazon-leo-e-commerce-foundations",
+   "query": "analytics",
+   "first_seen": "2026-11-13T07:25:00+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10602077",
+   "title": "Sr. Product Manager - Tech, Amazon Leo E-Commerce Foundations",
+   "location": "Redmond, Washington, USA",
+   "team": "alexa-and-amazon-devices",
+   "posted_date": "November 13, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10602077/sr-product-manager-tech-amazon-leo-e-commerce-foundations",
+   "query": "analytics",
+   "first_seen": "2026-11-13T07:25:00+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10602076",
+   "title": "Sr. Product Manager - Tech, Amazon Leo E-Commerce Foundations",
+   "location": "Redmond, Washington, USA",
+   "team": "alexa-and-amazon-devices",
+   "posted_date": "November 13, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10602076/sr-product-manager-tech-amazon-leo-e-commerce-foundations",
+   "query": "analytics",
+   "first_seen": "2026-11-13T07:25:00+00:00",
+   "seeded": false
+  },
   {
    "id": "10603920",
    "title": "Software Dev Engineer, Antenna Calibration, Amazon Leo",
