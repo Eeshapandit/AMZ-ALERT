@@ -1,6 +1,102 @@
 {
- "updated": "2026-11-13T07:25:00+00:00",
+ "updated": "2026-11-13T15:38:16+00:00",
  "jobs": [
+  {
+   "id": "10604121",
+   "title": "Associate Account Executive ",
+   "location": "Austin, Texas, USA",
+   "team": "aws",
+   "posted_date": "November 13, 2026",
+   "years": 2,
+   "link": "https://www.amazon.jobs/en/jobs/10604121/associate-account-executive",
+   "query": "data",
+   "first_seen": "2026-11-13T15:38:16+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10604115",
+   "title": "EHS Specialist",
+   "location": "Hazle Twp, Pennsylvania, USA",
+   "team": "fulfillment-and-operations",
+   "posted_date": "November 13, 2026",
+   "years": 1,
+   "link": "https://www.amazon.jobs/en/jobs/10604115/ehs-specialist",
+   "query": "data",
+   "first_seen": "2026-11-13T15:38:16+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10604106",
+   "title": "Installation Technician",
+   "location": "Avondale, Arizona, USA",
+   "team": "fulfillment-and-operations",
+   "posted_date": "November 13, 2026",
+   "years": 1,
+   "link": "https://www.amazon.jobs/en/jobs/10604106/installation-technician",
+   "query": "data",
+   "first_seen": "2026-11-13T15:38:16+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10604105",
+   "title": "Engineering Operation Technician, Data Center Engineering Operations",
+   "location": "Fairless Hills, Pennsylvania, USA",
+   "team": "aws",
+   "posted_date": "November 13, 2026",
+   "years": 1,
+   "link": "https://www.amazon.jobs/en/jobs/10604105/engineering-operation-technician-data-center-engineering-operations",
+   "query": "data",
+   "first_seen": "2026-11-13T15:38:16+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10604120",
+   "title": "PR Specialist III \u2013 AMZ003943",
+   "location": "Seattle, Washington, USA",
+   "team": "no-business-category",
+   "posted_date": "November 13, 2026",
+   "years": null,
+   "link": "https://www.amazon.jobs/en/jobs/10604120/pr-specialist-iii-amz003943",
+   "query": "data",
+   "first_seen": "2026-11-13T15:38:16+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10604122",
+   "title": "Delivery Station Customer Service Associate, DSL",
+   "location": "Lanham, Maryland, USA",
+   "team": "amazon-customer-service",
+   "posted_date": "November 13, 2026",
+   "years": null,
+   "link": "https://www.amazon.jobs/en/jobs/10604122/delivery-station-customer-service-associate-dsl",
+   "query": "data",
+   "first_seen": "2026-11-13T15:38:16+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10601334",
+   "title": "Tech Business Developer II - AMZ24122.5",
+   "location": "Seattle, Washington, USA",
+   "team": "no-business-category",
+   "posted_date": "November 10, 2026",
+   "years": null,
+   "link": "https://www.amazon.jobs/en/jobs/10601334/tech-business-developer-ii-amz24122-5",
+   "query": "analytics",
+   "first_seen": "2026-11-13T15:38:16+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10596024",
+   "title": "Mgr III, HR Specialist - AMZ13188.17",
+   "location": "San Diego, California, USA",
+   "team": "no-business-category",
+   "posted_date": "November  3, 2026",
+   "years": 1,
+   "link": "https://www.amazon.jobs/en/jobs/10596024/mgr-iii-hr-specialist-amz13188-17",
+   "query": "business intelligence",
+   "first_seen": "2026-11-13T15:38:16+00:00",
+   "seeded": false
+  },
   {
    "id": "10603988",
    "title": "Drone Test and Simulation Hardware Development Engineer, Prime Air",
