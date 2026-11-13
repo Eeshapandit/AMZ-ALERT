@@ -1,6 +1,48 @@
 {
 "jobs": [
 {
+"id": "amz:10603912",
+"company": "Amazon",
+"title": "Software Development Engineer, Data Analytics Integration AI and Platform Excellence",
+"role": "Analyst",
+"location": "New York, New York, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10603912/software-development-engineer-data-analytics-integration-ai-and-platform-excellence",
+"posted": "November 13, 2026",
+"first_seen": "2026-11-13T21:33:50+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "amz:10603661",
+"company": "Amazon",
+"title": "Business Analyst III - AMZ10563738",
+"role": "Analyst",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 1,
+"link": "https://www.amazon.jobs/en/jobs/10603661/business-analyst-iii-amz10563738",
+"posted": "November 12, 2026",
+"first_seen": "2026-11-13T21:33:50+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "ab:tennr:5547643e-8d63-408d-a32d-d78491b27557",
+"company": "tennr",
+"title": "Forward Deployed Engineer (Post-Sales)",
+"role": "FDE",
+"location": "New York City Office (USA)",
+"mode": "Hybrid",
+"years": 3,
+"link": "https://jobs.ashbyhq.com/tennr/5547643e-8d63-408d-a32d-d78491b27557",
+"posted": "2026-11-13T20:47:02.718+00:00",
+"first_seen": "2026-11-13T21:33:50+00:00",
+"seeded": false,
+"sector": ""
+},
+{
 "id": "gh:andurilindustries:4985350007",
 "company": "Anduril Industries",
 "title": "Production Master Data Analyst",
@@ -153,34 +195,6 @@
 "first_seen": "2026-11-06T23:25:05+00:00",
 "seeded": false,
 "sector": ""
-},
-{
-"id": "amz:10598852",
-"company": "Amazon",
-"title": "Data Engineer, Selling Partner Trust",
-"role": "Data Engineer",
-"location": "Seattle, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10598852/data-engineer-selling-partner-trust",
-"posted": "November  6, 2026",
-"first_seen": "2026-11-06T18:25:40+00:00",
-"seeded": false,
-"sector": "retail"
-},
-{
-"id": "amz:10598851",
-"company": "Amazon",
-"title": "Data Engineer, SPTC",
-"role": "Data Engineer",
-"location": "Seattle, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10598851/data-engineer-sptc",
-"posted": "November  6, 2026",
-"first_seen": "2026-11-06T18:25:40+00:00",
-"seeded": false,
-"sector": "retail"
 },
 {
 "id": "amz:10376511",
@@ -505,20 +519,6 @@
 "sector": "retail"
 },
 {
-"id": "amz:10591361",
-"company": "Amazon",
-"title": "Data Engineer II, AWS Analytics Engineering",
-"role": "Data Engineer",
-"location": "Seattle, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10591361/data-engineer-ii-aws-analytics-engineering",
-"posted": "October 29, 2026",
-"first_seen": "2026-10-29T02:51:41+00:00",
-"seeded": false,
-"sector": "retail"
-},
-{
 "id": "amz:10552219",
 "company": "Amazon",
 "title": "Senior Financial Analyst, Data & Financial Modeling \u2013 Operations Finance, North America 3P External Fulfillment Finance",
@@ -570,20 +570,6 @@
 "years": null,
 "link": "https://www.amazon.jobs/en/jobs/10581926/associate-physical-security-engineer-data-center-design-engineering",
 "posted": "October 16, 2026",
-"first_seen": "2026-10-28T14:39:35+00:00",
-"seeded": false,
-"sector": "retail"
-},
-{
-"id": "amz:10577607",
-"company": "Amazon",
-"title": "Software Development Engineer , Ads Data Manager",
-"role": "Data / AI",
-"location": "New York, New York, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10577607/software-development-engineer-ads-data-manager",
-"posted": "October 13, 2026",
 "first_seen": "2026-10-28T14:39:35+00:00",
 "seeded": false,
 "sector": "retail"
@@ -799,20 +785,6 @@
 "sector": "retail"
 },
 {
-"id": "amz:10583490",
-"company": "Amazon",
-"title": "Data Engineer, Amazon Live Data Engineering, Sciences and Analytics (DESA)",
-"role": "Data Engineer",
-"location": "Seattle, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10583490/data-engineer-amazon-live-data-engineering-sciences-and-analytics-desa",
-"posted": "October 19, 2026",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": "retail"
-},
-{
 "id": "amz:10579730",
 "company": "Amazon",
 "title": "Data Engineer, Amazon Prime",
@@ -846,7 +818,7 @@
 "title": "Forward Deployed Engineering Team Manager",
 "role": "FDE",
 "location": "New York City Office (USA)",
-"mode": "Onsite/Hybrid",
+"mode": "Hybrid",
 "years": null,
 "link": "https://jobs.ashbyhq.com/tennr/8cfdd6c5-081e-4c10-9b43-effdc91cbda6",
 "posted": "2026-10-27T16:10:53.557+00:00",
@@ -962,20 +934,6 @@
 "years": null,
 "link": "https://www.pinterestcareers.com/jobs/?gh_jid=8162539",
 "posted": "2026-10-19T14:20:35-04:00",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": ""
-},
-{
-"id": "lv:shieldai:a3eae89e-5a2b-4e6a-8e9c-e315923b0c71",
-"company": "shieldai",
-"title": "Data Engineer, Finance (R6329)",
-"role": "Data Engineer",
-"location": "San Diego, California",
-"mode": "Onsite",
-"years": 2,
-"link": "https://jobs.lever.co/shieldai/a3eae89e-5a2b-4e6a-8e9c-e315923b0c71",
-"posted": "2026-10-18T01:49:03+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
 "seeded": true,
 "sector": ""
@@ -1396,20 +1354,6 @@
 "years": null,
 "link": "https://job-boards.greenhouse.io/anthropic/jobs/5418610008",
 "posted": "2026-09-08T22:30:44-04:00",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": ""
-},
-{
-"id": "gh:coinbase:8175459",
-"company": "Coinbase",
-"title": "Data Engineer Intern",
-"role": "Data Engineer",
-"location": "Hybrid - San Francisco, CA",
-"mode": "Onsite/Hybrid",
-"years": null,
-"link": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
-"posted": "2026-09-08T18:19:13-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
 "seeded": true,
 "sector": ""
@@ -2353,5 +2297,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-13T15:31:31+00:00"
+"updated": "2026-11-13T21:33:50+00:00"
 }
