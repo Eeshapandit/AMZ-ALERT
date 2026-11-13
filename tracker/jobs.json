@@ -1,6 +1,20 @@
 {
 "jobs": [
 {
+"id": "gh:andurilindustries:4985350007",
+"company": "Anduril Industries",
+"title": "Production Master Data Analyst",
+"role": "Data Analyst",
+"location": "Costa Mesa, California, United States",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://boards.greenhouse.io/andurilindustries/jobs/4985350007?gh_jid=4985350007",
+"posted": "2025-11-18T13:08:35-05:00",
+"first_seen": "2026-11-13T15:31:31+00:00",
+"seeded": false,
+"sector": ""
+},
+{
 "id": "lv:outreach:752b3b1a-dcee-4c74-844d-c17705f46f37",
 "company": "outreach",
 "title": "Forward Deployed Engineer, Onboarding Services",
@@ -2339,5 +2353,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-13T00:32:03+00:00"
+"updated": "2026-11-13T15:31:31+00:00"
 }
