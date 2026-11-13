@@ -1,6 +1,102 @@
 {
- "updated": "2026-11-12T19:48:25+00:00",
+ "updated": "2026-11-13T00:46:49+00:00",
  "jobs": [
+  {
+   "id": "10603920",
+   "title": "Software Dev Engineer, Antenna Calibration, Amazon Leo",
+   "location": "Redmond, Washington, USA",
+   "team": "alexa-and-amazon-devices",
+   "posted_date": "November 13, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10603920/software-dev-engineer-antenna-calibration-amazon-leo",
+   "query": "data",
+   "first_seen": "2026-11-13T00:46:49+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10603742",
+   "title": "Technical Infrastructure Program Mgr, Global Network Delivery",
+   "location": "Seattle, Washington, USA",
+   "team": "aws",
+   "posted_date": "November 12, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10603742/technical-infrastructure-program-mgr-global-network-delivery",
+   "query": "data",
+   "first_seen": "2026-11-13T00:46:49+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10603815",
+   "title": "Network Deployment Technician, Infrastructure Delivery, AWS Data Center Global Network Delivery, GND",
+   "location": "Boardman, Oregon, USA",
+   "team": "aws",
+   "posted_date": "November 12, 2026",
+   "years": 1,
+   "link": "https://www.amazon.jobs/en/jobs/10603815/network-deployment-technician-infrastructure-delivery-aws-data-center-global-network-delivery-gnd",
+   "query": "data",
+   "first_seen": "2026-11-13T00:46:49+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10603762",
+   "title": "Sr. Product Manager-Technical, Amazon Business",
+   "location": "Seattle, Washington, USA",
+   "team": "amazon-business",
+   "posted_date": "November 12, 2026",
+   "years": null,
+   "link": "https://www.amazon.jobs/en/jobs/10603762/sr-product-manager-technical-amazon-business",
+   "query": "data",
+   "first_seen": "2026-11-13T00:46:49+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10603260",
+   "title": "Amazon Dedicated Cloud Engineer, Region Reliability Engineering",
+   "location": "Denver, Colorado, USA",
+   "team": "aws",
+   "posted_date": "November 12, 2026",
+   "years": null,
+   "link": "https://www.amazon.jobs/en/jobs/10603260/amazon-dedicated-cloud-engineer-region-reliability-engineering",
+   "query": "data",
+   "first_seen": "2026-11-13T00:46:49+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10603879",
+   "title": "Software Development Engineer, Leo Commerce Financial Systems and Data (Bestia, Triton, Lucid)",
+   "location": "Redmond, Washington, USA",
+   "team": "alexa-and-amazon-devices",
+   "posted_date": "November 12, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10603879/software-development-engineer-leo-commerce-financial-systems-and-data-bestia-triton-lucid",
+   "query": "data",
+   "first_seen": "2026-11-13T00:46:49+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10603880",
+   "title": "Software Development Engineer, Leo Commerce Financial Systems and Data (Bestia, Triton, Lucid)",
+   "location": "Redmond, Washington, USA",
+   "team": "alexa-and-amazon-devices",
+   "posted_date": "November 12, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10603880/software-development-engineer-leo-commerce-financial-systems-and-data-bestia-triton-lucid",
+   "query": "data",
+   "first_seen": "2026-11-13T00:46:49+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10601883",
+   "title": "Front-End Engineer II, AWS Agentic WorkSpaces -  WorkSpaces Admin and Builder CX",
+   "location": "Seattle, Washington, USA",
+   "team": "aws",
+   "posted_date": "November 12, 2026",
+   "years": 2,
+   "link": "https://www.amazon.jobs/en/jobs/10601883/front-end-engineer-ii-aws-agentic-workspaces-workspaces-admin-and-builder-cx",
+   "query": "applied scientist",
+   "first_seen": "2026-11-13T00:46:49+00:00",
+   "seeded": false
+  },
   {
    "id": "10603651",
    "title": "Software Dev Engineer, Antenna Calibration, Amazon Leo",
