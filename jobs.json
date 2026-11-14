@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-14T08:51:04+00:00",
+ "updated": "2026-11-14T15:42:42+00:00",
  "jobs": [
+  {
+   "id": "10605393",
+   "title": "Business Intelligence Engineer II, SCOT-FO",
+   "location": "Austin, Texas, USA",
+   "team": "operations",
+   "posted_date": "November 14, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10605393/business-intelligence-engineer-ii-scot-fo",
+   "query": "analytics",
+   "first_seen": "2026-11-14T15:42:42+00:00",
+   "seeded": false
+  },
   {
    "id": "10604759",
    "title": "TAM, AWS Enterprise Support, Strategic Industries, AutoMfg",
