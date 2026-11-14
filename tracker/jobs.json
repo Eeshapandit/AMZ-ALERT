@@ -1,6 +1,48 @@
 {
 "jobs": [
 {
+"id": "gh:roblox:8366921",
+"company": "Roblox",
+"title": "Senior Software Engineer, Data Engineering",
+"role": "Data Engineer",
+"location": "San Mateo, CA, United States",
+"mode": "Onsite/Hybrid",
+"years": null,
+"link": "https://careers.roblox.com/jobs/8366921?gh_jid=8366921",
+"posted": "2026-11-13T19:23:54-05:00",
+"first_seen": "2026-11-14T01:44:08+00:00",
+"seeded": false,
+"sector": ""
+},
+{
+"id": "gh:databricks:8910846002",
+"company": "Databricks",
+"title": "Associate Forward Deployed Engineer",
+"role": "FDE",
+"location": "Mountain View, California",
+"mode": "Onsite/Hybrid",
+"years": 2,
+"link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002",
+"posted": "2026-10-23T11:19:31-04:00",
+"first_seen": "2026-11-14T01:44:08+00:00",
+"seeded": false,
+"sector": ""
+},
+{
+"id": "gh:databricks:8907988002",
+"company": "Databricks",
+"title": "Associate Forward Deployed Engineer",
+"role": "FDE",
+"location": "New York City, New York",
+"mode": "Onsite/Hybrid",
+"years": 2,
+"link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002",
+"posted": "2026-10-22T09:31:19-04:00",
+"first_seen": "2026-11-14T01:44:08+00:00",
+"seeded": false,
+"sector": ""
+},
+{
 "id": "amz:10603912",
 "company": "Amazon",
 "title": "Software Development Engineer, Data Analytics Integration AI and Platform Excellence",
@@ -766,20 +808,6 @@
 "years": 3,
 "link": "https://www.amazon.jobs/en/jobs/10583533/forward-deployed-engineer-forward-deployment-engineering",
 "posted": "October 20, 2026",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": "retail"
-},
-{
-"id": "amz:10579730",
-"company": "Amazon",
-"title": "Data Engineer, Amazon Prime",
-"role": "Data Engineer",
-"location": "Seattle, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10579730/data-engineer-amazon-prime",
-"posted": "October 15, 2026",
 "first_seen": "2026-10-28T14:15:32+00:00",
 "seeded": true,
 "sector": "retail"
@@ -2283,5 +2311,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-13T21:38:16+00:00"
+"updated": "2026-11-14T01:44:08+00:00"
 }
