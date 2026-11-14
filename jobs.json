@@ -1,6 +1,102 @@
 {
- "updated": "2026-11-13T21:39:30+00:00",
+ "updated": "2026-11-14T01:50:43+00:00",
  "jobs": [
+  {
+   "id": "10605115",
+   "title": "Drone Avionics Electrical Engineer, Prime Air ",
+   "location": "Seattle, Washington, USA",
+   "team": "retail",
+   "posted_date": "November 14, 2026",
+   "years": null,
+   "link": "https://www.amazon.jobs/en/jobs/10605115/drone-avionics-electrical-engineer-prime-air",
+   "query": "data",
+   "first_seen": "2026-11-14T01:50:43+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10605103",
+   "title": "Data Scientist, CloudTune",
+   "location": "Seattle, Washington, USA",
+   "team": "ecp",
+   "posted_date": "November 13, 2026",
+   "years": 2,
+   "link": "https://www.amazon.jobs/en/jobs/10605103/data-scientist-cloudtune",
+   "query": "data",
+   "first_seen": "2026-11-14T01:50:43+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10605040",
+   "title": "Software Engineer, Amazon Foundational Security Services - Identity",
+   "location": "Seattle, Washington, USA",
+   "team": "amazon-security",
+   "posted_date": "November 13, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10605040/software-engineer-amazon-foundational-security-services-identity",
+   "query": "data",
+   "first_seen": "2026-11-14T01:50:43+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10604970",
+   "title": "Software Development Engineer - ML, Prime Video Personalization, Harmonia Optimizer",
+   "location": "Seattle, Washington, USA",
+   "team": "entertainment",
+   "posted_date": "November 13, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10604970/software-development-engineer-ml-prime-video-personalization-harmonia-optimizer",
+   "query": "data",
+   "first_seen": "2026-11-14T01:50:43+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10605139",
+   "title": "Business Analyst, Listing Analytics",
+   "location": "Seattle, Washington, USA",
+   "team": "selling-partner-services",
+   "posted_date": "November 14, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10605139/business-analyst-listing-analytics",
+   "query": "business intelligence",
+   "first_seen": "2026-11-14T01:50:43+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10605142",
+   "title": "Software Development Engineer, AWS",
+   "location": "Seattle, Washington, USA",
+   "team": "aws",
+   "posted_date": "November 14, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10605142/software-development-engineer-aws",
+   "query": "machine learning",
+   "first_seen": "2026-11-14T01:50:43+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10605024",
+   "title": "Software Development Engineer, PV Ads GEM",
+   "location": "Seattle, Washington, USA",
+   "team": "entertainment",
+   "posted_date": "November 13, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10605024/software-development-engineer-pv-ads-gem",
+   "query": "machine learning",
+   "first_seen": "2026-11-14T01:50:43+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10605034",
+   "title": "Software Dev Engineer II,  Prime Video Ads",
+   "location": "New York, New York, USA",
+   "team": "entertainment",
+   "posted_date": "November 13, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10605034/software-dev-engineer-ii-prime-video-ads",
+   "query": "machine learning",
+   "first_seen": "2026-11-14T01:50:43+00:00",
+   "seeded": false
+  },
   {
    "id": "10604965",
    "title": "Data Center Logistics Tech",
