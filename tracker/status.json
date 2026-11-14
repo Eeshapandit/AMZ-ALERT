@@ -65,7 +65,7 @@
   },
   "ashby:harvey": {
    "matching": 6,
-   "open": 387
+   "open": 388
   },
   "ashby:hex": {
    "matching": 0,
@@ -225,7 +225,7 @@
   },
   "greenhouse:anthropic": {
    "matching": 7,
-   "open": 669
+   "open": 670
   },
   "greenhouse:applovin": {
    "matching": 0,
@@ -509,7 +509,7 @@
   },
   "greenhouse:samsara": {
    "matching": 2,
-   "open": 317
+   "open": 318
   },
   "greenhouse:scaleai": {
    "matching": 5,
@@ -557,7 +557,7 @@
   },
   "greenhouse:twilio": {
    "matching": 0,
-   "open": 115
+   "open": 114
   },
   "greenhouse:twitch": {
    "matching": 0,
@@ -625,7 +625,7 @@
   },
   "lever:matchgroup": {
    "matching": 1,
-   "open": 67
+   "open": 69
   },
   "lever:nium": {
    "matching": 0,
