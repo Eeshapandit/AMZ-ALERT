@@ -491,20 +491,6 @@
 "sector": "retail"
 },
 {
-"id": "gh:anthropic:5464234008",
-"company": "Anthropic",
-"title": "Data Engineer, GTM Systems",
-"role": "Data Engineer",
-"location": "San Francisco, CA | New York City, NY; Seattle, WA",
-"mode": "Onsite/Hybrid",
-"years": null,
-"link": "https://job-boards.greenhouse.io/anthropic/jobs/5464234008",
-"posted": "2026-10-30T19:34:18-04:00",
-"first_seen": "2026-10-31T02:18:08+00:00",
-"seeded": false,
-"sector": ""
-},
-{
 "id": "amz:10593890",
 "company": "Amazon",
 "title": "Data Engineer II, Sales Data Services (SDS)",
@@ -2311,5 +2297,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-14T01:44:08+00:00"
+"updated": "2026-11-14T19:53:01+00:00"
 }

@@ -77,7 +77,7 @@
   },
   "ashby:langchain": {
    "matching": 0,
-   "open": 99
+   "open": 103
   },
   "ashby:lightdash": {
    "matching": 0,
@@ -113,7 +113,7 @@
   },
   "ashby:openai": {
    "matching": 25,
-   "open": 838
+   "open": 839
   },
   "ashby:perplexity": {
    "matching": 0,
@@ -121,7 +121,7 @@
   },
   "ashby:physicalintelligence": {
    "matching": 1,
-   "open": 45
+   "open": 47
   },
   "ashby:pika": {
    "matching": 2,
@@ -161,7 +161,7 @@
   },
   "ashby:rothys": {
    "matching": 0,
-   "open": 88
+   "open": 87
   },
   "ashby:sierra": {
    "matching": 0,
@@ -224,7 +224,7 @@
    "open": 2599
   },
   "greenhouse:anthropic": {
-   "matching": 8,
+   "matching": 7,
    "open": 669
   },
   "greenhouse:applovin": {
@@ -293,7 +293,7 @@
   },
   "greenhouse:dollarshaveclub": {
    "matching": 0,
-   "open": 9
+   "open": 8
   },
   "greenhouse:doordashusa": {
    "matching": 2,
@@ -425,7 +425,7 @@
   },
   "greenhouse:mongodb": {
    "matching": 1,
-   "open": 391
+   "open": 390
   },
   "greenhouse:monzo": {
    "matching": 0,
@@ -509,7 +509,7 @@
   },
   "greenhouse:samsara": {
    "matching": 2,
-   "open": 314
+   "open": 317
   },
   "greenhouse:scaleai": {
    "matching": 5,
@@ -569,7 +569,7 @@
   },
   "greenhouse:verkada": {
    "matching": 0,
-   "open": 347
+   "open": 346
   },
   "greenhouse:vuori": {
    "matching": 0,
@@ -633,7 +633,7 @@
   },
   "lever:outreach": {
    "matching": 1,
-   "open": 16
+   "open": 15
   },
   "lever:palantir": {
    "matching": 22,
@@ -661,8 +661,8 @@
   }
  },
  "summary": {
-  "candidates": 310,
-  "kept": 165,
+  "candidates": 309,
+  "kept": 164,
   "sources_failed": 1,
   "sources_ok": 164
  }
