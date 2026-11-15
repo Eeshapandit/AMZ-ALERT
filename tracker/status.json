@@ -61,7 +61,7 @@
   },
   "ashby:elevenlabs": {
    "matching": 1,
-   "open": 128
+   "open": 127
   },
   "ashby:harvey": {
    "matching": 6,
@@ -113,7 +113,7 @@
   },
   "ashby:openai": {
    "matching": 25,
-   "open": 840
+   "open": 837
   },
   "ashby:perplexity": {
    "matching": 0,
@@ -157,11 +157,11 @@
   },
   "ashby:rogo": {
    "matching": 10,
-   "open": 103
+   "open": 102
   },
   "ashby:rothys": {
    "matching": 0,
-   "open": 87
+   "open": 85
   },
   "ashby:sierra": {
    "matching": 0,
@@ -177,7 +177,7 @@
   },
   "ashby:tennr": {
    "matching": 5,
-   "open": 23
+   "open": 24
   },
   "ashby:vanta": {
    "matching": 1,
@@ -221,7 +221,7 @@
   },
   "greenhouse:andurilindustries": {
    "matching": 13,
-   "open": 2598
+   "open": 2597
   },
   "greenhouse:anthropic": {
    "matching": 7,
@@ -449,7 +449,7 @@
   },
   "greenhouse:okta": {
    "matching": 1,
-   "open": 362
+   "open": 361
   },
   "greenhouse:optiver": {
    "matching": 0,
@@ -509,7 +509,7 @@
   },
   "greenhouse:samsara": {
    "matching": 2,
-   "open": 319
+   "open": 318
   },
   "greenhouse:scaleai": {
    "matching": 5,
@@ -549,7 +549,7 @@
   },
   "greenhouse:toast": {
    "matching": 0,
-   "open": 355
+   "open": 354
   },
   "greenhouse:togetherai": {
    "matching": 2,
