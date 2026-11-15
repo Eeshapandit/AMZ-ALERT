@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-15T14:07:24+00:00",
+ "updated": "2026-11-15T23:35:22+00:00",
  "jobs": [
+  {
+   "id": "10604856",
+   "title": "Software Development Engineer, Agentic AI, Velocity Labs",
+   "location": "New York, New York, USA",
+   "team": "aws",
+   "posted_date": "November 15, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10604856/software-development-engineer-agentic-ai-velocity-labs",
+   "query": "AI engineer",
+   "first_seen": "2026-11-15T23:35:22+00:00",
+   "seeded": false
+  },
   {
    "id": "10605448",
    "title": "Software Development Engineer, Live and Linear Catalog",
