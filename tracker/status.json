@@ -113,7 +113,7 @@
   },
   "ashby:openai": {
    "matching": 25,
-   "open": 837
+   "open": 838
   },
   "ashby:perplexity": {
    "matching": 0,
@@ -149,7 +149,7 @@
   },
   "ashby:ramp": {
    "matching": 2,
-   "open": 180
+   "open": 179
   },
   "ashby:replit": {
    "matching": 1,
@@ -209,7 +209,7 @@
   },
   "greenhouse:airbnb": {
    "matching": 0,
-   "open": 214
+   "open": 213
   },
   "greenhouse:airtable": {
    "matching": 0,
@@ -221,11 +221,11 @@
   },
   "greenhouse:andurilindustries": {
    "matching": 13,
-   "open": 2597
+   "open": 2596
   },
   "greenhouse:anthropic": {
    "matching": 7,
-   "open": 668
+   "open": 666
   },
   "greenhouse:applovin": {
    "matching": 0,
@@ -425,7 +425,7 @@
   },
   "greenhouse:mongodb": {
    "matching": 1,
-   "open": 390
+   "open": 392
   },
   "greenhouse:monzo": {
    "matching": 0,
@@ -493,7 +493,7 @@
   },
   "greenhouse:reformation": {
    "matching": 0,
-   "open": 153
+   "open": 151
   },
   "greenhouse:robinhood": {
    "matching": 0,
@@ -509,7 +509,7 @@
   },
   "greenhouse:samsara": {
    "matching": 2,
-   "open": 318
+   "open": 317
   },
   "greenhouse:scaleai": {
    "matching": 5,
