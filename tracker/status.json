@@ -105,7 +105,7 @@
   },
   "ashby:notion": {
    "matching": 3,
-   "open": 166
+   "open": 165
   },
   "ashby:omni": {
    "matching": 0,
@@ -113,7 +113,7 @@
   },
   "ashby:openai": {
    "matching": 25,
-   "open": 839
+   "open": 840
   },
   "ashby:perplexity": {
    "matching": 0,
@@ -225,7 +225,7 @@
   },
   "greenhouse:anthropic": {
    "matching": 7,
-   "open": 670
+   "open": 668
   },
   "greenhouse:applovin": {
    "matching": 0,
@@ -281,7 +281,7 @@
   },
   "greenhouse:databricks": {
    "matching": 23,
-   "open": 896
+   "open": 895
   },
   "greenhouse:datadog": {
    "matching": 1,
@@ -341,7 +341,7 @@
   },
   "greenhouse:gitlab": {
    "matching": 0,
-   "open": 251
+   "open": 254
   },
   "greenhouse:gleanwork": {
    "matching": 4,
