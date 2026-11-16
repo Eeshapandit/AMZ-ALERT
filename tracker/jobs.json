@@ -1,18 +1,32 @@
 {
 "jobs": [
 {
-"id": "amz:10579730",
+"id": "amz:10604286",
 "company": "Amazon",
-"title": "Data Engineer, Amazon Prime",
-"role": "Data Engineer",
-"location": "Seattle, Washington, USA",
+"title": "Business Analyst III - AMZ28201.1",
+"role": "Analyst",
+"location": "Bellevue, Washington, USA",
 "mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10579730/data-engineer-amazon-prime",
-"posted": "October 15, 2026",
-"first_seen": "2026-11-16T09:05:17+00:00",
+"years": 1,
+"link": "https://www.amazon.jobs/en/jobs/10604286/business-analyst-iii-amz28201-1",
+"posted": "November 13, 2026",
+"first_seen": "2026-11-16T19:32:09+00:00",
 "seeded": false,
 "sector": "retail"
+},
+{
+"id": "ab:openai:2d1901e0-e5ad-4c2e-88f8-dd9d21257f62",
+"company": "openai",
+"title": "Data Engineering Manager, Devices",
+"role": "Data Engineer",
+"location": "San Francisco (United States)",
+"mode": "Onsite/Hybrid",
+"years": null,
+"link": "https://jobs.ashbyhq.com/openai/2d1901e0-e5ad-4c2e-88f8-dd9d21257f62",
+"posted": "2026-11-16T18:44:15.687+00:00",
+"first_seen": "2026-11-16T19:32:09+00:00",
+"seeded": false,
+"sector": ""
 },
 {
 "id": "gh:roblox:8366921",
@@ -24,34 +38,6 @@
 "years": null,
 "link": "https://careers.roblox.com/jobs/8366921?gh_jid=8366921",
 "posted": "2026-11-13T19:23:54-05:00",
-"first_seen": "2026-11-14T01:44:08+00:00",
-"seeded": false,
-"sector": ""
-},
-{
-"id": "gh:databricks:8910846002",
-"company": "Databricks",
-"title": "Associate Forward Deployed Engineer",
-"role": "FDE",
-"location": "Mountain View, California",
-"mode": "Onsite/Hybrid",
-"years": 2,
-"link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002",
-"posted": "2026-10-23T11:19:31-04:00",
-"first_seen": "2026-11-14T01:44:08+00:00",
-"seeded": false,
-"sector": ""
-},
-{
-"id": "gh:databricks:8907988002",
-"company": "Databricks",
-"title": "Associate Forward Deployed Engineer",
-"role": "FDE",
-"location": "New York City, New York",
-"mode": "Onsite/Hybrid",
-"years": 2,
-"link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002",
-"posted": "2026-10-22T09:31:19-04:00",
 "first_seen": "2026-11-14T01:44:08+00:00",
 "seeded": false,
 "sector": ""
@@ -2311,5 +2297,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-16T09:05:17+00:00"
+"updated": "2026-11-16T19:32:09+00:00"
 }
