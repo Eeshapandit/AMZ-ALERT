@@ -1,6 +1,20 @@
 {
 "jobs": [
 {
+"id": "amz:10579730",
+"company": "Amazon",
+"title": "Data Engineer, Amazon Prime",
+"role": "Data Engineer",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10579730/data-engineer-amazon-prime",
+"posted": "October 15, 2026",
+"first_seen": "2026-11-16T09:05:17+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
 "id": "gh:roblox:8366921",
 "company": "Roblox",
 "title": "Senior Software Engineer, Data Engineering",
@@ -2297,5 +2311,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-14T19:53:01+00:00"
+"updated": "2026-11-16T09:05:17+00:00"
 }
