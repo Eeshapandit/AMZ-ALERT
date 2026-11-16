@@ -433,7 +433,7 @@
   },
   "greenhouse:narvar": {
    "matching": 0,
-   "open": 2
+   "open": 4
   },
   "greenhouse:newrelic": {
    "matching": 0,
@@ -601,7 +601,7 @@
   },
   "greenhouse:zscaler": {
    "matching": 1,
-   "open": 377
+   "open": 378
   },
   "lever:binance": {
    "matching": 0,
