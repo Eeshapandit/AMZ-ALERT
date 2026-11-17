@@ -1,6 +1,48 @@
 {
 "jobs": [
 {
+"id": "amz:10604993",
+"company": "Amazon",
+"title": "Data Engineer II, AME-Outbound",
+"role": "Data Engineer",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10604993/data-engineer-ii-ame-outbound",
+"posted": "November 13, 2026",
+"first_seen": "2026-11-17T02:35:41+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "amz:10598852",
+"company": "Amazon",
+"title": "Data Engineer, Selling Partner Trust",
+"role": "Data Engineer",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10598852/data-engineer-selling-partner-trust",
+"posted": "November  6, 2026",
+"first_seen": "2026-11-17T02:35:41+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "gh:datadog:8346224",
+"company": "Datadog",
+"title": "Senior Forward Deployed Engineer",
+"role": "FDE",
+"location": "New York, New York, USA",
+"mode": "Onsite/Hybrid",
+"years": null,
+"link": "https://careers.datadoghq.com/detail/8346224/?gh_jid=8346224",
+"posted": "2026-11-16T17:01:15-05:00",
+"first_seen": "2026-11-17T02:35:41+00:00",
+"seeded": false,
+"sector": ""
+},
+{
 "id": "amz:10604286",
 "company": "Amazon",
 "title": "Business Analyst III - AMZ28201.1",
@@ -2297,5 +2339,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-16T19:32:09+00:00"
+"updated": "2026-11-17T02:35:41+00:00"
 }
