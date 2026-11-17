@@ -85,20 +85,6 @@
 "sector": ""
 },
 {
-"id": "amz:10603912",
-"company": "Amazon",
-"title": "Software Development Engineer, Data Analytics Integration AI and Platform Excellence",
-"role": "Analyst",
-"location": "New York, New York, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10603912/software-development-engineer-data-analytics-integration-ai-and-platform-excellence",
-"posted": "November 13, 2026",
-"first_seen": "2026-11-13T21:33:50+00:00",
-"seeded": false,
-"sector": "retail"
-},
-{
 "id": "amz:10603661",
 "company": "Amazon",
 "title": "Business Analyst III - AMZ10563738",
@@ -2339,5 +2325,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-17T02:35:41+00:00"
+"updated": "2026-11-17T11:07:53+00:00"
 }
