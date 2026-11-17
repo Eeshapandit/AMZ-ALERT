@@ -114,7 +114,7 @@
   },
   "ashby:openai": {
    "matching": 26,
-   "open": 837
+   "open": 838
   },
   "ashby:perplexity": {
    "matching": 0,
@@ -370,7 +370,7 @@
   },
   "greenhouse:hellofresh": {
    "matching": 0,
-   "open": 368
+   "open": 367
   },
   "greenhouse:imc": {
    "matching": 0,
@@ -406,7 +406,7 @@
   },
   "greenhouse:lyft": {
    "matching": 1,
-   "open": 142
+   "open": 143
   },
   "greenhouse:mercari": {
    "matching": 0,
@@ -490,7 +490,7 @@
   },
   "greenhouse:reformation": {
    "matching": 0,
-   "open": 147
+   "open": 148
   },
   "greenhouse:robinhood": {
    "matching": 0,
@@ -598,7 +598,7 @@
   },
   "greenhouse:zscaler": {
    "matching": 1,
-   "open": 374
+   "open": 375
   },
   "lever:binance": {
    "matching": 0,
