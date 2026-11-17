@@ -5,7 +5,7 @@
   "lever:jumpcloud": "TimeoutError: The read operation timed out",
   "lever:kraken": "TimeoutError: The read operation timed out",
   "lever:lyrahealth": "TimeoutError: The read operation timed out",
-  "lever:matchgroup": "HTTPError: HTTP Error 500: Internal Server Error",
+  "lever:matchgroup": "TimeoutError: The read operation timed out",
   "lever:mistral": "TimeoutError: The read operation timed out",
   "lever:nium": "TimeoutError: The read operation timed out",
   "lever:outreach": "TimeoutError: The read operation timed out",
