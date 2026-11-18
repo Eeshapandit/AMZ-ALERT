@@ -1,6 +1,62 @@
 {
 "jobs": [
 {
+"id": "amz:10606541",
+"company": "Amazon",
+"title": "Senior Software Development Engineer - Data Capture, Data Capture Team ",
+"role": "Data / AI",
+"location": "Newark, New Jersey, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10606541/senior-software-development-engineer-data-capture-data-capture-team",
+"posted": "November 17, 2026",
+"first_seen": "2026-11-18T01:58:29+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "ab:benchling:c97e5668-29ee-4810-b7cc-35331ac123f5",
+"company": "benchling",
+"title": "Data Engineer",
+"role": "Data Engineer",
+"location": "San Francisco, CA (United States)",
+"mode": "Hybrid",
+"years": 3,
+"link": "https://jobs.ashbyhq.com/benchling/c97e5668-29ee-4810-b7cc-35331ac123f5",
+"posted": "2026-11-18T01:41:03.029+00:00",
+"first_seen": "2026-11-18T01:58:29+00:00",
+"seeded": false,
+"sector": ""
+},
+{
+"id": "ab:cursor:62dbe8b8-74d9-464e-b6f0-5370d79332bd",
+"company": "cursor",
+"title": "Forward Deployed Engineering Partner Program Lead",
+"role": "FDE",
+"location": "San Francisco, CA; New York, NY (United States)",
+"mode": "Onsite",
+"years": null,
+"link": "https://jobs.ashbyhq.com/cursor/62dbe8b8-74d9-464e-b6f0-5370d79332bd",
+"posted": "2026-11-18T00:20:46.940+00:00",
+"first_seen": "2026-11-18T01:58:29+00:00",
+"seeded": false,
+"sector": ""
+},
+{
+"id": "gh:toast:8359240",
+"company": "Toast",
+"title": "Data Engineer",
+"role": "Data Engineer",
+"location": "Remote, US ",
+"mode": "Remote",
+"years": 2,
+"link": "https://careers.toasttab.com/jobs?gh_jid=8359240",
+"posted": "2026-11-17T15:59:15-05:00",
+"first_seen": "2026-11-18T01:58:29+00:00",
+"seeded": false,
+"sector": ""
+},
+{
 "id": "amz:10607008",
 "company": "Amazon",
 "title": "Data Engineer, Applied AI Solutions",
@@ -631,20 +687,6 @@
 "sector": "retail"
 },
 {
-"id": "amz:10581926",
-"company": "Amazon",
-"title": "Associate Physical Security Engineer, Data Center Design Engineering",
-"role": "Data / AI",
-"location": "Seattle, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": null,
-"link": "https://www.amazon.jobs/en/jobs/10581926/associate-physical-security-engineer-data-center-design-engineering",
-"posted": "October 16, 2026",
-"first_seen": "2026-10-28T14:39:35+00:00",
-"seeded": false,
-"sector": "retail"
-},
-{
 "id": "amz:10571019",
 "company": "Amazon",
 "title": "Senior Financial Analyst, AWS Data Center FP&A",
@@ -794,20 +836,6 @@
 "years": 2,
 "link": "https://www.amazon.jobs/en/jobs/10545209/data-analyst-rsx",
 "posted": "September 16, 2026",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": "retail"
-},
-{
-"id": "amz:10587822",
-"company": "Amazon",
-"title": "Data Engineer II, NASC Data Engineering ",
-"role": "Data Engineer",
-"location": "Bellevue, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10587822/data-engineer-ii-nasc-data-engineering",
-"posted": "October 24, 2026",
 "first_seen": "2026-10-28T14:15:32+00:00",
 "seeded": true,
 "sector": "retail"
@@ -2339,5 +2367,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-17T19:51:08+00:00"
+"updated": "2026-11-18T01:58:29+00:00"
 }
