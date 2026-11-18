@@ -115,7 +115,7 @@
   },
   "ashby:openai": {
    "matching": 26,
-   "open": 840
+   "open": 841
   },
   "ashby:perplexity": {
    "matching": 0,
@@ -135,7 +135,7 @@
   },
   "ashby:plaid": {
    "matching": 1,
-   "open": 142
+   "open": 143
   },
   "ashby:poshmark": {
    "matching": 1,
@@ -303,7 +303,7 @@
   },
   "greenhouse:drweng": {
    "matching": 3,
-   "open": 152
+   "open": 151
   },
   "greenhouse:duolingo": {
    "matching": 0,
