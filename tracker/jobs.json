@@ -1,28 +1,70 @@
 {
 "jobs": [
 {
-"id": "amz:10587822",
+"id": "amz:10582037",
 "company": "Amazon",
-"title": "Data Engineer II, NASC Data Engineering ",
-"role": "Data Engineer",
-"location": "Bellevue, Washington, USA",
+"title": "Forward Deployed Engineer, Forward Deployment Engineering",
+"role": "FDE",
+"location": "New York, New York, USA",
 "mode": "Onsite/Hybrid",
 "years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10587822/data-engineer-ii-nasc-data-engineering",
-"posted": "October 24, 2026",
-"first_seen": "2026-11-18T10:00:19+00:00",
+"link": "https://www.amazon.jobs/en/jobs/10582037/forward-deployed-engineer-forward-deployment-engineering",
+"posted": "October 17, 2026",
+"first_seen": "2026-11-18T18:47:28+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "amz:10582036",
+"company": "Amazon",
+"title": "Forward Deployed Engineer, Forward Deployment Engineering",
+"role": "FDE",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10582036/forward-deployed-engineer-forward-deployment-engineering",
+"posted": "October 17, 2026",
+"first_seen": "2026-11-18T18:47:28+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "amz:10608435",
+"company": "Amazon",
+"title": "Business Analyst II - AMZ10563906",
+"role": "Analyst",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 1,
+"link": "https://www.amazon.jobs/en/jobs/10608435/business-analyst-ii-amz10563906",
+"posted": "November 18, 2026",
+"first_seen": "2026-11-18T18:47:28+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "amz:10596736",
+"company": "Amazon",
+"title": "Data Engineer II, APM Insights",
+"role": "Data Engineer",
+"location": "New York, New York, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10596736/data-engineer-ii-apm-insights",
+"posted": "November  4, 2026",
+"first_seen": "2026-11-18T18:47:28+00:00",
 "seeded": false,
 "sector": "retail"
 },
 {
 "id": "amz:10606541",
 "company": "Amazon",
-"title": "Senior Software Development Engineer - Data Capture, Data Capture Team ",
+"title": "Senior Software Development Engineer - Data Capture",
 "role": "Data / AI",
 "location": "Newark, New Jersey, USA",
 "mode": "Onsite/Hybrid",
 "years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10606541/senior-software-development-engineer-data-capture-data-capture-team",
+"link": "https://www.amazon.jobs/en/jobs/10606541/senior-software-development-engineer-data-capture",
 "posted": "November 17, 2026",
 "first_seen": "2026-11-18T01:58:29+00:00",
 "seeded": false,
@@ -710,20 +752,6 @@
 "years": 3,
 "link": "https://www.amazon.jobs/en/jobs/10571019/senior-financial-analyst-aws-data-center-fp-a",
 "posted": "October  6, 2026",
-"first_seen": "2026-10-28T14:39:35+00:00",
-"seeded": false,
-"sector": "retail"
-},
-{
-"id": "amz:10472951",
-"company": "Amazon",
-"title": "Business Analyst, Global Network Delivery",
-"role": "Analyst",
-"location": "Seattle, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10472951/business-analyst-global-network-delivery",
-"posted": "July 13, 2026",
 "first_seen": "2026-10-28T14:39:35+00:00",
 "seeded": false,
 "sector": "retail"
@@ -2381,5 +2409,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-18T10:00:19+00:00"
+"updated": "2026-11-18T18:47:28+00:00"
 }
