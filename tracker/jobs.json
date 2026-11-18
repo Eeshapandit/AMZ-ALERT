@@ -1,6 +1,20 @@
 {
 "jobs": [
 {
+"id": "amz:10587822",
+"company": "Amazon",
+"title": "Data Engineer II, NASC Data Engineering ",
+"role": "Data Engineer",
+"location": "Bellevue, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10587822/data-engineer-ii-nasc-data-engineering",
+"posted": "October 24, 2026",
+"first_seen": "2026-11-18T10:00:19+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
 "id": "amz:10606541",
 "company": "Amazon",
 "title": "Senior Software Development Engineer - Data Capture, Data Capture Team ",
@@ -2367,5 +2381,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-18T01:58:29+00:00"
+"updated": "2026-11-18T10:00:19+00:00"
 }
