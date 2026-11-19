@@ -1,9 +1,7 @@
 {
  "errors": {
   "greenhouse:quip": "HTTPError: HTTP Error 404: Not Found",
-  "lever:lyrahealth": "HTTPError: HTTP Error 502: Bad Gateway",
-  "lever:mistral": "HTTPError: HTTP Error 404: Not Found",
-  "lever:nium": "TimeoutError: The read operation timed out"
+  "lever:mistral": "HTTPError: HTTP Error 404: Not Found"
  },
  "ok": {
   "amazon:amazon": {
@@ -618,9 +616,17 @@
    "matching": 0,
    "open": 0
   },
+  "lever:lyrahealth": {
+   "matching": 1,
+   "open": 452
+  },
   "lever:matchgroup": {
    "matching": 1,
    "open": 68
+  },
+  "lever:nium": {
+   "matching": 0,
+   "open": 31
   },
   "lever:outreach": {
    "matching": 1,
@@ -652,9 +658,9 @@
   }
  },
  "summary": {
-  "candidates": 319,
+  "candidates": 320,
   "kept": 164,
-  "sources_failed": 4,
-  "sources_ok": 161
+  "sources_failed": 2,
+  "sources_ok": 163
  }
 }
