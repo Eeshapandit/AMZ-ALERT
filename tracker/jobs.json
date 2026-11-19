@@ -1,6 +1,20 @@
 {
 "jobs": [
 {
+"id": "amz:10593890",
+"company": "Amazon",
+"title": "Data Engineer II, Sales Data Services (SDS)",
+"role": "Data Engineer",
+"location": "New York, New York, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10593890/data-engineer-ii-sales-data-services-sds",
+"posted": "October 30, 2026",
+"first_seen": "2026-11-19T08:00:37+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
 "id": "amz:10603957",
 "company": "Amazon",
 "title": "Forward Deployed Engineer, AWS Forward Deployed Engineering ",
@@ -696,20 +710,6 @@
 "years": 3,
 "link": "https://www.amazon.jobs/en/jobs/10571019/senior-financial-analyst-aws-data-center-fp-a",
 "posted": "October  6, 2026",
-"first_seen": "2026-10-28T14:39:35+00:00",
-"seeded": false,
-"sector": "retail"
-},
-{
-"id": "amz:10471711",
-"company": "Amazon",
-"title": "Senior Financial Analyst, AWS Data Center Real Estate",
-"role": "Data / AI",
-"location": "Seattle, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10471711/senior-financial-analyst-aws-data-center-real-estate",
-"posted": "July 10, 2026",
 "first_seen": "2026-10-28T14:39:35+00:00",
 "seeded": false,
 "sector": "retail"
@@ -2297,5 +2297,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-19T00:47:00+00:00"
+"updated": "2026-11-19T08:00:37+00:00"
 }
