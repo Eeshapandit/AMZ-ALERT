@@ -1,18 +1,16 @@
 {
  "errors": {
-  "greenhouse:andurilindustries": "TimeoutError: The read operation timed out",
   "greenhouse:quip": "HTTPError: HTTP Error 404: Not Found",
-  "lever:matchgroup": "HTTPError: HTTP Error 500: Internal Server Error",
   "lever:mistral": "HTTPError: HTTP Error 404: Not Found"
  },
  "ok": {
   "amazon:amazon": {
-   "matching": 68,
-   "open": 183
+   "matching": 66,
+   "open": 186
   },
   "ashby:abridge": {
    "matching": 0,
-   "open": 25
+   "open": 28
   },
   "ashby:airbyte": {
    "matching": 0,
@@ -20,7 +18,7 @@
   },
   "ashby:ambiencehealthcare": {
    "matching": 0,
-   "open": 17
+   "open": 16
   },
   "ashby:astronomer": {
    "matching": 0,
@@ -32,7 +30,7 @@
   },
   "ashby:benchling": {
    "matching": 2,
-   "open": 58
+   "open": 59
   },
   "ashby:cognition": {
    "matching": 3,
@@ -40,7 +38,7 @@
   },
   "ashby:cohere": {
    "matching": 2,
-   "open": 126
+   "open": 125
   },
   "ashby:confluent": {
    "matching": 0,
@@ -48,7 +46,7 @@
   },
   "ashby:cursor": {
    "matching": 6,
-   "open": 95
+   "open": 93
   },
   "ashby:decagon": {
    "matching": 0,
@@ -68,11 +66,11 @@
   },
   "ashby:harvey": {
    "matching": 6,
-   "open": 390
+   "open": 392
   },
   "ashby:hex": {
    "matching": 0,
-   "open": 40
+   "open": 41
   },
   "ashby:hightouch": {
    "matching": 0,
@@ -88,7 +86,7 @@
   },
   "ashby:linear": {
    "matching": 0,
-   "open": 33
+   "open": 32
   },
   "ashby:materialize": {
    "matching": 1,
@@ -108,7 +106,7 @@
   },
   "ashby:notion": {
    "matching": 3,
-   "open": 167
+   "open": 168
   },
   "ashby:omni": {
    "matching": 0,
@@ -116,7 +114,7 @@
   },
   "ashby:openai": {
    "matching": 26,
-   "open": 841
+   "open": 835
   },
   "ashby:perplexity": {
    "matching": 0,
@@ -124,7 +122,7 @@
   },
   "ashby:physicalintelligence": {
    "matching": 1,
-   "open": 48
+   "open": 45
   },
   "ashby:pika": {
    "matching": 2,
@@ -132,15 +130,15 @@
   },
   "ashby:pinecone": {
    "matching": 0,
-   "open": 6
+   "open": 7
   },
   "ashby:plaid": {
    "matching": 1,
-   "open": 143
+   "open": 141
   },
   "ashby:poshmark": {
    "matching": 1,
-   "open": 22
+   "open": 21
   },
   "ashby:posthog": {
    "matching": 0,
@@ -148,35 +146,35 @@
   },
   "ashby:prefect": {
    "matching": 0,
-   "open": 5
+   "open": 4
   },
   "ashby:ramp": {
    "matching": 2,
-   "open": 181
+   "open": 182
   },
   "ashby:replit": {
    "matching": 1,
-   "open": 35
+   "open": 36
   },
   "ashby:rogo": {
    "matching": 10,
-   "open": 101
+   "open": 100
   },
   "ashby:rothys": {
    "matching": 0,
-   "open": 79
+   "open": 81
   },
   "ashby:sierra": {
    "matching": 0,
-   "open": 196
+   "open": 195
   },
   "ashby:suno": {
    "matching": 0,
-   "open": 62
+   "open": 63
   },
   "ashby:supabase": {
    "matching": 1,
-   "open": 77
+   "open": 76
   },
   "ashby:tennr": {
    "matching": 5,
@@ -184,11 +182,11 @@
   },
   "ashby:vanta": {
    "matching": 1,
-   "open": 77
+   "open": 73
   },
   "ashby:watershed": {
    "matching": 0,
-   "open": 38
+   "open": 39
   },
   "ashby:weaviate": {
    "matching": 0,
@@ -204,15 +202,15 @@
   },
   "greenhouse:abnormalsecurity": {
    "matching": 0,
-   "open": 89
+   "open": 88
   },
   "greenhouse:affirm": {
    "matching": 0,
-   "open": 226
+   "open": 221
   },
   "greenhouse:airbnb": {
    "matching": 1,
-   "open": 202
+   "open": 197
   },
   "greenhouse:airtable": {
    "matching": 0,
@@ -220,11 +218,15 @@
   },
   "greenhouse:aloyoga": {
    "matching": 8,
-   "open": 756
+   "open": 741
+  },
+  "greenhouse:andurilindustries": {
+   "matching": 12,
+   "open": 2620
   },
   "greenhouse:anthropic": {
    "matching": 7,
-   "open": 650
+   "open": 644
   },
   "greenhouse:applovin": {
    "matching": 0,
@@ -236,7 +238,7 @@
   },
   "greenhouse:attentive": {
    "matching": 6,
-   "open": 30
+   "open": 29
   },
   "greenhouse:bark": {
    "matching": 0,
@@ -252,11 +254,11 @@
   },
   "greenhouse:bombas": {
    "matching": 0,
-   "open": 7
+   "open": 8
   },
   "greenhouse:brex": {
    "matching": 1,
-   "open": 266
+   "open": 260
   },
   "greenhouse:carta": {
    "matching": 0,
@@ -264,11 +266,11 @@
   },
   "greenhouse:chime": {
    "matching": 2,
-   "open": 76
+   "open": 77
   },
   "greenhouse:cloudflare": {
    "matching": 2,
-   "open": 495
+   "open": 497
   },
   "greenhouse:cockroachlabs": {
    "matching": 0,
@@ -276,19 +278,19 @@
   },
   "greenhouse:coinbase": {
    "matching": 5,
-   "open": 257
+   "open": 256
   },
   "greenhouse:databricks": {
    "matching": 22,
-   "open": 901
+   "open": 900
   },
   "greenhouse:datadog": {
    "matching": 2,
-   "open": 383
+   "open": 380
   },
   "greenhouse:discord": {
    "matching": 2,
-   "open": 26
+   "open": 27
   },
   "greenhouse:dollarshaveclub": {
    "matching": 0,
@@ -296,27 +298,27 @@
   },
   "greenhouse:doordashusa": {
    "matching": 2,
-   "open": 419
+   "open": 417
   },
   "greenhouse:dropbox": {
    "matching": 0,
-   "open": 41
+   "open": 44
   },
   "greenhouse:drweng": {
-   "matching": 3,
-   "open": 151
+   "matching": 2,
+   "open": 150
   },
   "greenhouse:duolingo": {
    "matching": 0,
-   "open": 57
+   "open": 55
   },
   "greenhouse:elastic": {
    "matching": 0,
-   "open": 377
+   "open": 375
   },
   "greenhouse:everlane": {
    "matching": 1,
-   "open": 30
+   "open": 32
   },
   "greenhouse:faire": {
    "matching": 0,
@@ -328,7 +330,7 @@
   },
   "greenhouse:fivetran": {
    "matching": 0,
-   "open": 183
+   "open": 187
   },
   "greenhouse:flatironhealth": {
    "matching": 0,
@@ -336,15 +338,15 @@
   },
   "greenhouse:flexport": {
    "matching": 1,
-   "open": 208
+   "open": 207
   },
   "greenhouse:gitlab": {
    "matching": 0,
-   "open": 250
+   "open": 248
   },
   "greenhouse:gleanwork": {
-   "matching": 4,
-   "open": 120
+   "matching": 3,
+   "open": 123
   },
   "greenhouse:glossier": {
    "matching": 0,
@@ -352,11 +354,11 @@
   },
   "greenhouse:goatgroup": {
    "matching": 0,
-   "open": 15
+   "open": 12
   },
   "greenhouse:gusto": {
    "matching": 1,
-   "open": 79
+   "open": 82
   },
   "greenhouse:gymshark": {
    "matching": 0,
@@ -368,7 +370,7 @@
   },
   "greenhouse:hellofresh": {
    "matching": 0,
-   "open": 367
+   "open": 365
   },
   "greenhouse:imc": {
    "matching": 0,
@@ -376,11 +378,11 @@
   },
   "greenhouse:instacart": {
    "matching": 0,
-   "open": 83
+   "open": 85
   },
   "greenhouse:intercom": {
    "matching": 2,
-   "open": 115
+   "open": 117
   },
   "greenhouse:janestreet": {
    "matching": 2,
@@ -388,7 +390,7 @@
   },
   "greenhouse:justworks": {
    "matching": 0,
-   "open": 107
+   "open": 108
   },
   "greenhouse:khanacademy": {
    "matching": 0,
@@ -396,11 +398,11 @@
   },
   "greenhouse:klaviyo": {
    "matching": 2,
-   "open": 137
+   "open": 130
   },
   "greenhouse:launchdarkly": {
    "matching": 0,
-   "open": 32
+   "open": 33
   },
   "greenhouse:lyft": {
    "matching": 1,
@@ -412,7 +414,7 @@
   },
   "greenhouse:mercury": {
    "matching": 1,
-   "open": 74
+   "open": 72
   },
   "greenhouse:misfitsmarket": {
    "matching": 0,
@@ -420,15 +422,15 @@
   },
   "greenhouse:mixpanel": {
    "matching": 0,
-   "open": 39
+   "open": 38
   },
   "greenhouse:mongodb": {
    "matching": 1,
-   "open": 397
+   "open": 402
   },
   "greenhouse:monzo": {
    "matching": 0,
-   "open": 62
+   "open": 61
   },
   "greenhouse:narvar": {
    "matching": 0,
@@ -440,7 +442,7 @@
   },
   "greenhouse:nextdoor": {
    "matching": 0,
-   "open": 25
+   "open": 23
   },
   "greenhouse:nuro": {
    "matching": 0,
@@ -448,7 +450,7 @@
   },
   "greenhouse:okta": {
    "matching": 1,
-   "open": 362
+   "open": 363
   },
   "greenhouse:optiver": {
    "matching": 0,
@@ -456,7 +458,7 @@
   },
   "greenhouse:oscar": {
    "matching": 2,
-   "open": 187
+   "open": 193
   },
   "greenhouse:pagerduty": {
    "matching": 2,
@@ -464,7 +466,7 @@
   },
   "greenhouse:parachutehome": {
    "matching": 0,
-   "open": 1
+   "open": 2
   },
   "greenhouse:peloton": {
    "matching": 0,
@@ -472,11 +474,11 @@
   },
   "greenhouse:pinterest": {
    "matching": 2,
-   "open": 174
+   "open": 172
   },
   "greenhouse:point72": {
    "matching": 4,
-   "open": 201
+   "open": 202
   },
   "greenhouse:poshmark": {
    "matching": 0,
@@ -484,7 +486,7 @@
   },
   "greenhouse:reddit": {
    "matching": 2,
-   "open": 149
+   "open": 148
   },
   "greenhouse:reformation": {
    "matching": 0,
@@ -492,11 +494,11 @@
   },
   "greenhouse:robinhood": {
    "matching": 0,
-   "open": 167
+   "open": 164
   },
   "greenhouse:roblox": {
    "matching": 2,
-   "open": 264
+   "open": 265
   },
   "greenhouse:route": {
    "matching": 1,
@@ -504,23 +506,23 @@
   },
   "greenhouse:samsara": {
    "matching": 2,
-   "open": 310
+   "open": 309
   },
   "greenhouse:scaleai": {
    "matching": 5,
    "open": 167
   },
   "greenhouse:seatgeek": {
-   "matching": 3,
-   "open": 35
+   "matching": 2,
+   "open": 34
   },
   "greenhouse:sofi": {
-   "matching": 0,
-   "open": 50
+   "matching": 1,
+   "open": 53
   },
   "greenhouse:squarespace": {
    "matching": 0,
-   "open": 17
+   "open": 19
   },
   "greenhouse:stitchfix": {
    "matching": 1,
@@ -531,8 +533,8 @@
    "open": 37
   },
   "greenhouse:stripe": {
-   "matching": 8,
-   "open": 792
+   "matching": 6,
+   "open": 785
   },
   "greenhouse:sweetgreen": {
    "matching": 0,
@@ -544,7 +546,7 @@
   },
   "greenhouse:toast": {
    "matching": 1,
-   "open": 329
+   "open": 330
   },
   "greenhouse:togetherai": {
    "matching": 2,
@@ -552,7 +554,7 @@
   },
   "greenhouse:twilio": {
    "matching": 0,
-   "open": 110
+   "open": 109
   },
   "greenhouse:twitch": {
    "matching": 0,
@@ -572,7 +574,7 @@
   },
   "greenhouse:waymo": {
    "matching": 2,
-   "open": 373
+   "open": 372
   },
   "greenhouse:weee": {
    "matching": 1,
@@ -584,7 +586,7 @@
   },
   "greenhouse:xai": {
    "matching": 4,
-   "open": 301
+   "open": 306
   },
   "greenhouse:yotpo": {
    "matching": 0,
@@ -596,7 +598,7 @@
   },
   "greenhouse:zscaler": {
    "matching": 1,
-   "open": 386
+   "open": 380
   },
   "lever:binance": {
    "matching": 0,
@@ -604,7 +606,7 @@
   },
   "lever:gopuff": {
    "matching": 3,
-   "open": 756
+   "open": 757
   },
   "lever:jumpcloud": {
    "matching": 0,
@@ -616,7 +618,11 @@
   },
   "lever:lyrahealth": {
    "matching": 1,
-   "open": 472
+   "open": 454
+  },
+  "lever:matchgroup": {
+   "matching": 1,
+   "open": 68
   },
   "lever:nium": {
    "matching": 0,
@@ -640,7 +646,7 @@
   },
   "lever:veeva": {
    "matching": 1,
-   "open": 863
+   "open": 860
   },
   "lever:whoop": {
    "matching": 0,
@@ -648,13 +654,13 @@
   },
   "lever:zoox": {
    "matching": 1,
-   "open": 244
+   "open": 249
   }
  },
  "summary": {
-  "candidates": 312,
-  "kept": 172,
-  "sources_failed": 4,
-  "sources_ok": 161
+  "candidates": 319,
+  "kept": 164,
+  "sources_failed": 2,
+  "sources_ok": 163
  }
 }

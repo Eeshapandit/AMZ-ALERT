@@ -1,6 +1,34 @@
 {
 "jobs": [
 {
+"id": "amz:10603957",
+"company": "Amazon",
+"title": "Forward Deployed Engineer, AWS Forward Deployed Engineering ",
+"role": "FDE",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10603957/forward-deployed-engineer-aws-forward-deployed-engineering",
+"posted": "November 18, 2026",
+"first_seen": "2026-11-19T00:47:00+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "amz:10606738",
+"company": "Amazon",
+"title": "Software Development Engineer, Robot Data Platform , Fauna",
+"role": "Data / AI",
+"location": "New York, New York, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10606738/software-development-engineer-robot-data-platform-fauna",
+"posted": "November 18, 2026",
+"first_seen": "2026-11-19T00:47:00+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
 "id": "amz:10582037",
 "company": "Amazon",
 "title": "Forward Deployed Engineer, Forward Deployment Engineering",
@@ -38,20 +66,6 @@
 "years": 1,
 "link": "https://www.amazon.jobs/en/jobs/10608435/business-analyst-ii-amz10563906",
 "posted": "November 18, 2026",
-"first_seen": "2026-11-18T18:47:28+00:00",
-"seeded": false,
-"sector": "retail"
-},
-{
-"id": "amz:10596736",
-"company": "Amazon",
-"title": "Data Engineer II, APM Insights",
-"role": "Data Engineer",
-"location": "New York, New York, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10596736/data-engineer-ii-apm-insights",
-"posted": "November  4, 2026",
 "first_seen": "2026-11-18T18:47:28+00:00",
 "seeded": false,
 "sector": "retail"
@@ -109,34 +123,6 @@
 "link": "https://careers.toasttab.com/jobs?gh_jid=8359240",
 "posted": "2026-11-17T15:59:15-05:00",
 "first_seen": "2026-11-18T01:58:29+00:00",
-"seeded": false,
-"sector": ""
-},
-{
-"id": "amz:10607008",
-"company": "Amazon",
-"title": "Data Engineer, Applied AI Solutions",
-"role": "Data Engineer",
-"location": "Seattle, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10607008/data-engineer-applied-ai-solutions",
-"posted": "November 17, 2026",
-"first_seen": "2026-11-17T19:51:08+00:00",
-"seeded": false,
-"sector": "retail"
-},
-{
-"id": "gh:stripe:8395851",
-"company": "Stripe",
-"title": "Forward Deployed AI Accelerator, Marketing",
-"role": "FDE",
-"location": "Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada",
-"mode": "Remote",
-"years": 3,
-"link": "https://stripe.com/jobs/search?gh_jid=8395851",
-"posted": "2026-11-17T11:05:34-05:00",
-"first_seen": "2026-11-17T19:51:08+00:00",
 "seeded": false,
 "sector": ""
 },
@@ -255,7 +241,7 @@
 {
 "id": "lv:outreach:752b3b1a-dcee-4c74-844d-c17705f46f37",
 "company": "outreach",
-"title": "Forward Deployed Engineer, Onboarding Services",
+"title": "Forward Deployed Engineer, Onboarding Services (Professional Services Consultant)",
 "role": "FDE",
 "location": "United States",
 "mode": "Remote",
@@ -547,20 +533,6 @@
 "sector": ""
 },
 {
-"id": "gh:gleanwork:4751170005",
-"company": "Glean",
-"title": "Forward Deployed Recruiter",
-"role": "FDE",
-"location": "Mountain View, CA",
-"mode": "Onsite/Hybrid",
-"years": null,
-"link": "https://job-boards.greenhouse.io/gleanwork/jobs/4751170005",
-"posted": "2026-11-04T19:22:58-05:00",
-"first_seen": "2026-11-05T02:54:01+00:00",
-"seeded": false,
-"sector": ""
-},
-{
 "id": "gh:stripe:8189909",
 "company": "Stripe",
 "title": "Data Analyst, SF",
@@ -645,20 +617,6 @@
 "sector": "retail"
 },
 {
-"id": "amz:10593890",
-"company": "Amazon",
-"title": "Data Engineer II, Sales Data Services (SDS)",
-"role": "Data Engineer",
-"location": "New York, New York, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10593890/data-engineer-ii-sales-data-services-sds",
-"posted": "October 30, 2026",
-"first_seen": "2026-10-30T23:03:35+00:00",
-"seeded": false,
-"sector": "retail"
-},
-{
 "id": "gh:intercom:8333690",
 "company": "Fin",
 "title": "Forward Deployed Engineer",
@@ -724,20 +682,6 @@
 "years": 3,
 "link": "https://www.amazon.jobs/en/jobs/10552313/sr-financial-analyst-aws-data-center-construction-finance",
 "posted": "September 17, 2026",
-"first_seen": "2026-10-28T14:39:35+00:00",
-"seeded": false,
-"sector": "retail"
-},
-{
-"id": "amz:10587820",
-"company": "Amazon",
-"title": "Business Intelligence Engineer,  Data Center Capacity Delivery Tooling",
-"role": "BI",
-"location": "Seattle, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10587820/business-intelligence-engineer-data-center-capacity-delivery-tooling",
-"posted": "October 23, 2026",
 "first_seen": "2026-10-28T14:39:35+00:00",
 "seeded": false,
 "sector": "retail"
@@ -1205,20 +1149,6 @@
 "sector": ""
 },
 {
-"id": "gh:seatgeek:8247554",
-"company": "SeatGeek",
-"title": "Data Analyst - Internship",
-"role": "Data Analyst",
-"location": "New York, New York",
-"mode": "Onsite/Hybrid",
-"years": null,
-"link": "https://seatgeek.com/jobs/8247554?gh_jid=8247554",
-"posted": "2026-10-01T15:08:54-04:00",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": ""
-},
-{
 "id": "ab:openai:c25fd30e-056e-4a26-af80-7ea1074fc56e",
 "company": "openai",
 "title": "Data Engineer, Hardware & Consumer Devices",
@@ -1354,20 +1284,6 @@
 "years": 2,
 "link": "https://jobs.ashbyhq.com/openai/5bbc43df-558a-4e4b-a0cf-83f185c664d7",
 "posted": "2026-09-23T13:30:38.483+00:00",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": ""
-},
-{
-"id": "gh:drweng:8189730",
-"company": "DRW ",
-"title": "Data Analyst, Stewardship",
-"role": "Data Analyst",
-"location": "Chicago, Houston, Remote",
-"mode": "Remote",
-"years": null,
-"link": "https://job-boards.greenhouse.io/drweng/jobs/8189730",
-"posted": "2026-09-17T16:48:13-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
 "seeded": true,
 "sector": ""
@@ -1695,20 +1611,6 @@
 "sector": ""
 },
 {
-"id": "gh:stripe:8055930",
-"company": "Stripe",
-"title": "Forward Deployed AI Accelerator, Sales Development",
-"role": "FDE",
-"location": "Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada",
-"mode": "Remote",
-"years": 3,
-"link": "https://stripe.com/jobs/search?gh_jid=8055930",
-"posted": "2026-07-13T19:29:13-04:00",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": ""
-},
-{
 "id": "gh:xai:5182183007",
 "company": "SpaceXSI",
 "title": "Software Engineer, Data Engineering (X)",
@@ -1746,20 +1648,6 @@
 "years": 3,
 "link": "https://jobs.ashbyhq.com/Rogo/fd7d1775-9fa3-470d-8cc1-b2c91e19a31b",
 "posted": "2026-07-07T22:12:46.030+00:00",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": ""
-},
-{
-"id": "gh:andurilindustries:5180410007",
-"company": "Anduril Industries",
-"title": "Senior Data Engineer",
-"role": "Data Engineer",
-"location": "Costa Mesa, California, United States",
-"mode": "Onsite/Hybrid",
-"years": null,
-"link": "https://boards.greenhouse.io/andurilindustries/jobs/5180410007?gh_jid=5180410007",
-"posted": "2026-07-06T12:54:10-04:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
 "seeded": true,
 "sector": ""
@@ -2409,5 +2297,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-18T18:47:28+00:00"
+"updated": "2026-11-19T00:47:00+00:00"
 }
