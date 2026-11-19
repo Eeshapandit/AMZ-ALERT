@@ -1,16 +1,16 @@
 {
 "jobs": [
 {
-"id": "amz:10593890",
+"id": "amz:10609193",
 "company": "Amazon",
-"title": "Data Engineer II, Sales Data Services (SDS)",
-"role": "Data Engineer",
-"location": "New York, New York, USA",
+"title": "Configuration Analyst, Data Center Lifecycle Configuration",
+"role": "Data / AI",
+"location": "Seattle, Washington, USA",
 "mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10593890/data-engineer-ii-sales-data-services-sds",
-"posted": "October 30, 2026",
-"first_seen": "2026-11-19T08:00:37+00:00",
+"years": null,
+"link": "https://www.amazon.jobs/en/jobs/10609193/configuration-analyst-data-center-lifecycle-configuration",
+"posted": "November 19, 2026",
+"first_seen": "2026-11-19T17:17:38+00:00",
 "seeded": false,
 "sector": "retail"
 },
@@ -2297,5 +2297,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-19T08:00:37+00:00"
+"updated": "2026-11-19T17:17:38+00:00"
 }
