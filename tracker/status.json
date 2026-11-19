@@ -162,7 +162,7 @@
   },
   "ashby:rothys": {
    "matching": 0,
-   "open": 78
+   "open": 77
   },
   "ashby:sierra": {
    "matching": 0,
@@ -258,7 +258,7 @@
   },
   "greenhouse:brex": {
    "matching": 1,
-   "open": 250
+   "open": 249
   },
   "greenhouse:carta": {
    "matching": 0,
@@ -406,7 +406,7 @@
   },
   "greenhouse:lyft": {
    "matching": 1,
-   "open": 145
+   "open": 144
   },
   "greenhouse:mercari": {
    "matching": 0,
@@ -598,7 +598,7 @@
   },
   "greenhouse:zscaler": {
    "matching": 1,
-   "open": 378
+   "open": 377
   },
   "lever:binance": {
    "matching": 0,
