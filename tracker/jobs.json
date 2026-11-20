@@ -1,6 +1,146 @@
 {
 "jobs": [
 {
+"id": "amz:10610408",
+"company": "Amazon",
+"title": "Business Analyst II - AMZ10237573",
+"role": "Analyst",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 1,
+"link": "https://www.amazon.jobs/en/jobs/10610408/business-analyst-ii-amz10237573",
+"posted": "November 20, 2026",
+"first_seen": "2026-11-20T21:21:21+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "amz:10610393",
+"company": "Amazon",
+"title": "Data Engineer II, Veritas, Security Tools Foundation",
+"role": "Data Engineer",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10610393/data-engineer-ii-veritas-security-tools-foundation",
+"posted": "November 20, 2026",
+"first_seen": "2026-11-20T21:21:21+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "amz:10610630",
+"company": "Amazon",
+"title": "Data Engineer, Central InfraOps Analytics Team",
+"role": "Data Engineer",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 1,
+"link": "https://www.amazon.jobs/en/jobs/10610630/data-engineer-central-infraops-analytics-team",
+"posted": "November 20, 2026",
+"first_seen": "2026-11-20T21:21:21+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "amz:10610327",
+"company": "Amazon",
+"title": "Data Engineer I",
+"role": "Data Engineer",
+"location": "Bellevue, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 1,
+"link": "https://www.amazon.jobs/en/jobs/10610327/data-engineer-i",
+"posted": "November 20, 2026",
+"first_seen": "2026-11-20T21:21:21+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "amz:10608031",
+"company": "Amazon",
+"title": "Business Intelligence Engineer II - AMZ10563803",
+"role": "BI",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 1,
+"link": "https://www.amazon.jobs/en/jobs/10608031/business-intelligence-engineer-ii-amz10563803",
+"posted": "November 18, 2026",
+"first_seen": "2026-11-20T21:21:21+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "amz:10596736",
+"company": "Amazon",
+"title": "Data Engineer II, APM Insights",
+"role": "Data Engineer",
+"location": "New York, New York, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10596736/data-engineer-ii-apm-insights",
+"posted": "November  4, 2026",
+"first_seen": "2026-11-20T21:21:21+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "ab:openai:019170f9-ae56-49fc-8450-f505d39180bb",
+"company": "openai",
+"title": "Manager, Data Engineering, Trust & Safety",
+"role": "Data Engineer",
+"location": "San Francisco (United States)",
+"mode": "Onsite/Hybrid",
+"years": null,
+"link": "https://jobs.ashbyhq.com/openai/019170f9-ae56-49fc-8450-f505d39180bb",
+"posted": "2026-11-20T19:47:11.226+00:00",
+"first_seen": "2026-11-20T21:21:21+00:00",
+"seeded": false,
+"sector": ""
+},
+{
+"id": "gh:intercom:8405770",
+"company": "Fin",
+"title": "Forward Deployed Engineer",
+"role": "FDE",
+"location": "New York, New York",
+"mode": "Onsite/Hybrid",
+"years": null,
+"link": "https://job-boards.greenhouse.io/intercom/jobs/8405770",
+"posted": "2026-11-20T09:33:55-05:00",
+"first_seen": "2026-11-20T21:21:21+00:00",
+"seeded": false,
+"sector": ""
+},
+{
+"id": "ab:cursor:9f5d7596-501a-4934-9a25-daba53412e95",
+"company": "cursor",
+"title": "Regional Director, Forward Deployed Engineering - Financial Services",
+"role": "FDE",
+"location": "New York, NY (United States)",
+"mode": "Onsite",
+"years": null,
+"link": "https://jobs.ashbyhq.com/cursor/9f5d7596-501a-4934-9a25-daba53412e95",
+"posted": "2026-11-18T17:29:42.285+00:00",
+"first_seen": "2026-11-20T21:21:21+00:00",
+"seeded": false,
+"sector": ""
+},
+{
+"id": "lv:veeva:6b656fac-75cf-4768-ad43-9422124892d6",
+"company": "veeva",
+"title": "Data Analyst - OpenData Commercial - Asia Pacific",
+"role": "Data Analyst",
+"location": "Taiwan - Taipei",
+"mode": "Remote",
+"years": 3,
+"link": "https://jobs.lever.co/veeva/6b656fac-75cf-4768-ad43-9422124892d6",
+"posted": "2025-03-19T15:21:59+00:00",
+"first_seen": "2026-11-20T21:21:21+00:00",
+"seeded": false,
+"sector": ""
+},
+{
 "id": "amz:10609538",
 "company": "Amazon",
 "title": "Data Engineer II, Global Logistics, Exports",
@@ -197,20 +337,6 @@
 "sector": "retail"
 },
 {
-"id": "gh:datadog:8346224",
-"company": "Datadog",
-"title": "Senior Forward Deployed Engineer",
-"role": "FDE",
-"location": "Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA",
-"mode": "Onsite/Hybrid",
-"years": null,
-"link": "https://careers.datadoghq.com/detail/8346224/?gh_jid=8346224",
-"posted": "2026-11-16T17:01:15-05:00",
-"first_seen": "2026-11-17T02:35:41+00:00",
-"seeded": false,
-"sector": ""
-},
-{
 "id": "amz:10604286",
 "company": "Amazon",
 "title": "Business Analyst III - AMZ28201.1",
@@ -227,7 +353,7 @@
 {
 "id": "ab:openai:2d1901e0-e5ad-4c2e-88f8-dd9d21257f62",
 "company": "openai",
-"title": "Data Engineering Manager, Devices",
+"title": "Data Engineering Manager, IO/Devices",
 "role": "Data Engineer",
 "location": "San Francisco (United States)",
 "mode": "Onsite/Hybrid",
@@ -631,34 +757,6 @@
 "sector": ""
 },
 {
-"id": "amz:10591987",
-"company": "Amazon",
-"title": "Senior Robotics Data Engineer, Frontier AI & Robotics (FAR)",
-"role": "Data Engineer",
-"location": "San Francisco, California, USA",
-"mode": "Onsite/Hybrid",
-"years": null,
-"link": "https://www.amazon.jobs/en/jobs/10591987/senior-robotics-data-engineer-frontier-ai-robotics-far",
-"posted": "October 29, 2026",
-"first_seen": "2026-11-03T01:44:19+00:00",
-"seeded": false,
-"sector": "retail"
-},
-{
-"id": "amz:10592596",
-"company": "Amazon",
-"title": "Robotics Data Engineer, Frontier AI & Robotics (FAR)",
-"role": "Data Engineer",
-"location": "San Francisco, California, USA",
-"mode": "Onsite/Hybrid",
-"years": null,
-"link": "https://www.amazon.jobs/en/jobs/10592596/robotics-data-engineer-frontier-ai-robotics-far",
-"posted": "October 29, 2026",
-"first_seen": "2026-11-03T01:44:19+00:00",
-"seeded": false,
-"sector": "retail"
-},
-{
 "id": "gh:aloyoga:6235113004",
 "company": " ALO",
 "title": "Retail Planning Analyst",
@@ -697,20 +795,6 @@
 "link": "https://www.amazon.jobs/en/jobs/10592660/senior-financial-analyst-aws-data-center-finance",
 "posted": "October 29, 2026",
 "first_seen": "2026-10-29T21:13:22+00:00",
-"seeded": false,
-"sector": "retail"
-},
-{
-"id": "amz:10592334",
-"company": "Amazon",
-"title": "Data Engineer, WW Ops Finance S&A ",
-"role": "Data Engineer",
-"location": "Bellevue, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10592334/data-engineer-ww-ops-finance-s-a",
-"posted": "October 29, 2026",
-"first_seen": "2026-10-29T16:18:09+00:00",
 "seeded": false,
 "sector": "retail"
 },
@@ -1326,20 +1410,6 @@
 "years": 2,
 "link": "https://jobs.ashbyhq.com/openai/5bbc43df-558a-4e4b-a0cf-83f185c664d7",
 "posted": "2026-09-23T13:30:38.483+00:00",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": ""
-},
-{
-"id": "ab:openai:acbf80cd-20a7-47fe-aaf9-3e9224d1570c",
-"company": "openai",
-"title": "Data Engineering Manager, Growth & Revenue",
-"role": "Data Engineer",
-"location": "San Francisco (United States)",
-"mode": "Onsite/Hybrid",
-"years": null,
-"link": "https://jobs.ashbyhq.com/openai/acbf80cd-20a7-47fe-aaf9-3e9224d1570c",
-"posted": "2026-09-14T22:39:38.571+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
 "seeded": true,
 "sector": ""
@@ -2325,5 +2395,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-19T23:38:48+00:00"
+"updated": "2026-11-20T21:21:21+00:00"
 }
