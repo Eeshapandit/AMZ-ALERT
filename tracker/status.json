@@ -150,7 +150,7 @@
   },
   "ashby:ramp": {
    "matching": 2,
-   "open": 185
+   "open": 186
   },
   "ashby:replit": {
    "matching": 1,
@@ -226,7 +226,7 @@
   },
   "greenhouse:anthropic": {
    "matching": 7,
-   "open": 637
+   "open": 636
   },
   "greenhouse:applovin": {
    "matching": 0,
@@ -618,7 +618,7 @@
   },
   "lever:lyrahealth": {
    "matching": 1,
-   "open": 451
+   "open": 450
   },
   "lever:matchgroup": {
    "matching": 1,
