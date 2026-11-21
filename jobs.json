@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-21T04:06:02+00:00",
+ "updated": "2026-11-21T19:48:12+00:00",
  "jobs": [
+  {
+   "id": "10610980",
+   "title": "Site EHS Manager II",
+   "location": "Rock Tavern, New York, USA",
+   "team": "fulfillment-and-operations",
+   "posted_date": "November 21, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10610980/site-ehs-manager-ii",
+   "query": "analytics",
+   "first_seen": "2026-11-21T19:48:12+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10593878",
+   "title": "Business Intelligence Engineer, Advertising Finance",
+   "location": "Seattle, Washington, USA",
+   "team": "finance",
+   "posted_date": "October 30, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10593878/business-intelligence-engineer-advertising-finance",
+   "query": "business intelligence",
+   "first_seen": "2026-11-21T19:48:12+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10607465",
+   "title": "Software Dev Engineer, AWS Agentic AI Dev Ops",
+   "location": "Seattle, Washington, USA",
+   "team": "aws",
+   "posted_date": "November 17, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10607465/software-dev-engineer-aws-agentic-ai-dev-ops",
+   "query": "AI engineer",
+   "first_seen": "2026-11-21T19:48:12+00:00",
+   "seeded": false
+  },
   {
    "id": "10610858",
    "title": "Mechanical Design Engineer, Data Center Design Engineering",
@@ -11963,42 +11999,6 @@
    "link": "https://www.amazon.jobs/en/jobs/10594407/data-center-technician-dcc-communities",
    "query": "data",
    "first_seen": "2026-11-02T16:58:07+00:00",
-   "seeded": false
-  },
-  {
-   "id": "10594486",
-   "title": "Controls Technician, Controls Deployment Service",
-   "location": "Wheatfield, Indiana, USA",
-   "team": "aws",
-   "posted_date": "November  2, 2026",
-   "years": null,
-   "link": "https://www.amazon.jobs/en/jobs/10594486/controls-technician-controls-deployment-service",
-   "query": "data",
-   "first_seen": "2026-11-02T16:58:07+00:00",
-   "seeded": false
-  },
-  {
-   "id": "10594499",
-   "title": "Site EHS Manager II",
-   "location": "Spokane, Washington, USA",
-   "team": "fulfillment-and-operations",
-   "posted_date": "November  2, 2026",
-   "years": 3,
-   "link": "https://www.amazon.jobs/en/jobs/10594499/site-ehs-manager-ii",
-   "query": "analytics",
-   "first_seen": "2026-11-02T16:58:07+00:00",
-   "seeded": false
-  },
-  {
-   "id": "10594145",
-   "title": "Staff Pharmacist , Amazon Pharmacy",
-   "location": "Monroe Twp, New Jersey, USA",
-   "team": "healthcare",
-   "posted_date": "November  2, 2026",
-   "years": null,
-   "link": "https://www.amazon.jobs/en/jobs/10594145/staff-pharmacist-amazon-pharmacy",
-   "query": "data",
-   "first_seen": "2026-11-02T06:55:19+00:00",
    "seeded": false
   }
  ]
