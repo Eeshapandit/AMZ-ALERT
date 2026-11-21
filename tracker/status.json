@@ -66,7 +66,7 @@
   },
   "ashby:harvey": {
    "matching": 6,
-   "open": 388
+   "open": 390
   },
   "ashby:hex": {
    "matching": 0,
@@ -162,7 +162,7 @@
   },
   "ashby:rothys": {
    "matching": 0,
-   "open": 74
+   "open": 73
   },
   "ashby:sierra": {
    "matching": 0,
@@ -218,7 +218,7 @@
   },
   "greenhouse:aloyoga": {
    "matching": 8,
-   "open": 736
+   "open": 735
   },
   "greenhouse:andurilindustries": {
    "matching": 12,
@@ -270,7 +270,7 @@
   },
   "greenhouse:cloudflare": {
    "matching": 2,
-   "open": 503
+   "open": 504
   },
   "greenhouse:cockroachlabs": {
    "matching": 0,
@@ -282,7 +282,7 @@
   },
   "greenhouse:databricks": {
    "matching": 23,
-   "open": 896
+   "open": 895
   },
   "greenhouse:datadog": {
    "matching": 1,
@@ -370,7 +370,7 @@
   },
   "greenhouse:hellofresh": {
    "matching": 0,
-   "open": 377
+   "open": 376
   },
   "greenhouse:imc": {
    "matching": 0,
@@ -510,7 +510,7 @@
   },
   "greenhouse:scaleai": {
    "matching": 5,
-   "open": 169
+   "open": 166
   },
   "greenhouse:seatgeek": {
    "matching": 2,
