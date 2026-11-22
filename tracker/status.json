@@ -210,7 +210,7 @@
   },
   "greenhouse:airbnb": {
    "matching": 1,
-   "open": 202
+   "open": 203
   },
   "greenhouse:airtable": {
    "matching": 0,
@@ -218,7 +218,7 @@
   },
   "greenhouse:aloyoga": {
    "matching": 8,
-   "open": 734
+   "open": 733
   },
   "greenhouse:andurilindustries": {
    "matching": 12,
@@ -226,7 +226,7 @@
   },
   "greenhouse:anthropic": {
    "matching": 7,
-   "open": 633
+   "open": 636
   },
   "greenhouse:applovin": {
    "matching": 0,
@@ -370,7 +370,7 @@
   },
   "greenhouse:hellofresh": {
    "matching": 0,
-   "open": 376
+   "open": 377
   },
   "greenhouse:imc": {
    "matching": 0,
@@ -398,7 +398,7 @@
   },
   "greenhouse:klaviyo": {
    "matching": 2,
-   "open": 126
+   "open": 124
   },
   "greenhouse:launchdarkly": {
    "matching": 0,
@@ -490,7 +490,7 @@
   },
   "greenhouse:reformation": {
    "matching": 0,
-   "open": 147
+   "open": 148
   },
   "greenhouse:robinhood": {
    "matching": 0,
@@ -506,7 +506,7 @@
   },
   "greenhouse:samsara": {
    "matching": 2,
-   "open": 299
+   "open": 300
   },
   "greenhouse:scaleai": {
    "matching": 5,
@@ -534,7 +534,7 @@
   },
   "greenhouse:stripe": {
    "matching": 6,
-   "open": 777
+   "open": 778
   },
   "greenhouse:sweetgreen": {
    "matching": 0,
@@ -618,7 +618,7 @@
   },
   "lever:lyrahealth": {
    "matching": 1,
-   "open": 453
+   "open": 451
   },
   "lever:matchgroup": {
    "matching": 1,
