@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-21T19:48:12+00:00",
+ "updated": "2026-11-22T06:33:01+00:00",
  "jobs": [
+  {
+   "id": "10610990",
+   "title": "Talent Relations Manager, On Air Talent Development ",
+   "location": "Culver City, California, USA",
+   "team": "entertainment",
+   "posted_date": "November 22, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10610990/talent-relations-manager-on-air-talent-development",
+   "query": "data",
+   "first_seen": "2026-11-22T06:33:01+00:00",
+   "seeded": false
+  },
   {
    "id": "10610980",
    "title": "Site EHS Manager II",
@@ -11985,18 +11997,6 @@
    "posted_date": "November  2, 2026",
    "years": 1,
    "link": "https://www.amazon.jobs/en/jobs/10594462/data-center-controls-tech-atlanta",
-   "query": "data",
-   "first_seen": "2026-11-02T16:58:07+00:00",
-   "seeded": false
-  },
-  {
-   "id": "10594407",
-   "title": "Data Center Technician , DCC Communities ",
-   "location": "New Carlisle, Indiana, USA",
-   "team": "aws",
-   "posted_date": "November  2, 2026",
-   "years": 2,
-   "link": "https://www.amazon.jobs/en/jobs/10594407/data-center-technician-dcc-communities",
    "query": "data",
    "first_seen": "2026-11-02T16:58:07+00:00",
    "seeded": false
