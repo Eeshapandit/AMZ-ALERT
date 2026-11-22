@@ -226,7 +226,7 @@
   },
   "greenhouse:anthropic": {
    "matching": 7,
-   "open": 635
+   "open": 633
   },
   "greenhouse:applovin": {
    "matching": 0,
@@ -282,7 +282,7 @@
   },
   "greenhouse:databricks": {
    "matching": 23,
-   "open": 895
+   "open": 893
   },
   "greenhouse:datadog": {
    "matching": 1,
@@ -362,7 +362,7 @@
   },
   "greenhouse:gymshark": {
    "matching": 0,
-   "open": 8
+   "open": 9
   },
   "greenhouse:harrys": {
    "matching": 2,
@@ -370,7 +370,7 @@
   },
   "greenhouse:hellofresh": {
    "matching": 0,
-   "open": 375
+   "open": 376
   },
   "greenhouse:imc": {
    "matching": 0,
@@ -430,7 +430,7 @@
   },
   "greenhouse:monzo": {
    "matching": 0,
-   "open": 59
+   "open": 58
   },
   "greenhouse:narvar": {
    "matching": 0,
@@ -450,7 +450,7 @@
   },
   "greenhouse:okta": {
    "matching": 1,
-   "open": 374
+   "open": 373
   },
   "greenhouse:optiver": {
    "matching": 0,
@@ -546,7 +546,7 @@
   },
   "greenhouse:toast": {
    "matching": 1,
-   "open": 325
+   "open": 324
   },
   "greenhouse:togetherai": {
    "matching": 2,
