@@ -5,7 +5,7 @@
  },
  "ok": {
   "amazon:amazon": {
-   "matching": 75,
+   "matching": 74,
    "open": 195
   },
   "ashby:abridge": {
@@ -78,7 +78,7 @@
   },
   "ashby:langchain": {
    "matching": 0,
-   "open": 102
+   "open": 100
   },
   "ashby:lightdash": {
    "matching": 0,
@@ -162,7 +162,7 @@
   },
   "ashby:rothys": {
    "matching": 0,
-   "open": 74
+   "open": 73
   },
   "ashby:sierra": {
    "matching": 0,
@@ -222,7 +222,7 @@
   },
   "greenhouse:andurilindustries": {
    "matching": 12,
-   "open": 2633
+   "open": 2632
   },
   "greenhouse:anthropic": {
    "matching": 7,
@@ -230,7 +230,7 @@
   },
   "greenhouse:applovin": {
    "matching": 0,
-   "open": 44
+   "open": 43
   },
   "greenhouse:asana": {
    "matching": 0,
@@ -281,12 +281,12 @@
    "open": 252
   },
   "greenhouse:databricks": {
-   "matching": 23,
-   "open": 893
+   "matching": 25,
+   "open": 895
   },
   "greenhouse:datadog": {
    "matching": 1,
-   "open": 382
+   "open": 383
   },
   "greenhouse:discord": {
    "matching": 2,
@@ -358,7 +358,7 @@
   },
   "greenhouse:gusto": {
    "matching": 1,
-   "open": 82
+   "open": 83
   },
   "greenhouse:gymshark": {
    "matching": 0,
@@ -430,7 +430,7 @@
   },
   "greenhouse:monzo": {
    "matching": 0,
-   "open": 58
+   "open": 53
   },
   "greenhouse:narvar": {
    "matching": 0,
@@ -450,7 +450,7 @@
   },
   "greenhouse:okta": {
    "matching": 1,
-   "open": 373
+   "open": 375
   },
   "greenhouse:optiver": {
    "matching": 0,
@@ -478,7 +478,7 @@
   },
   "greenhouse:point72": {
    "matching": 4,
-   "open": 202
+   "open": 203
   },
   "greenhouse:poshmark": {
    "matching": 0,
@@ -506,7 +506,7 @@
   },
   "greenhouse:samsara": {
    "matching": 2,
-   "open": 300
+   "open": 301
   },
   "greenhouse:scaleai": {
    "matching": 5,
@@ -566,7 +566,7 @@
   },
   "greenhouse:verkada": {
    "matching": 0,
-   "open": 352
+   "open": 353
   },
   "greenhouse:vuori": {
    "matching": 0,
@@ -618,7 +618,7 @@
   },
   "lever:lyrahealth": {
    "matching": 1,
-   "open": 451
+   "open": 452
   },
   "lever:matchgroup": {
    "matching": 1,
@@ -658,8 +658,8 @@
   }
  },
  "summary": {
-  "candidates": 333,
-  "kept": 172,
+  "candidates": 334,
+  "kept": 174,
   "sources_failed": 2,
   "sources_ok": 163
  }
