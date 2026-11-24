@@ -1,6 +1,76 @@
 {
 "jobs": [
 {
+"id": "amz:10613258",
+"company": "Amazon",
+"title": "Data Engineer II - AMZ10549866",
+"role": "Data Engineer",
+"location": "Hawthorne, California, USA",
+"mode": "Onsite/Hybrid",
+"years": 1,
+"link": "https://www.amazon.jobs/en/jobs/10613258/data-engineer-ii-amz10549866",
+"posted": "November 24, 2026",
+"first_seen": "2026-11-24T21:09:59+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "amz:10613027",
+"company": "Amazon",
+"title": "Business Analyst III - AMZ10564071",
+"role": "Analyst",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 1,
+"link": "https://www.amazon.jobs/en/jobs/10613027/business-analyst-iii-amz10564071",
+"posted": "November 24, 2026",
+"first_seen": "2026-11-24T21:09:59+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "amz:10612772",
+"company": "Amazon",
+"title": "Data Engineer, Flex Analytics",
+"role": "Data Engineer",
+"location": "Bellevue, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 1,
+"link": "https://www.amazon.jobs/en/jobs/10612772/data-engineer-flex-analytics",
+"posted": "November 24, 2026",
+"first_seen": "2026-11-24T21:09:59+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "amz:10517210",
+"company": "Amazon",
+"title": "Business Analyst, Relay Trust",
+"role": "Analyst",
+"location": "Bellevue, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10517210/business-analyst-relay-trust",
+"posted": "August 27, 2026",
+"first_seen": "2026-11-24T21:09:59+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "gh:databricks:8907988002",
+"company": "Databricks",
+"title": "Associate Forward Deployed Engineer",
+"role": "FDE",
+"location": "New York City, New York",
+"mode": "Onsite/Hybrid",
+"years": 2,
+"link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002",
+"posted": "2026-10-22T09:31:19-04:00",
+"first_seen": "2026-11-24T21:09:59+00:00",
+"seeded": false,
+"sector": ""
+},
+{
 "id": "amz:10612303",
 "company": "Amazon",
 "title": "Software Development Engineer, Data, Communications Tech",
@@ -99,20 +169,6 @@
 "sector": ""
 },
 {
-"id": "gh:databricks:8910846002",
-"company": "Databricks",
-"title": "Associate Forward Deployed Engineer",
-"role": "FDE",
-"location": "Mountain View, California",
-"mode": "Onsite/Hybrid",
-"years": 2,
-"link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002",
-"posted": "2026-10-23T11:19:31-04:00",
-"first_seen": "2026-11-23T03:47:20+00:00",
-"seeded": false,
-"sector": ""
-},
-{
 "id": "gh:stitchfix:8406513",
 "company": "Stitch Fix",
 "title": "Data Scientist",
@@ -192,20 +248,6 @@
 "years": 1,
 "link": "https://www.amazon.jobs/en/jobs/10608031/business-intelligence-engineer-ii-amz10563803",
 "posted": "November 18, 2026",
-"first_seen": "2026-11-20T21:21:21+00:00",
-"seeded": false,
-"sector": "retail"
-},
-{
-"id": "amz:10596736",
-"company": "Amazon",
-"title": "Data Engineer II, APM Insights",
-"role": "Data Engineer",
-"location": "New York, New York, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10596736/data-engineer-ii-apm-insights",
-"posted": "November  4, 2026",
 "first_seen": "2026-11-20T21:21:21+00:00",
 "seeded": false,
 "sector": "retail"
@@ -435,20 +477,6 @@
 "sector": ""
 },
 {
-"id": "amz:10604993",
-"company": "Amazon",
-"title": "Data Engineer II, AME-Outbound",
-"role": "Data Engineer",
-"location": "Seattle, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10604993/data-engineer-ii-ame-outbound",
-"posted": "November 13, 2026",
-"first_seen": "2026-11-17T02:35:41+00:00",
-"seeded": false,
-"sector": "retail"
-},
-{
 "id": "amz:10604286",
 "company": "Amazon",
 "title": "Business Analyst III - AMZ28201.1",
@@ -587,20 +615,6 @@
 "first_seen": "2026-11-11T08:14:31+00:00",
 "seeded": false,
 "sector": ""
-},
-{
-"id": "amz:10601153",
-"company": "Amazon",
-"title": "DE, Amazon Talent Solutions, ITDS Data Foundations",
-"role": "Data / AI",
-"location": "Seattle, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10601153/de-amazon-talent-solutions-itds-data-foundations",
-"posted": "November 10, 2026",
-"first_seen": "2026-11-10T21:28:15+00:00",
-"seeded": false,
-"sector": "retail"
 },
 {
 "id": "ab:pika:3800dd06-4d34-4557-a038-b8cda5980b6c",
@@ -2423,5 +2437,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-24T01:15:33+00:00"
+"updated": "2026-11-24T21:09:59+00:00"
 }
