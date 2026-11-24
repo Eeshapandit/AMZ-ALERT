@@ -375,7 +375,7 @@
   },
   "greenhouse:instacart": {
    "matching": 0,
-   "open": 96
+   "open": 95
   },
   "greenhouse:intercom": {
    "matching": 4,
@@ -447,7 +447,7 @@
   },
   "greenhouse:okta": {
    "matching": 1,
-   "open": 374
+   "open": 373
   },
   "greenhouse:optiver": {
    "matching": 0,
@@ -583,7 +583,7 @@
   },
   "greenhouse:xai": {
    "matching": 4,
-   "open": 297
+   "open": 296
   },
   "greenhouse:yotpo": {
    "matching": 0,
