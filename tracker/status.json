@@ -38,7 +38,7 @@
   },
   "ashby:cohere": {
    "matching": 2,
-   "open": 125
+   "open": 124
   },
   "ashby:confluent": {
    "matching": 0,
@@ -50,7 +50,7 @@
   },
   "ashby:decagon": {
    "matching": 0,
-   "open": 114
+   "open": 113
   },
   "ashby:deel": {
    "matching": 0,
@@ -62,11 +62,11 @@
   },
   "ashby:elevenlabs": {
    "matching": 1,
-   "open": 122
+   "open": 120
   },
   "ashby:harvey": {
    "matching": 6,
-   "open": 396
+   "open": 395
   },
   "ashby:hex": {
    "matching": 0,
@@ -114,7 +114,7 @@
   },
   "ashby:openai": {
    "matching": 26,
-   "open": 853
+   "open": 863
   },
   "ashby:perplexity": {
    "matching": 0,
@@ -126,7 +126,7 @@
   },
   "ashby:pika": {
    "matching": 2,
-   "open": 18
+   "open": 17
   },
   "ashby:pinecone": {
    "matching": 0,
@@ -134,7 +134,7 @@
   },
   "ashby:plaid": {
    "matching": 1,
-   "open": 145
+   "open": 144
   },
   "ashby:poshmark": {
    "matching": 1,
@@ -150,7 +150,7 @@
   },
   "ashby:ramp": {
    "matching": 2,
-   "open": 181
+   "open": 180
   },
   "ashby:replit": {
    "matching": 1,
@@ -170,11 +170,11 @@
   },
   "ashby:suno": {
    "matching": 0,
-   "open": 62
+   "open": 61
   },
   "ashby:supabase": {
    "matching": 1,
-   "open": 81
+   "open": 80
   },
   "ashby:tennr": {
    "matching": 5,
@@ -210,11 +210,11 @@
   },
   "greenhouse:airbnb": {
    "matching": 1,
-   "open": 198
+   "open": 199
   },
   "greenhouse:airtable": {
    "matching": 0,
-   "open": 11
+   "open": 10
   },
   "greenhouse:aloyoga": {
    "matching": 8,
@@ -222,11 +222,11 @@
   },
   "greenhouse:andurilindustries": {
    "matching": 12,
-   "open": 2609
+   "open": 2605
   },
   "greenhouse:anthropic": {
    "matching": 7,
-   "open": 631
+   "open": 630
   },
   "greenhouse:applovin": {
    "matching": 0,
@@ -258,19 +258,19 @@
   },
   "greenhouse:brex": {
    "matching": 1,
-   "open": 260
+   "open": 263
   },
   "greenhouse:carta": {
    "matching": 0,
-   "open": 80
+   "open": 81
   },
   "greenhouse:chime": {
    "matching": 2,
-   "open": 81
+   "open": 80
   },
   "greenhouse:cloudflare": {
    "matching": 2,
-   "open": 504
+   "open": 503
   },
   "greenhouse:cockroachlabs": {
    "matching": 0,
@@ -278,15 +278,15 @@
   },
   "greenhouse:coinbase": {
    "matching": 5,
-   "open": 250
+   "open": 249
   },
   "greenhouse:databricks": {
    "matching": 24,
-   "open": 883
+   "open": 888
   },
   "greenhouse:datadog": {
    "matching": 2,
-   "open": 384
+   "open": 383
   },
   "greenhouse:discord": {
    "matching": 2,
@@ -298,7 +298,7 @@
   },
   "greenhouse:doordashusa": {
    "matching": 2,
-   "open": 406
+   "open": 407
   },
   "greenhouse:dropbox": {
    "matching": 0,
@@ -334,11 +334,11 @@
   },
   "greenhouse:flatironhealth": {
    "matching": 0,
-   "open": 22
+   "open": 24
   },
   "greenhouse:flexport": {
    "matching": 0,
-   "open": 208
+   "open": 207
   },
   "greenhouse:gitlab": {
    "matching": 0,
@@ -358,7 +358,7 @@
   },
   "greenhouse:gusto": {
    "matching": 1,
-   "open": 84
+   "open": 85
   },
   "greenhouse:gymshark": {
    "matching": 0,
@@ -370,7 +370,7 @@
   },
   "greenhouse:hellofresh": {
    "matching": 0,
-   "open": 371
+   "open": 368
   },
   "greenhouse:imc": {
    "matching": 0,
@@ -386,7 +386,7 @@
   },
   "greenhouse:janestreet": {
    "matching": 2,
-   "open": 216
+   "open": 217
   },
   "greenhouse:justworks": {
    "matching": 0,
@@ -398,7 +398,7 @@
   },
   "greenhouse:klaviyo": {
    "matching": 2,
-   "open": 122
+   "open": 123
   },
   "greenhouse:launchdarkly": {
    "matching": 0,
@@ -422,11 +422,11 @@
   },
   "greenhouse:mixpanel": {
    "matching": 0,
-   "open": 39
+   "open": 38
   },
   "greenhouse:mongodb": {
    "matching": 1,
-   "open": 421
+   "open": 420
   },
   "greenhouse:monzo": {
    "matching": 0,
@@ -434,11 +434,11 @@
   },
   "greenhouse:narvar": {
    "matching": 0,
-   "open": 4
+   "open": 6
   },
   "greenhouse:newrelic": {
    "matching": 0,
-   "open": 43
+   "open": 44
   },
   "greenhouse:nextdoor": {
    "matching": 0,
@@ -450,7 +450,7 @@
   },
   "greenhouse:okta": {
    "matching": 1,
-   "open": 371
+   "open": 372
   },
   "greenhouse:optiver": {
    "matching": 0,
@@ -474,11 +474,11 @@
   },
   "greenhouse:pinterest": {
    "matching": 2,
-   "open": 172
+   "open": 169
   },
   "greenhouse:point72": {
    "matching": 4,
-   "open": 201
+   "open": 202
   },
   "greenhouse:poshmark": {
    "matching": 0,
@@ -490,15 +490,15 @@
   },
   "greenhouse:reformation": {
    "matching": 0,
-   "open": 144
+   "open": 147
   },
   "greenhouse:robinhood": {
    "matching": 0,
-   "open": 160
+   "open": 159
   },
   "greenhouse:roblox": {
    "matching": 2,
-   "open": 256
+   "open": 255
   },
   "greenhouse:route": {
    "matching": 1,
@@ -506,11 +506,11 @@
   },
   "greenhouse:samsara": {
    "matching": 2,
-   "open": 287
+   "open": 292
   },
   "greenhouse:scaleai": {
    "matching": 5,
-   "open": 160
+   "open": 159
   },
   "greenhouse:seatgeek": {
    "matching": 2,
@@ -518,7 +518,7 @@
   },
   "greenhouse:sofi": {
    "matching": 1,
-   "open": 56
+   "open": 54
   },
   "greenhouse:squarespace": {
    "matching": 0,
@@ -534,7 +534,7 @@
   },
   "greenhouse:stripe": {
    "matching": 6,
-   "open": 770
+   "open": 767
   },
   "greenhouse:sweetgreen": {
    "matching": 0,
@@ -546,7 +546,7 @@
   },
   "greenhouse:toast": {
    "matching": 0,
-   "open": 312
+   "open": 313
   },
   "greenhouse:togetherai": {
    "matching": 3,
@@ -566,7 +566,7 @@
   },
   "greenhouse:verkada": {
    "matching": 0,
-   "open": 352
+   "open": 349
   },
   "greenhouse:vuori": {
    "matching": 0,
@@ -574,7 +574,7 @@
   },
   "greenhouse:waymo": {
    "matching": 1,
-   "open": 358
+   "open": 357
   },
   "greenhouse:weee": {
    "matching": 1,
@@ -586,7 +586,7 @@
   },
   "greenhouse:xai": {
    "matching": 4,
-   "open": 299
+   "open": 298
   },
   "greenhouse:yotpo": {
    "matching": 0,
@@ -598,7 +598,7 @@
   },
   "greenhouse:zscaler": {
    "matching": 1,
-   "open": 389
+   "open": 388
   },
   "lever:binance": {
    "matching": 0,
@@ -618,7 +618,7 @@
   },
   "lever:lyrahealth": {
    "matching": 1,
-   "open": 447
+   "open": 415
   },
   "lever:matchgroup": {
    "matching": 1,
@@ -630,7 +630,7 @@
   },
   "lever:outreach": {
    "matching": 2,
-   "open": 17
+   "open": 15
   },
   "lever:palantir": {
    "matching": 21,
