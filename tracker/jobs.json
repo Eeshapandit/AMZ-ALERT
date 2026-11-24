@@ -1,6 +1,104 @@
 {
 "jobs": [
 {
+"id": "amz:10612303",
+"company": "Amazon",
+"title": "Software Development Engineer, Data, Communications Tech",
+"role": "Data / AI",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10612303/software-development-engineer-data-communications-tech",
+"posted": "November 24, 2026",
+"first_seen": "2026-11-24T01:15:33+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "amz:10612171",
+"company": "Amazon",
+"title": "Data Engineer III - AMZ10486127",
+"role": "Data Engineer",
+"location": "San Francisco, California, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://www.amazon.jobs/en/jobs/10612171/data-engineer-iii-amz10486127",
+"posted": "November 23, 2026",
+"first_seen": "2026-11-24T01:15:33+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "amz:10612129",
+"company": "Amazon",
+"title": "Robotics Software Engineer, Data Center Robotics",
+"role": "Data / AI",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 2,
+"link": "https://www.amazon.jobs/en/jobs/10612129/robotics-software-engineer-data-center-robotics",
+"posted": "November 23, 2026",
+"first_seen": "2026-11-24T01:15:33+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "amz:10608813",
+"company": "Amazon",
+"title": "Data Engineer I, Intelligent Talent Acquisition (ITA) - Data",
+"role": "Data Engineer",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 1,
+"link": "https://www.amazon.jobs/en/jobs/10608813/data-engineer-i-intelligent-talent-acquisition-ita-data",
+"posted": "November 23, 2026",
+"first_seen": "2026-11-24T01:15:33+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "amz:10611635",
+"company": "Amazon",
+"title": "Software Development Engineer - Data",
+"role": "Data / AI",
+"location": "Newark, New Jersey, USA",
+"mode": "Onsite/Hybrid",
+"years": null,
+"link": "https://www.amazon.jobs/en/jobs/10611635/software-development-engineer-data",
+"posted": "November 23, 2026",
+"first_seen": "2026-11-24T01:15:33+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "gh:togetherai:5302781007",
+"company": "Together AI",
+"title": "Forward Deployed Engineer (Applied AI)",
+"role": "FDE",
+"location": "San Francisco",
+"mode": "Onsite/Hybrid",
+"years": null,
+"link": "https://job-boards.greenhouse.io/togetherai/jobs/5302781007",
+"posted": "2026-11-23T12:35:18-05:00",
+"first_seen": "2026-11-24T01:15:33+00:00",
+"seeded": false,
+"sector": ""
+},
+{
+"id": "gh:datadog:8380309",
+"company": "Datadog",
+"title": "Manager, Forward Deployed Engineering - Implementation Services",
+"role": "FDE",
+"location": "New York, New York, USA",
+"mode": "Onsite/Hybrid",
+"years": 3,
+"link": "https://careers.datadoghq.com/detail/8380309/?gh_jid=8380309",
+"posted": "2026-11-23T12:11:10-05:00",
+"first_seen": "2026-11-24T01:15:33+00:00",
+"seeded": false,
+"sector": ""
+},
+{
 "id": "gh:databricks:8910846002",
 "company": "Databricks",
 "title": "Associate Forward Deployed Engineer",
@@ -13,34 +111,6 @@
 "first_seen": "2026-11-23T03:47:20+00:00",
 "seeded": false,
 "sector": ""
-},
-{
-"id": "gh:databricks:8907988002",
-"company": "Databricks",
-"title": "Associate Forward Deployed Engineer",
-"role": "FDE",
-"location": "New York City, New York",
-"mode": "Onsite/Hybrid",
-"years": 2,
-"link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002",
-"posted": "2026-10-22T09:31:19-04:00",
-"first_seen": "2026-11-23T03:47:20+00:00",
-"seeded": false,
-"sector": ""
-},
-{
-"id": "amz:10610858",
-"company": "Amazon",
-"title": "Mechanical Design Engineer, Data Center Design Engineering",
-"role": "Data / AI",
-"location": "Seattle, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 2,
-"link": "https://www.amazon.jobs/en/jobs/10610858/mechanical-design-engineer-data-center-design-engineering",
-"posted": "November 20, 2026",
-"first_seen": "2026-11-21T02:38:47+00:00",
-"seeded": false,
-"sector": "retail"
 },
 {
 "id": "gh:stitchfix:8406513",
@@ -365,20 +435,6 @@
 "sector": ""
 },
 {
-"id": "gh:toast:8359240",
-"company": "Toast",
-"title": "Data Engineer",
-"role": "Data Engineer",
-"location": "Remote, US ",
-"mode": "Remote",
-"years": 2,
-"link": "https://careers.toasttab.com/jobs?gh_jid=8359240",
-"posted": "2026-11-17T15:59:15-05:00",
-"first_seen": "2026-11-18T01:58:29+00:00",
-"seeded": false,
-"sector": ""
-},
-{
 "id": "amz:10604993",
 "company": "Amazon",
 "title": "Data Engineer II, AME-Outbound",
@@ -505,20 +561,6 @@
 "sector": ""
 },
 {
-"id": "amz:10600808",
-"company": "Amazon",
-"title": "System Development Engineer, AWS Data Center Procurement Governance (DCPG)",
-"role": "Data / AI",
-"location": "Seattle, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10600808/system-development-engineer-aws-data-center-procurement-governance-dcpg",
-"posted": "November 11, 2026",
-"first_seen": "2026-11-12T03:30:20+00:00",
-"seeded": false,
-"sector": "retail"
-},
-{
 "id": "gh:zscaler:5282847007",
 "company": "Zscaler",
 "title": "Principal GenAI Data Engineer ",
@@ -643,20 +685,6 @@
 "first_seen": "2026-11-06T03:41:12+00:00",
 "seeded": false,
 "sector": ""
-},
-{
-"id": "amz:10597835",
-"company": "Amazon",
-"title": "Software Development Engineer, Kinesis Data Streams",
-"role": "Data / AI",
-"location": "Seattle, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10597835/software-development-engineer-kinesis-data-streams",
-"posted": "November  5, 2026",
-"first_seen": "2026-11-05T23:41:21+00:00",
-"seeded": false,
-"sector": "retail"
 },
 {
 "id": "gh:aloyoga:6250252004",
@@ -837,20 +865,6 @@
 "link": "https://www.amazon.jobs/en/jobs/10592660/senior-financial-analyst-aws-data-center-finance",
 "posted": "October 29, 2026",
 "first_seen": "2026-10-29T21:13:22+00:00",
-"seeded": false,
-"sector": "retail"
-},
-{
-"id": "amz:10552219",
-"company": "Amazon",
-"title": "Senior Financial Analyst, Data & Financial Modeling \u2013 Operations Finance, North America 3P External Fulfillment Finance",
-"role": "Data / AI",
-"location": "New York, New York, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10552219/senior-financial-analyst-data-financial-modeling-operations-finance-north-america-3p-external-fulfillment-finance",
-"posted": "September 17, 2026",
-"first_seen": "2026-10-28T14:39:35+00:00",
 "seeded": false,
 "sector": "retail"
 },
@@ -2059,20 +2073,6 @@
 "sector": ""
 },
 {
-"id": "ab:cognition:f1430967-f367-4afe-9107-e58da423633c",
-"company": "cognition",
-"title": "Forward Deployed Engineer - Federal",
-"role": "FDE",
-"location": "Washington DC; San Francisco (United States)",
-"mode": "Hybrid",
-"years": null,
-"link": "https://jobs.ashbyhq.com/cognition/f1430967-f367-4afe-9107-e58da423633c",
-"posted": "2026-01-26T23:26:14.041+00:00",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": ""
-},
-{
 "id": "gh:brex:8366850002",
 "company": "Brex",
 "title": "Data Engineer",
@@ -2409,20 +2409,6 @@
 "sector": ""
 },
 {
-"id": "lv:palantir:4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
-"company": "palantir",
-"title": "Forward Deployed Software Engineer, Internship - Commercial",
-"role": "FDE",
-"location": "New York, NY",
-"mode": "Onsite",
-"years": null,
-"link": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
-"posted": "2016-02-24T23:37:05+00:00",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": ""
-},
-{
 "id": "lv:palantir:dab396d4-2f14-4796-aac0-0d82883dccf0",
 "company": "palantir",
 "title": "Forward Deployed Software Engineer",
@@ -2437,5 +2423,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-23T03:47:20+00:00"
+"updated": "2026-11-24T01:15:33+00:00"
 }
