@@ -1,7 +1,6 @@
 {
  "errors": {
   "greenhouse:quip": "HTTPError: HTTP Error 404: Not Found",
-  "lever:lyrahealth": "HTTPError: HTTP Error 502: Bad Gateway",
   "lever:mistral": "HTTPError: HTTP Error 404: Not Found"
  },
  "ok": {
@@ -617,6 +616,10 @@
    "matching": 0,
    "open": 0
   },
+  "lever:lyrahealth": {
+   "matching": 1,
+   "open": 447
+  },
   "lever:matchgroup": {
    "matching": 1,
    "open": 73
@@ -655,9 +658,9 @@
   }
  },
  "summary": {
-  "candidates": 330,
+  "candidates": 331,
   "kept": 173,
-  "sources_failed": 3,
-  "sources_ok": 162
+  "sources_failed": 2,
+  "sources_ok": 163
  }
 }
