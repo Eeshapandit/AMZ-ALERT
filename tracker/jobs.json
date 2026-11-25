@@ -1,6 +1,62 @@
 {
 "jobs": [
 {
+"id": "gh:zola:8963080002",
+"company": "Zola",
+"title": "Director of Analytics",
+"role": "Data / AI",
+"location": "New York, New York",
+"mode": "Onsite/Hybrid",
+"years": null,
+"link": "https://www.zola.com/about/jobs?gh_jid=8963080002",
+"posted": "2026-11-25T17:08:20-05:00",
+"first_seen": "2026-11-25T23:15:56+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "gh:intercom:8417303",
+"company": "Fin",
+"title": "Senior Forward Deployed Product Manager (NYC)",
+"role": "FDE",
+"location": "New York, New York",
+"mode": "Onsite/Hybrid",
+"years": null,
+"link": "https://job-boards.greenhouse.io/intercom/jobs/8417303",
+"posted": "2026-11-25T11:15:38-05:00",
+"first_seen": "2026-11-25T23:15:56+00:00",
+"seeded": false,
+"sector": ""
+},
+{
+"id": "gh:doordashusa:8168866",
+"company": "DoorDash USA",
+"title": "Senior Security Data Engineer",
+"role": "Data Engineer",
+"location": "United States - Remote",
+"mode": "Remote",
+"years": null,
+"link": "https://job-boards.greenhouse.io/doordashusa/jobs/8168866",
+"posted": "2026-09-01T08:37:29-04:00",
+"first_seen": "2026-11-25T23:15:56+00:00",
+"seeded": false,
+"sector": ""
+},
+{
+"id": "gh:intercom:7111007",
+"company": "Fin",
+"title": "Senior Forward Deployed Product Manager ",
+"role": "FDE",
+"location": "San Francisco, California",
+"mode": "Onsite/Hybrid",
+"years": null,
+"link": "https://job-boards.greenhouse.io/intercom/jobs/7111007",
+"posted": "2025-07-28T13:07:36-04:00",
+"first_seen": "2026-11-25T23:15:56+00:00",
+"seeded": false,
+"sector": ""
+},
+{
 "id": "ab:cognition:0ad5c578-71c4-47aa-b0b3-6c79a6343c96",
 "company": "cognition",
 "title": "Forward Deployed Engineer - MENA",
@@ -981,20 +1037,6 @@
 "sector": "retail"
 },
 {
-"id": "lv:gopuff:8783c988-e446-43a7-8a7d-b34a58397d22",
-"company": "gopuff",
-"title": "Senior Data Scientist - Delivery Tech",
-"role": "Data Scientist",
-"location": "United States",
-"mode": "Remote",
-"years": 2,
-"link": "https://jobs.lever.co/gopuff/8783c988-e446-43a7-8a7d-b34a58397d22",
-"posted": "2026-10-14T19:12:15+00:00",
-"first_seen": "2026-10-28T14:39:35+00:00",
-"seeded": false,
-"sector": "retail"
-},
-{
 "id": "gh:attentive:4415182009",
 "company": "Attentive",
 "title": "Senior Director, Product Management (AI/ML)",
@@ -1060,20 +1102,6 @@
 "years": 3,
 "link": "https://www.amazon.jobs/en/jobs/10585967/forward-deployed-engineer-model-customization-and-optimization-aws-forward-deployed-engineering",
 "posted": "October 23, 2026",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": "retail"
-},
-{
-"id": "amz:10583533",
-"company": "Amazon",
-"title": "Forward Deployed Engineer, Forward Deployment Engineering",
-"role": "FDE",
-"location": "Seattle, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://www.amazon.jobs/en/jobs/10583533/forward-deployed-engineer-forward-deployment-engineering",
-"posted": "October 20, 2026",
 "first_seen": "2026-10-28T14:15:32+00:00",
 "seeded": true,
 "sector": "retail"
@@ -1746,20 +1774,6 @@
 "years": null,
 "link": "https://jobs.ashbyhq.com/cursor/6960dfef-6dc1-4dbb-887b-0fc9e6e4292e",
 "posted": "2026-07-23T18:55:03.369+00:00",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": ""
-},
-{
-"id": "lv:zoox:5e03b357-0cc1-4194-9488-14f85044f4f9",
-"company": "zoox",
-"title": "Contract  Student Worker - Data Analyst (Part-time)",
-"role": "Data Analyst",
-"location": "Foster City, CA",
-"mode": "Onsite",
-"years": null,
-"link": "https://jobs.lever.co/zoox/5e03b357-0cc1-4194-9488-14f85044f4f9",
-"posted": "2026-07-20T21:28:23+00:00",
 "first_seen": "2026-10-28T14:15:32+00:00",
 "seeded": true,
 "sector": ""
@@ -2451,5 +2465,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-25T14:31:32+00:00"
+"updated": "2026-11-25T23:15:56+00:00"
 }
