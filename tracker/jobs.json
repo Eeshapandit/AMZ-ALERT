@@ -1,6 +1,48 @@
 {
 "jobs": [
 {
+"id": "ab:cognition:0ad5c578-71c4-47aa-b0b3-6c79a6343c96",
+"company": "cognition",
+"title": "Forward Deployed Engineer - MENA",
+"role": "FDE",
+"location": "Riyadh (Saudi Arabia)",
+"mode": "Remote",
+"years": null,
+"link": "https://jobs.ashbyhq.com/cognition/0ad5c578-71c4-47aa-b0b3-6c79a6343c96",
+"posted": "2026-11-25T11:08:11.604+00:00",
+"first_seen": "2026-11-25T14:31:32+00:00",
+"seeded": false,
+"sector": ""
+},
+{
+"id": "ab:cognition:3e6e7519-b71a-45e9-a913-4a17d8741688",
+"company": "cognition",
+"title": "Forward Deployed Engineer - Dubai",
+"role": "FDE",
+"location": "Dubai (United Arab Emirates)",
+"mode": "Remote",
+"years": null,
+"link": "https://jobs.ashbyhq.com/cognition/3e6e7519-b71a-45e9-a913-4a17d8741688",
+"posted": "2026-11-25T11:07:21.885+00:00",
+"first_seen": "2026-11-25T14:31:32+00:00",
+"seeded": false,
+"sector": ""
+},
+{
+"id": "gh:intercom:8416797",
+"company": "Fin",
+"title": "Senior Forward Deployed Data Scientist",
+"role": "FDE",
+"location": "New York, New York",
+"mode": "Onsite/Hybrid",
+"years": null,
+"link": "https://job-boards.greenhouse.io/intercom/jobs/8416797",
+"posted": "2026-11-25T08:10:11-05:00",
+"first_seen": "2026-11-25T14:31:32+00:00",
+"seeded": false,
+"sector": ""
+},
+{
 "id": "gh:stitchfix:8415439",
 "company": "Stitch Fix",
 "title": "Principal Full-Stack Data Scientist  - Foundational Models  ",
@@ -346,20 +388,6 @@
 "years": null,
 "link": "https://jobs.lever.co/outreach/b7eb292a-f68f-4266-b67a-049c6cafba48",
 "posted": "2026-11-19T17:56:41+00:00",
-"first_seen": "2026-11-19T23:38:48+00:00",
-"seeded": false,
-"sector": ""
-},
-{
-"id": "gh:intercom:8403398",
-"company": "Fin",
-"title": "Senior Forward Deployed Data Scientist",
-"role": "FDE",
-"location": "New York, New York",
-"mode": "Onsite/Hybrid",
-"years": null,
-"link": "https://job-boards.greenhouse.io/intercom/jobs/8403398",
-"posted": "2026-11-19T14:32:20-05:00",
 "first_seen": "2026-11-19T23:38:48+00:00",
 "seeded": false,
 "sector": ""
@@ -859,8 +887,8 @@
 "company": "Fin",
 "title": "Forward Deployed Engineer",
 "role": "FDE",
-"location": "NYC, Remote; San Francisco, California",
-"mode": "Remote",
+"location": "San Francisco, California",
+"mode": "Onsite/Hybrid",
 "years": null,
 "link": "https://job-boards.greenhouse.io/intercom/jobs/8333690",
 "posted": "2026-10-30T07:51:29-04:00",
@@ -2423,5 +2451,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-25T04:12:50+00:00"
+"updated": "2026-11-25T14:31:32+00:00"
 }
