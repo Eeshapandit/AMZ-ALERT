@@ -127,20 +127,6 @@
 "sector": "retail"
 },
 {
-"id": "amz:10613027",
-"company": "Amazon",
-"title": "Business Analyst III - AMZ10564071",
-"role": "Analyst",
-"location": "Seattle, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 1,
-"link": "https://www.amazon.jobs/en/jobs/10613027/business-analyst-iii-amz10564071",
-"posted": "November 24, 2026",
-"first_seen": "2026-11-24T21:09:59+00:00",
-"seeded": false,
-"sector": "retail"
-},
-{
 "id": "amz:10612772",
 "company": "Amazon",
 "title": "Data Engineer, Flex Analytics",
@@ -2465,5 +2451,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-25T23:15:56+00:00"
+"updated": "2026-11-25T23:20:20+00:00"
 }
