@@ -1,5 +1,6 @@
 {
  "errors": {
+  "greenhouse:andurilindustries": "TimeoutError: The read operation timed out",
   "greenhouse:quip": "HTTPError: HTTP Error 404: Not Found",
   "lever:mistral": "HTTPError: HTTP Error 404: Not Found"
  },
@@ -219,10 +220,6 @@
   "greenhouse:aloyoga": {
    "matching": 8,
    "open": 725
-  },
-  "greenhouse:andurilindustries": {
-   "matching": 11,
-   "open": 2602
   },
   "greenhouse:anthropic": {
    "matching": 7,
@@ -506,7 +503,7 @@
   },
   "greenhouse:samsara": {
    "matching": 2,
-   "open": 293
+   "open": 294
   },
   "greenhouse:scaleai": {
    "matching": 5,
@@ -658,9 +655,9 @@
   }
  },
  "summary": {
-  "candidates": 332,
+  "candidates": 321,
   "kept": 175,
-  "sources_failed": 2,
-  "sources_ok": 163
+  "sources_failed": 3,
+  "sources_ok": 162
  }
 }
