@@ -1,6 +1,20 @@
 {
 "jobs": [
 {
+"id": "gh:stitchfix:8415439",
+"company": "Stitch Fix",
+"title": "Principal Full-Stack Data Scientist  - Foundational Models  ",
+"role": "Data Scientist",
+"location": "Remote, USA",
+"mode": "Remote",
+"years": null,
+"link": "https://www.stitchfix.com/careers/jobs?gh_jid=8415439&gh_jid=8415439",
+"posted": "2026-11-24T17:08:01-05:00",
+"first_seen": "2026-11-25T04:12:50+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
 "id": "amz:10613258",
 "company": "Amazon",
 "title": "Data Engineer II - AMZ10549866",
@@ -811,20 +825,6 @@
 "first_seen": "2026-11-05T02:54:01+00:00",
 "seeded": false,
 "sector": ""
-},
-{
-"id": "gh:stitchfix:8351087",
-"company": "Stitch Fix",
-"title": "Principal Full-Stack Data Scientist  - Foundational Models  ",
-"role": "Data Scientist",
-"location": "Remote, USA",
-"mode": "Remote",
-"years": null,
-"link": "https://www.stitchfix.com/careers/jobs?gh_jid=8351087&gh_jid=8351087",
-"posted": "2026-11-03T16:32:37-05:00",
-"first_seen": "2026-11-03T21:59:28+00:00",
-"seeded": false,
-"sector": "retail"
 },
 {
 "id": "gh:andurilindustries:4263030007",
@@ -1821,20 +1821,6 @@
 "sector": ""
 },
 {
-"id": "gh:andurilindustries:5114654007",
-"company": "Anduril Industries",
-"title": "Product Data Engineer",
-"role": "Data Engineer",
-"location": "Costa Mesa, California, United States",
-"mode": "Onsite/Hybrid",
-"years": 3,
-"link": "https://boards.greenhouse.io/andurilindustries/jobs/5114654007?gh_jid=5114654007",
-"posted": "2026-06-29T14:20:26-04:00",
-"first_seen": "2026-10-28T14:15:32+00:00",
-"seeded": true,
-"sector": ""
-},
-{
 "id": "gh:datadog:8003181",
 "company": "Datadog",
 "title": "Forward Deployed Engineering Manager - Datadog for Startups",
@@ -2437,5 +2423,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-24T21:09:59+00:00"
+"updated": "2026-11-25T04:12:50+00:00"
 }
