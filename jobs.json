@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-25T01:01:41+00:00",
+ "updated": "2026-11-25T09:49:57+00:00",
  "jobs": [
+  {
+   "id": "10613645",
+   "title": "Investigation Specialist I , Amazon Relay",
+   "location": "Atlanta, Georgia, USA",
+   "team": "fulfillment-and-operations",
+   "posted_date": "November 25, 2026",
+   "years": 1,
+   "link": "https://www.amazon.jobs/en/jobs/10613645/investigation-specialist-i-amazon-relay",
+   "query": "data",
+   "first_seen": "2026-11-25T09:49:57+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10613799",
+   "title": "Software Dev Engineer II, GenAIUX",
+   "location": "Seattle, Washington, USA",
+   "team": "aws",
+   "posted_date": "November 25, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10613799/software-dev-engineer-ii-genaiux",
+   "query": "data",
+   "first_seen": "2026-11-25T09:49:57+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10613744",
+   "title": "Senior Financial Analyst, Global Prime Finance",
+   "location": "Seattle, Washington, USA",
+   "team": "finance",
+   "posted_date": "November 25, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10613744/senior-financial-analyst-global-prime-finance",
+   "query": "data",
+   "first_seen": "2026-11-25T09:49:57+00:00",
+   "seeded": false
+  },
   {
    "id": "10613557",
    "title": "Critical Infrastructure Electrical Engineer, Field Engineering",
@@ -11961,42 +11997,6 @@
    "posted_date": "November  5, 2026",
    "years": 2,
    "link": "https://www.amazon.jobs/en/jobs/10597560/engineering-operation-technician",
-   "query": "data",
-   "first_seen": "2026-11-05T16:54:14+00:00",
-   "seeded": false
-  },
-  {
-   "id": "10597570",
-   "title": "Engineering Operation Technician\n",
-   "location": "Jeffersonville, Ohio, USA",
-   "team": "aws",
-   "posted_date": "November  5, 2026",
-   "years": 2,
-   "link": "https://www.amazon.jobs/en/jobs/10597570/engineering-operation-technician",
-   "query": "data",
-   "first_seen": "2026-11-05T16:54:14+00:00",
-   "seeded": false
-  },
-  {
-   "id": "10597569",
-   "title": "Engineering Operation Technician\n",
-   "location": "Jeffersonville, Ohio, USA",
-   "team": "aws",
-   "posted_date": "November  5, 2026",
-   "years": 2,
-   "link": "https://www.amazon.jobs/en/jobs/10597569/engineering-operation-technician",
-   "query": "data",
-   "first_seen": "2026-11-05T16:54:14+00:00",
-   "seeded": false
-  },
-  {
-   "id": "10597568",
-   "title": "Engineering Operation Technician\n",
-   "location": "Jeffersonville, Ohio, USA",
-   "team": "aws",
-   "posted_date": "November  5, 2026",
-   "years": 2,
-   "link": "https://www.amazon.jobs/en/jobs/10597568/engineering-operation-technician",
    "query": "data",
    "first_seen": "2026-11-05T16:54:14+00:00",
    "seeded": false
