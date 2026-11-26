@@ -50,7 +50,7 @@
   },
   "ashby:decagon": {
    "matching": 0,
-   "open": 106
+   "open": 101
   },
   "ashby:deel": {
    "matching": 0,
@@ -66,11 +66,11 @@
   },
   "ashby:harvey": {
    "matching": 6,
-   "open": 390
+   "open": 391
   },
   "ashby:hex": {
    "matching": 0,
-   "open": 44
+   "open": 45
   },
   "ashby:hightouch": {
    "matching": 0,
@@ -166,7 +166,7 @@
   },
   "ashby:sierra": {
    "matching": 0,
-   "open": 204
+   "open": 203
   },
   "ashby:suno": {
    "matching": 0,
@@ -174,7 +174,7 @@
   },
   "ashby:supabase": {
    "matching": 1,
-   "open": 83
+   "open": 82
   },
   "ashby:tennr": {
    "matching": 5,
@@ -186,7 +186,7 @@
   },
   "ashby:watershed": {
    "matching": 0,
-   "open": 41
+   "open": 42
   },
   "ashby:weaviate": {
    "matching": 0,
@@ -206,11 +206,11 @@
   },
   "greenhouse:affirm": {
    "matching": 0,
-   "open": 210
+   "open": 216
   },
   "greenhouse:airbnb": {
    "matching": 0,
-   "open": 199
+   "open": 202
   },
   "greenhouse:airtable": {
    "matching": 0,
@@ -222,7 +222,7 @@
   },
   "greenhouse:andurilindustries": {
    "matching": 11,
-   "open": 2600
+   "open": 2599
   },
   "greenhouse:anthropic": {
    "matching": 7,
@@ -234,7 +234,7 @@
   },
   "greenhouse:asana": {
    "matching": 0,
-   "open": 109
+   "open": 107
   },
   "greenhouse:attentive": {
    "matching": 7,
@@ -270,7 +270,7 @@
   },
   "greenhouse:cloudflare": {
    "matching": 2,
-   "open": 525
+   "open": 528
   },
   "greenhouse:cockroachlabs": {
    "matching": 0,
@@ -278,15 +278,15 @@
   },
   "greenhouse:coinbase": {
    "matching": 5,
-   "open": 257
+   "open": 256
   },
   "greenhouse:databricks": {
    "matching": 25,
-   "open": 880
+   "open": 882
   },
   "greenhouse:datadog": {
    "matching": 2,
-   "open": 391
+   "open": 392
   },
   "greenhouse:discord": {
    "matching": 3,
@@ -314,7 +314,7 @@
   },
   "greenhouse:elastic": {
    "matching": 0,
-   "open": 377
+   "open": 375
   },
   "greenhouse:everlane": {
    "matching": 1,
@@ -322,7 +322,7 @@
   },
   "greenhouse:faire": {
    "matching": 0,
-   "open": 71
+   "open": 73
   },
   "greenhouse:figma": {
    "matching": 2,
@@ -370,7 +370,7 @@
   },
   "greenhouse:hellofresh": {
    "matching": 0,
-   "open": 355
+   "open": 359
   },
   "greenhouse:imc": {
    "matching": 0,
@@ -381,8 +381,8 @@
    "open": 97
   },
   "greenhouse:intercom": {
-   "matching": 6,
-   "open": 133
+   "matching": 7,
+   "open": 134
   },
   "greenhouse:janestreet": {
    "matching": 2,
@@ -398,7 +398,7 @@
   },
   "greenhouse:klaviyo": {
    "matching": 2,
-   "open": 124
+   "open": 123
   },
   "greenhouse:launchdarkly": {
    "matching": 0,
@@ -430,7 +430,7 @@
   },
   "greenhouse:monzo": {
    "matching": 0,
-   "open": 57
+   "open": 58
   },
   "greenhouse:narvar": {
    "matching": 0,
@@ -446,7 +446,7 @@
   },
   "greenhouse:nuro": {
    "matching": 0,
-   "open": 107
+   "open": 106
   },
   "greenhouse:okta": {
    "matching": 1,
@@ -494,11 +494,11 @@
   },
   "greenhouse:robinhood": {
    "matching": 0,
-   "open": 163
+   "open": 162
   },
   "greenhouse:roblox": {
    "matching": 2,
-   "open": 254
+   "open": 255
   },
   "greenhouse:route": {
    "matching": 1,
@@ -518,7 +518,7 @@
   },
   "greenhouse:sofi": {
    "matching": 0,
-   "open": 57
+   "open": 58
   },
   "greenhouse:squarespace": {
    "matching": 0,
@@ -534,7 +534,7 @@
   },
   "greenhouse:stripe": {
    "matching": 6,
-   "open": 769
+   "open": 768
   },
   "greenhouse:sweetgreen": {
    "matching": 0,
@@ -598,7 +598,7 @@
   },
   "greenhouse:zscaler": {
    "matching": 1,
-   "open": 389
+   "open": 388
   },
   "lever:binance": {
    "matching": 0,
@@ -626,7 +626,7 @@
   },
   "lever:nium": {
    "matching": 0,
-   "open": 32
+   "open": 36
   },
   "lever:outreach": {
    "matching": 2,
@@ -646,7 +646,7 @@
   },
   "lever:veeva": {
    "matching": 2,
-   "open": 873
+   "open": 874
   },
   "lever:whoop": {
    "matching": 0,
@@ -658,8 +658,8 @@
   }
  },
  "summary": {
-  "candidates": 333,
-  "kept": 176,
+  "candidates": 334,
+  "kept": 177,
   "sources_failed": 2,
   "sources_ok": 163
  }

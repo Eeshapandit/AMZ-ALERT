@@ -1,6 +1,20 @@
 {
 "jobs": [
 {
+"id": "gh:intercom:8419409",
+"company": "Fin",
+"title": "Senior Director, Forward Deployed Engineering",
+"role": "FDE",
+"location": "Chicago, Illinois; New York, New York; San Francisco, California",
+"mode": "Onsite/Hybrid",
+"years": null,
+"link": "https://job-boards.greenhouse.io/intercom/jobs/8419409",
+"posted": "2026-11-26T15:29:36-05:00",
+"first_seen": "2026-11-26T23:56:50+00:00",
+"seeded": false,
+"sector": ""
+},
+{
 "id": "amz:10614931",
 "company": "Amazon",
 "title": "Business Analyst III - AMZ10564071",
@@ -2465,5 +2479,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-26T15:22:42+00:00"
+"updated": "2026-11-26T23:56:50+00:00"
 }
