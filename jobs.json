@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-25T19:41:53+00:00",
+ "updated": "2026-11-26T02:29:18+00:00",
  "jobs": [
+  {
+   "id": "10614931",
+   "title": "Business Analyst III - AMZ10564071",
+   "location": "Seattle, Washington, USA",
+   "team": "no-business-category",
+   "posted_date": "November 25, 2026",
+   "years": null,
+   "link": "https://www.amazon.jobs/en/jobs/10614931/business-analyst-iii-amz10564071",
+   "query": "data",
+   "first_seen": "2026-11-26T02:29:18+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10597768",
+   "title": "Data Engineer II, Eva Trust Dev Team",
+   "location": "Bellevue, Washington, USA",
+   "team": "aws",
+   "posted_date": "November  5, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10597768/data-engineer-ii-eva-trust-dev-team",
+   "query": "data engineer",
+   "first_seen": "2026-11-26T02:29:18+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10610714",
+   "title": "Sr. Technical Product Manager, Forward Deployed Engineering GTM",
+   "location": "Austin, Texas, USA",
+   "team": "aws",
+   "posted_date": "November 25, 2026",
+   "years": null,
+   "link": "https://www.amazon.jobs/en/jobs/10610714/sr-technical-product-manager-forward-deployed-engineering-gtm",
+   "query": "analytics",
+   "first_seen": "2026-11-26T02:29:18+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10614480",
+   "title": "Software Development Engineer, Amazon Quick",
+   "location": "Seattle, Washington, USA",
+   "team": "aws",
+   "posted_date": "November 25, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10614480/software-development-engineer-amazon-quick",
+   "query": "machine learning",
+   "first_seen": "2026-11-26T02:29:18+00:00",
+   "seeded": false
+  },
   {
    "id": "10614024",
    "title": "Sourcing Recruiter",
@@ -11949,54 +11997,6 @@
    "posted_date": "November  5, 2026",
    "years": 3,
    "link": "https://www.amazon.jobs/en/jobs/10598028/applied-scientist-fauna",
-   "query": "data",
-   "first_seen": "2026-11-05T22:37:57+00:00",
-   "seeded": false
-  },
-  {
-   "id": "10598145",
-   "title": "Senior Finance Analyst, Devices FP&A, Opex Reporting and Innovation team",
-   "location": "Bellevue, Washington, USA",
-   "team": "finance",
-   "posted_date": "November  5, 2026",
-   "years": 3,
-   "link": "https://www.amazon.jobs/en/jobs/10598145/senior-finance-analyst-devices-fp-a-opex-reporting-and-innovation-team",
-   "query": "data",
-   "first_seen": "2026-11-05T22:37:57+00:00",
-   "seeded": false
-  },
-  {
-   "id": "10598241",
-   "title": "Vendor Management PM , Business Operations",
-   "location": "Bellevue, Washington, USA",
-   "team": "aws",
-   "posted_date": "November  5, 2026",
-   "years": 3,
-   "link": "https://www.amazon.jobs/en/jobs/10598241/vendor-management-pm-business-operations",
-   "query": "data",
-   "first_seen": "2026-11-05T22:37:57+00:00",
-   "seeded": false
-  },
-  {
-   "id": "10598111",
-   "title": "Product Operations Coordinator, MGM+ Network Operations",
-   "location": "New York, New York, USA",
-   "team": "entertainment",
-   "posted_date": "November  5, 2026",
-   "years": 1,
-   "link": "https://www.amazon.jobs/en/jobs/10598111/product-operations-coordinator-mgm-network-operations",
-   "query": "data",
-   "first_seen": "2026-11-05T22:37:57+00:00",
-   "seeded": false
-  },
-  {
-   "id": "10598162",
-   "title": "Data Engineer I, Secure Third Party Tools (S3T)",
-   "location": "Austin, Texas, USA",
-   "team": "amazon-security",
-   "posted_date": "November  5, 2026",
-   "years": 1,
-   "link": "https://www.amazon.jobs/en/jobs/10598162/data-engineer-i-secure-third-party-tools-s3t",
    "query": "data",
    "first_seen": "2026-11-05T22:37:57+00:00",
    "seeded": false
