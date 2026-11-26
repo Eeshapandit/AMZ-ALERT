@@ -1,6 +1,34 @@
 {
 "jobs": [
 {
+"id": "amz:10614931",
+"company": "Amazon",
+"title": "Business Analyst III - AMZ10564071",
+"role": "Analyst",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 1,
+"link": "https://www.amazon.jobs/en/jobs/10614931/business-analyst-iii-amz10564071",
+"posted": "November 25, 2026",
+"first_seen": "2026-11-26T05:11:50+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
+"id": "gh:discord:8942144002",
+"company": "Discord",
+"title": "Data Engineer",
+"role": "Data Engineer",
+"location": "San Francisco Bay Area",
+"mode": "Onsite/Hybrid",
+"years": 2,
+"link": "https://job-boards.greenhouse.io/discord/jobs/8942144002",
+"posted": "2026-11-25T20:13:44-05:00",
+"first_seen": "2026-11-26T05:11:50+00:00",
+"seeded": false,
+"sector": ""
+},
+{
 "id": "gh:zola:8963080002",
 "company": "Zola",
 "title": "Director of Analytics",
@@ -2451,5 +2479,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-25T23:20:20+00:00"
+"updated": "2026-11-26T05:11:50+00:00"
 }
