@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-26T11:26:47+00:00",
+ "updated": "2026-11-26T20:28:43+00:00",
  "jobs": [
+  {
+   "id": "10615350",
+   "title": "Data Center Technician - Day Shift",
+   "location": "Andrews, Texas, USA",
+   "team": "aws",
+   "posted_date": "November 26, 2026",
+   "years": 2,
+   "link": "https://www.amazon.jobs/en/jobs/10615350/data-center-technician-day-shift",
+   "query": "data",
+   "first_seen": "2026-11-26T20:28:43+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10615349",
+   "title": "Data Center Technician - Day Shift",
+   "location": "Andrews, Texas, USA",
+   "team": "aws",
+   "posted_date": "November 26, 2026",
+   "years": 1,
+   "link": "https://www.amazon.jobs/en/jobs/10615349/data-center-technician-day-shift",
+   "query": "data",
+   "first_seen": "2026-11-26T20:28:43+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10598028",
+   "title": "Applied Scientist , Fauna",
+   "location": "New York, New York, USA",
+   "team": "subsidiaries",
+   "posted_date": "November  5, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10598028/applied-scientist-fauna",
+   "query": "applied scientist",
+   "first_seen": "2026-11-26T20:28:43+00:00",
+   "seeded": false
+  },
   {
    "id": "10614336",
    "title": "Product Manager, Commerce",
@@ -11963,42 +11999,6 @@
    "link": "https://www.amazon.jobs/en/jobs/10568209/software-development-engineer-flight-software-ai",
    "query": "AI engineer",
    "first_seen": "2026-11-06T02:50:50+00:00",
-   "seeded": false
-  },
-  {
-   "id": "10598084",
-   "title": "Site EHS Manager II",
-   "location": "Spanaway, Washington, USA",
-   "team": "fulfillment-and-operations",
-   "posted_date": "November  5, 2026",
-   "years": 3,
-   "link": "https://www.amazon.jobs/en/jobs/10598084/site-ehs-manager-ii",
-   "query": "data",
-   "first_seen": "2026-11-05T22:37:57+00:00",
-   "seeded": false
-  },
-  {
-   "id": "10598066",
-   "title": "Spacecraft Design CAD, Mech Engineer, Configuration Management",
-   "location": "Redmond, Washington, USA",
-   "team": "alexa-and-amazon-devices",
-   "posted_date": "November  5, 2026",
-   "years": 3,
-   "link": "https://www.amazon.jobs/en/jobs/10598066/spacecraft-design-cad-mech-engineer-configuration-management",
-   "query": "data",
-   "first_seen": "2026-11-05T22:37:57+00:00",
-   "seeded": false
-  },
-  {
-   "id": "10598085",
-   "title": "Solutions Architect II-AMZ004289",
-   "location": "Dallas, Texas, USA",
-   "team": "no-business-category",
-   "posted_date": "November  5, 2026",
-   "years": null,
-   "link": "https://www.amazon.jobs/en/jobs/10598085/solutions-architect-ii-amz004289",
-   "query": "data",
-   "first_seen": "2026-11-05T22:37:57+00:00",
    "seeded": false
   }
  ]
