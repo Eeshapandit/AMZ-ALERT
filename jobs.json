@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-26T02:29:18+00:00",
+ "updated": "2026-11-26T11:26:47+00:00",
  "jobs": [
+  {
+   "id": "10614336",
+   "title": "Product Manager, Commerce",
+   "location": "Culver City, California, USA",
+   "team": "subsidiaries",
+   "posted_date": "November 26, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10614336/product-manager-commerce",
+   "query": "data",
+   "first_seen": "2026-11-26T11:26:47+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10598162",
+   "title": "Data Engineer I, Secure Third Party Tools (S3T)",
+   "location": "Austin, Texas, USA",
+   "team": "amazon-security",
+   "posted_date": "November  5, 2026",
+   "years": 1,
+   "link": "https://www.amazon.jobs/en/jobs/10598162/data-engineer-i-secure-third-party-tools-s3t",
+   "query": "data engineer",
+   "first_seen": "2026-11-26T11:26:47+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10598145",
+   "title": "Senior Finance Analyst, Devices FP&A, Opex Reporting and Innovation team",
+   "location": "Bellevue, Washington, USA",
+   "team": "finance",
+   "posted_date": "November  5, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10598145/senior-finance-analyst-devices-fp-a-opex-reporting-and-innovation-team",
+   "query": "business intelligence",
+   "first_seen": "2026-11-26T11:26:47+00:00",
+   "seeded": false
+  },
   {
    "id": "10614931",
    "title": "Business Analyst III - AMZ10564071",
@@ -11961,42 +11997,6 @@
    "posted_date": "November  5, 2026",
    "years": null,
    "link": "https://www.amazon.jobs/en/jobs/10598085/solutions-architect-ii-amz004289",
-   "query": "data",
-   "first_seen": "2026-11-05T22:37:57+00:00",
-   "seeded": false
-  },
-  {
-   "id": "10598122",
-   "title": "Financial Analyst , Amazon Logistics, NA AMZL Central Finance",
-   "location": "Irving, Texas, USA",
-   "team": "finance",
-   "posted_date": "November  5, 2026",
-   "years": 1,
-   "link": "https://www.amazon.jobs/en/jobs/10598122/financial-analyst-amazon-logistics-na-amzl-central-finance",
-   "query": "data",
-   "first_seen": "2026-11-05T22:37:57+00:00",
-   "seeded": false
-  },
-  {
-   "id": "10598053",
-   "title": "Antenna Systems Engineer, Amazon Leo Antenna Development",
-   "location": "Redmond, Washington, USA",
-   "team": "alexa-and-amazon-devices",
-   "posted_date": "November  5, 2026",
-   "years": null,
-   "link": "https://www.amazon.jobs/en/jobs/10598053/antenna-systems-engineer-amazon-leo-antenna-development",
-   "query": "data",
-   "first_seen": "2026-11-05T22:37:57+00:00",
-   "seeded": false
-  },
-  {
-   "id": "10598028",
-   "title": "Applied Scientist , Fauna",
-   "location": "New York, New York, USA",
-   "team": "subsidiaries",
-   "posted_date": "November  5, 2026",
-   "years": 3,
-   "link": "https://www.amazon.jobs/en/jobs/10598028/applied-scientist-fauna",
    "query": "data",
    "first_seen": "2026-11-05T22:37:57+00:00",
    "seeded": false
