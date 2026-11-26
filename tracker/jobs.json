@@ -239,20 +239,6 @@
 "sector": "retail"
 },
 {
-"id": "amz:10608813",
-"company": "Amazon",
-"title": "Data Engineer I, Intelligent Talent Acquisition (ITA) - Data",
-"role": "Data Engineer",
-"location": "Seattle, Washington, USA",
-"mode": "Onsite/Hybrid",
-"years": 1,
-"link": "https://www.amazon.jobs/en/jobs/10608813/data-engineer-i-intelligent-talent-acquisition-ita-data",
-"posted": "November 23, 2026",
-"first_seen": "2026-11-24T01:15:33+00:00",
-"seeded": false,
-"sector": "retail"
-},
-{
 "id": "amz:10611635",
 "company": "Amazon",
 "title": "Software Development Engineer - Data",
@@ -2479,5 +2465,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-26T05:11:50+00:00"
+"updated": "2026-11-26T15:22:42+00:00"
 }
