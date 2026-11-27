@@ -5,8 +5,8 @@
  },
  "ok": {
   "amazon:amazon": {
-   "matching": 78,
-   "open": 192
+   "matching": 77,
+   "open": 191
   },
   "ashby:abridge": {
    "matching": 0,
@@ -62,11 +62,11 @@
   },
   "ashby:elevenlabs": {
    "matching": 1,
-   "open": 109
+   "open": 108
   },
   "ashby:harvey": {
    "matching": 6,
-   "open": 391
+   "open": 390
   },
   "ashby:hex": {
    "matching": 0,
@@ -210,7 +210,7 @@
   },
   "greenhouse:airbnb": {
    "matching": 0,
-   "open": 202
+   "open": 201
   },
   "greenhouse:airtable": {
    "matching": 0,
@@ -218,7 +218,7 @@
   },
   "greenhouse:aloyoga": {
    "matching": 8,
-   "open": 728
+   "open": 729
   },
   "greenhouse:andurilindustries": {
    "matching": 11,
@@ -270,7 +270,7 @@
   },
   "greenhouse:cloudflare": {
    "matching": 2,
-   "open": 528
+   "open": 530
   },
   "greenhouse:cockroachlabs": {
    "matching": 0,
@@ -282,11 +282,11 @@
   },
   "greenhouse:databricks": {
    "matching": 25,
-   "open": 882
+   "open": 879
   },
   "greenhouse:datadog": {
    "matching": 2,
-   "open": 392
+   "open": 390
   },
   "greenhouse:discord": {
    "matching": 3,
@@ -338,11 +338,11 @@
   },
   "greenhouse:flexport": {
    "matching": 0,
-   "open": 212
+   "open": 211
   },
   "greenhouse:gitlab": {
    "matching": 0,
-   "open": 242
+   "open": 243
   },
   "greenhouse:gleanwork": {
    "matching": 3,
@@ -370,11 +370,11 @@
   },
   "greenhouse:hellofresh": {
    "matching": 0,
-   "open": 359
+   "open": 360
   },
   "greenhouse:imc": {
    "matching": 0,
-   "open": 149
+   "open": 150
   },
   "greenhouse:instacart": {
    "matching": 0,
@@ -446,11 +446,11 @@
   },
   "greenhouse:nuro": {
    "matching": 0,
-   "open": 106
+   "open": 107
   },
   "greenhouse:okta": {
    "matching": 1,
-   "open": 360
+   "open": 362
   },
   "greenhouse:optiver": {
    "matching": 0,
@@ -494,7 +494,7 @@
   },
   "greenhouse:robinhood": {
    "matching": 0,
-   "open": 162
+   "open": 161
   },
   "greenhouse:roblox": {
    "matching": 2,
@@ -506,7 +506,7 @@
   },
   "greenhouse:samsara": {
    "matching": 2,
-   "open": 300
+   "open": 298
   },
   "greenhouse:scaleai": {
    "matching": 5,
@@ -534,7 +534,7 @@
   },
   "greenhouse:stripe": {
    "matching": 6,
-   "open": 768
+   "open": 767
   },
   "greenhouse:sweetgreen": {
    "matching": 0,
@@ -554,7 +554,7 @@
   },
   "greenhouse:twilio": {
    "matching": 0,
-   "open": 113
+   "open": 112
   },
   "greenhouse:twitch": {
    "matching": 0,
@@ -566,7 +566,7 @@
   },
   "greenhouse:verkada": {
    "matching": 0,
-   "open": 350
+   "open": 349
   },
   "greenhouse:vuori": {
    "matching": 0,
@@ -658,7 +658,7 @@
   }
  },
  "summary": {
-  "candidates": 334,
+  "candidates": 333,
   "kept": 177,
   "sources_failed": 2,
   "sources_ok": 163
