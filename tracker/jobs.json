@@ -1,6 +1,20 @@
 {
 "jobs": [
 {
+"id": "amz:10616076",
+"company": "Amazon",
+"title": "Data Engineer I, SPIV Data Engineering",
+"role": "Data Engineer",
+"location": "Seattle, Washington, USA",
+"mode": "Onsite/Hybrid",
+"years": 1,
+"link": "https://www.amazon.jobs/en/jobs/10616076/data-engineer-i-spiv-data-engineering",
+"posted": "November 28, 2026",
+"first_seen": "2026-11-28T09:22:04+00:00",
+"seeded": false,
+"sector": "retail"
+},
+{
 "id": "gh:databricks:8910846002",
 "company": "Databricks",
 "title": "Associate Forward Deployed Engineer",
@@ -2493,5 +2507,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-28T01:27:06+00:00"
+"updated": "2026-11-28T09:22:04+00:00"
 }

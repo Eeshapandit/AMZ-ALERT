@@ -5,8 +5,8 @@
  },
  "ok": {
   "amazon:amazon": {
-   "matching": 78,
-   "open": 190
+   "matching": 79,
+   "open": 189
   },
   "ashby:abridge": {
    "matching": 0,
@@ -270,7 +270,7 @@
   },
   "greenhouse:cloudflare": {
    "matching": 2,
-   "open": 533
+   "open": 532
   },
   "greenhouse:cockroachlabs": {
    "matching": 0,
@@ -286,7 +286,7 @@
   },
   "greenhouse:datadog": {
    "matching": 2,
-   "open": 390
+   "open": 392
   },
   "greenhouse:discord": {
    "matching": 3,
@@ -506,7 +506,7 @@
   },
   "greenhouse:samsara": {
    "matching": 2,
-   "open": 292
+   "open": 294
   },
   "greenhouse:scaleai": {
    "matching": 5,
@@ -574,7 +574,7 @@
   },
   "greenhouse:waymo": {
    "matching": 1,
-   "open": 354
+   "open": 352
   },
   "greenhouse:weee": {
    "matching": 1,
@@ -658,8 +658,8 @@
   }
  },
  "summary": {
-  "candidates": 335,
-  "kept": 178,
+  "candidates": 336,
+  "kept": 179,
   "sources_failed": 2,
   "sources_ok": 163
  }
