@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-28T03:35:17+00:00",
+ "updated": "2026-11-28T12:21:51+00:00",
  "jobs": [
+  {
+   "id": "10615067",
+   "title": "Program Manager, Content Designer, Learning Innovation, Amazon Customer Service",
+   "location": "Seattle, Washington, USA",
+   "team": "customer-service",
+   "posted_date": "November 26, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10615067/program-manager-content-designer-learning-innovation-amazon-customer-service",
+   "query": "data",
+   "first_seen": "2026-11-28T12:21:51+00:00",
+   "seeded": false
+  },
   {
    "id": "10616076",
    "title": "Data Engineer I, SPIV Data Engineering",
@@ -11986,18 +11998,6 @@
    "years": 3,
    "link": "https://www.amazon.jobs/en/jobs/10376511/business-analyst-ii-spt-analytics",
    "query": "data analyst",
-   "first_seen": "2026-11-06T17:43:37+00:00",
-   "seeded": false
-  },
-  {
-   "id": "10598234",
-   "title": "Site EHS Manager II",
-   "location": "Stockton, California, USA",
-   "team": "fulfillment-and-operations",
-   "posted_date": "November  5, 2026",
-   "years": 3,
-   "link": "https://www.amazon.jobs/en/jobs/10598234/site-ehs-manager-ii",
-   "query": "analytics",
    "first_seen": "2026-11-06T17:43:37+00:00",
    "seeded": false
   }
