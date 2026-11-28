@@ -1,6 +1,20 @@
 {
 "jobs": [
 {
+"id": "gh:databricks:8910846002",
+"company": "Databricks",
+"title": "Associate Forward Deployed Engineer",
+"role": "FDE",
+"location": "Mountain View, California",
+"mode": "Onsite/Hybrid",
+"years": 2,
+"link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002",
+"posted": "2026-10-23T11:19:31-04:00",
+"first_seen": "2026-11-28T01:27:06+00:00",
+"seeded": false,
+"sector": ""
+},
+{
 "id": "gh:intercom:8419409",
 "company": "Fin",
 "title": "Senior Director, Forward Deployed Engineering",
@@ -2479,5 +2493,5 @@
 "sector": ""
 }
 ],
-"updated": "2026-11-26T23:56:50+00:00"
+"updated": "2026-11-28T01:27:06+00:00"
 }
