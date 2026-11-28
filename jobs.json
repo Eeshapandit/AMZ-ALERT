@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-27T21:41:21+00:00",
+ "updated": "2026-11-28T03:35:17+00:00",
  "jobs": [
+  {
+   "id": "10616076",
+   "title": "Data Engineer I, SPIV Data Engineering",
+   "location": "Seattle, Washington, USA",
+   "team": "selling-partner-services",
+   "posted_date": "November 28, 2026",
+   "years": 1,
+   "link": "https://www.amazon.jobs/en/jobs/10616076/data-engineer-i-spiv-data-engineering",
+   "query": "data engineer",
+   "first_seen": "2026-11-28T03:35:17+00:00",
+   "seeded": false
+  },
+  {
+   "id": "10568209",
+   "title": "Software Development Engineer, Flight Software AI ",
+   "location": "Redmond, Washington, USA",
+   "team": "alexa-and-amazon-devices",
+   "posted_date": "October  2, 2026",
+   "years": 3,
+   "link": "https://www.amazon.jobs/en/jobs/10568209/software-development-engineer-flight-software-ai",
+   "query": "AI engineer",
+   "first_seen": "2026-11-28T03:35:17+00:00",
+   "seeded": false
+  },
   {
    "id": "10615996",
    "title": "Software Development Engineer, Amazon Leo - GNC SW",
@@ -11974,30 +11998,6 @@
    "years": 3,
    "link": "https://www.amazon.jobs/en/jobs/10598234/site-ehs-manager-ii",
    "query": "analytics",
-   "first_seen": "2026-11-06T17:43:37+00:00",
-   "seeded": false
-  },
-  {
-   "id": "10598800",
-   "title": "ASIC III \u2013 AMZ010066",
-   "location": "Austin, Texas, USA",
-   "team": "no-business-category",
-   "posted_date": "November  6, 2026",
-   "years": null,
-   "link": "https://www.amazon.jobs/en/jobs/10598800/asic-iii-amz010066",
-   "query": "machine learning",
-   "first_seen": "2026-11-06T17:43:37+00:00",
-   "seeded": false
-  },
-  {
-   "id": "10598761",
-   "title": "Cloud HDE II - AMZ009076",
-   "location": "Austin, Texas, USA",
-   "team": "no-business-category",
-   "posted_date": "November  6, 2026",
-   "years": null,
-   "link": "https://www.amazon.jobs/en/jobs/10598761/cloud-hde-ii-amz009076",
-   "query": "machine learning",
    "first_seen": "2026-11-06T17:43:37+00:00",
    "seeded": false
   }
